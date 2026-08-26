@@ -34,6 +34,9 @@ See [README_BENCHMARK_SUITE.md](README_BENCHMARK_SUITE.md) for the complete
 experimental design, baseline mapping, local llama.cpp commands, and output
 layout.
 
+For project status, exact rerun order, validation results, and known caveats,
+see the Korean [handoff document](HANDOFF.md).
+
 Install the Python dependencies with:
 
 ```bash
@@ -43,4 +46,3 @@ python -m pip install -r requirements-benchmark.txt
 The GGUF model weights and llama.cpp binaries are intentionally excluded from
 Git. Download the Qwen GGUF files separately and place them under
 `data/real_llm/models/` before rerunning local inference.
-
