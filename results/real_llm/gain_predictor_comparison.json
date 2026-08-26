@@ -1,0 +1,85 @@
+{
+  "selection_rule": "maximize train OOF top-50 gain, then OOF Spearman",
+  "selected_model": "random-forest",
+  "train_oof": [
+    {
+      "model": "random-forest",
+      "cv_spearman": 0.04424827811590677,
+      "cv_mae": 0.395661167939732,
+      "top_25_gain": 7.0,
+      "top_50_gain": 17.0,
+      "top_100_gain": 21.0
+    },
+    {
+      "model": "ridge-rich-a100",
+      "cv_spearman": 0.07185134984272094,
+      "cv_mae": 0.3919577877727205,
+      "top_25_gain": 7.0,
+      "top_50_gain": 13.0,
+      "top_100_gain": 24.0
+    },
+    {
+      "model": "ridge-rich-a10",
+      "cv_spearman": 0.03081662125911893,
+      "cv_mae": 0.4011212122408589,
+      "top_25_gain": 5.0,
+      "top_50_gain": 12.0,
+      "top_100_gain": 18.0
+    },
+    {
+      "model": "heuristic-one-minus-maxprob",
+      "cv_spearman": 0.06161684685735876,
+      "cv_mae": NaN,
+      "top_25_gain": 3.0,
+      "top_50_gain": 11.0,
+      "top_100_gain": 15.0
+    },
+    {
+      "model": "heuristic-entropy",
+      "cv_spearman": 0.05861644091648238,
+      "cv_mae": NaN,
+      "top_25_gain": 4.0,
+      "top_50_gain": 9.0,
+      "top_100_gain": 20.0
+    },
+    {
+      "model": "extra-trees",
+      "cv_spearman": 0.027489249142444064,
+      "cv_mae": 0.39812615485099695,
+      "top_25_gain": 6.0,
+      "top_50_gain": 9.0,
+      "top_100_gain": 16.0
+    },
+    {
+      "model": "ridge-rich-a1",
+      "cv_spearman": -0.02583003193752314,
+      "cv_mae": 0.4485434570886133,
+      "top_25_gain": 6.0,
+      "top_50_gain": 8.0,
+      "top_100_gain": 16.0
+    },
+    {
+      "model": "heuristic-negative-margin",
+      "cv_spearman": 0.06800198013293114,
+      "cv_mae": NaN,
+      "top_25_gain": 3.0,
+      "top_50_gain": 7.0,
+      "top_100_gain": 20.0
+    },
+    {
+      "model": "hist-gradient-boosting",
+      "cv_spearman": 0.019767484769499948,
+      "cv_mae": 0.42937494352890493,
+      "top_25_gain": 7.0,
+      "top_50_gain": 6.0,
+      "top_100_gain": 19.0
+    }
+  ],
+  "test_diagnostic_after_selection": {
+    "spearman": 0.0820011165203229,
+    "mae": 0.4170707469759378,
+    "top_25_gain": 5.0,
+    "top_50_gain": 11.0,
+    "top_100_gain": 19.0
+  }
+}

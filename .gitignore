@@ -1,0 +1,27 @@
+# Local model weights and inference runtimes
+*.gguf
+tools/
+
+# Download archives and temporary/render files
+tmp/
+results/benchmark_suite_smoke/
+*.zip
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local secrets and editor/OS metadata
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

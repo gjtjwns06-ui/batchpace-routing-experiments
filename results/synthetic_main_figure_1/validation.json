@@ -1,0 +1,8 @@
+{
+  "records_checked": 1200,
+  "max_epsilon_zero_gain_difference": 0.0,
+  "max_m_one_gain_difference": 0.0,
+  "all_budget_constraints_satisfied": true,
+  "all_recoveries_in_unit_interval": true,
+  "full_records_checked": 30000
+}

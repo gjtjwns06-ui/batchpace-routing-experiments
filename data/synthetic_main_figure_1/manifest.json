@@ -1,0 +1,471 @@
+{
+  "dataset": "BatchPace Main Figure 1 synthetic controlled study",
+  "schema_version": 1,
+  "root_seed": 20260825,
+  "parameters": {
+    "n_queries_per_test_episode": 1000,
+    "test_episodes": 250,
+    "calibration_batches": 1000,
+    "budget": 50,
+    "base_batch_size": 20,
+    "base_n_batches": 50,
+    "high_probability": 0.2,
+    "low_gain_beta": [
+      1.0,
+      12.0
+    ],
+    "high_gain_beta": [
+      5.0,
+      2.0
+    ],
+    "prediction_error_epsilons": [
+      0.0,
+      0.05,
+      0.1,
+      0.2,
+      0.3,
+      0.4
+    ],
+    "batch_sizes": [
+      1,
+      5,
+      10,
+      20,
+      50,
+      100
+    ],
+    "batch_sweep_epsilon": 0.1
+  },
+  "score_definition": "predicted_score = clip(true_gain + epsilon * unit_noise, 0, 1)",
+  "array_key_pattern": "m{batch_size:03d}_{environment}_{true_gain|high_state|unit_noise}",
+  "index_semantics": {
+    "test": "array[episode, query_id]; batch_id = query_id // batch_size",
+    "calibration": "array[calibration_batch_id, query_in_batch]"
+  },
+  "random_streams": {
+    "test:m=20:iid": 11761455413930145284,
+    "test:m=20:bursty": 3998309360295659197,
+    "calibration:m=20:iid": 6812524985358566035,
+    "calibration:m=20:bursty": 3506224309126338423,
+    "test:m=1:iid": 2404273930282921969,
+    "test:m=1:bursty": 4393277626141457885,
+    "test:m=5:iid": 3549509296184806654,
+    "test:m=5:bursty": 16591663644426416636,
+    "test:m=10:iid": 5640730788058707687,
+    "test:m=10:bursty": 10039522501653643170,
+    "test:m=50:iid": 17377351634812868334,
+    "test:m=50:bursty": 2772085602340390580,
+    "test:m=100:iid": 9957792206883858822,
+    "test:m=100:bursty": 15354260147284716929,
+    "calibration:m=1:iid": 3366837741069155403,
+    "calibration:m=1:bursty": 6796558424644985289,
+    "calibration:m=5:iid": 10182635865695086182,
+    "calibration:m=5:bursty": 5422476575746479629,
+    "calibration:m=10:iid": 15624986928210585378,
+    "calibration:m=10:bursty": 11836081277955632868,
+    "calibration:m=50:iid": 9057956474664350073,
+    "calibration:m=50:bursty": 10998735882819521889,
+    "calibration:m=100:iid": 4070034883456783238,
+    "calibration:m=100:bursty": 2277565281320249192
+  },
+  "files": {
+    "fig1a_test.npz": {
+      "bytes": 3722760,
+      "sha256": "131b55228d4db7873a194f85b4d66df2622658f48103c25730e4363b5aa63665"
+    },
+    "fig1a_calibration.npz": {
+      "bytes": 299172,
+      "sha256": "d029483ed7d1a2d434afdffb9289aa988205dd9f1c73c4b989c4307a376df324"
+    },
+    "fig1b_test.npz": {
+      "bytes": 22369251,
+      "sha256": "da28ea6a88f0ce468b8f0be8aad8799a81da5ff13c26b681e7b61da2f24a9029"
+    },
+    "fig1b_calibration.npz": {
+      "bytes": 2776549,
+      "sha256": "a397869c0405965d9d3a6da560306540c61a8e1f8823161b22d6e074d18830ae"
+    },
+    "fig1a_preview.jsonl": {
+      "bytes": 8490,
+      "sha256": "ce2b3f9289dd56dca762435e07beec75297d4cf8f2e94735fd857f4011480faf"
+    },
+    "fig1b_preview.jsonl": {
+      "bytes": 8471,
+      "sha256": "b32dd85d929c5da8f5321c92ea3af601dada87da2f0fc25b5196de10d5ba5ba9"
+    }
+  },
+  "validation": {
+    "fig1a_test": {
+      "m=20/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.200052,
+        "mean_true_gain": 0.20465005934238434,
+        "min_true_gain": 1.3942241139375255e-07,
+        "max_true_gain": 0.9990571141242981,
+        "min_unit_noise": -0.9999843835830688,
+        "max_unit_noise": 0.9999935626983643,
+        "constant_state_batch_rate": 0.01096
+      },
+      "m=20/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.20336,
+        "mean_true_gain": 0.20662404596805573,
+        "min_true_gain": 2.4982486479530053e-07,
+        "max_true_gain": 0.9989515542984009,
+        "min_unit_noise": -0.9999933838844299,
+        "max_unit_noise": 0.9999910593032837,
+        "constant_state_batch_rate": 1.0
+      }
+    },
+    "fig1a_calibration": {
+      "m=20/iid": {
+        "shape": [
+          1000,
+          20
+        ],
+        "high_rate": 0.2033,
+        "mean_true_gain": 0.20695917308330536,
+        "min_true_gain": 8.591690857429057e-06,
+        "max_true_gain": 0.9942993521690369,
+        "min_unit_noise": -0.9999905824661255,
+        "max_unit_noise": 0.999941885471344,
+        "constant_state_batch_rate": 0.004
+      },
+      "m=20/bursty": {
+        "shape": [
+          1000,
+          20
+        ],
+        "high_rate": 0.2,
+        "mean_true_gain": 0.20401708781719208,
+        "min_true_gain": 1.7393527741660364e-05,
+        "max_true_gain": 0.9945652484893799,
+        "min_unit_noise": -0.999961793422699,
+        "max_unit_noise": 0.9999849796295166,
+        "constant_state_batch_rate": 1.0
+      }
+    },
+    "fig1b_test": {
+      "m=1/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.199836,
+        "mean_true_gain": 0.20433409512043,
+        "min_true_gain": 6.593122634512838e-07,
+        "max_true_gain": 0.9995146989822388,
+        "min_unit_noise": -0.9999796152114868,
+        "max_unit_noise": 0.9999827742576599,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=1/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.19954,
+        "mean_true_gain": 0.20422232151031494,
+        "min_true_gain": 4.4526566966851533e-07,
+        "max_true_gain": 0.9998347759246826,
+        "min_unit_noise": -0.9999929070472717,
+        "max_unit_noise": 0.9999895691871643,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=5/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.200704,
+        "mean_true_gain": 0.20480959117412567,
+        "min_true_gain": 1.0453138798993677e-08,
+        "max_true_gain": 0.9982848763465881,
+        "min_unit_noise": -0.9999947547912598,
+        "max_unit_noise": 0.9999898076057434,
+        "constant_state_batch_rate": 0.32662
+      },
+      "m=5/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.1983,
+        "mean_true_gain": 0.20348894596099854,
+        "min_true_gain": 3.446774199389324e-09,
+        "max_true_gain": 0.9990119338035583,
+        "min_unit_noise": -0.9999918937683105,
+        "max_unit_noise": 0.9999918341636658,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=10/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.199056,
+        "mean_true_gain": 0.20398370921611786,
+        "min_true_gain": 4.0124103861671756e-07,
+        "max_true_gain": 0.9981868267059326,
+        "min_unit_noise": -0.9999828338623047,
+        "max_unit_noise": 0.9999924302101135,
+        "constant_state_batch_rate": 0.11104
+      },
+      "m=10/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.20308,
+        "mean_true_gain": 0.2062930017709732,
+        "min_true_gain": 2.2276749334082524e-08,
+        "max_true_gain": 0.9993120431900024,
+        "min_unit_noise": -0.9999900460243225,
+        "max_unit_noise": 0.9999960064888,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=20/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.200052,
+        "mean_true_gain": 0.20465005934238434,
+        "min_true_gain": 1.3942241139375255e-07,
+        "max_true_gain": 0.9990571141242981,
+        "min_unit_noise": -0.9999843835830688,
+        "max_unit_noise": 0.9999935626983643,
+        "constant_state_batch_rate": 0.01096
+      },
+      "m=20/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.20336,
+        "mean_true_gain": 0.20662404596805573,
+        "min_true_gain": 2.4982486479530053e-07,
+        "max_true_gain": 0.9989515542984009,
+        "min_unit_noise": -0.9999933838844299,
+        "max_unit_noise": 0.9999910593032837,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=50/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.199244,
+        "mean_true_gain": 0.20370209217071533,
+        "min_true_gain": 2.8092804882362543e-07,
+        "max_true_gain": 0.9994718432426453,
+        "min_unit_noise": -0.9999780654907227,
+        "max_unit_noise": 0.9999925494194031,
+        "constant_state_batch_rate": 0.0
+      },
+      "m=50/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.2006,
+        "mean_true_gain": 0.20482982695102692,
+        "min_true_gain": 8.28021882171015e-08,
+        "max_true_gain": 0.9990395307540894,
+        "min_unit_noise": -0.9999880790710449,
+        "max_unit_noise": 0.9999939203262329,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=100/iid": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.199872,
+        "mean_true_gain": 0.2042146772146225,
+        "min_true_gain": 4.867451366408204e-07,
+        "max_true_gain": 0.9982580542564392,
+        "min_unit_noise": -0.999993622303009,
+        "max_unit_noise": 0.9999903440475464,
+        "constant_state_batch_rate": 0.0
+      },
+      "m=100/bursty": {
+        "shape": [
+          250,
+          1000
+        ],
+        "high_rate": 0.1968,
+        "mean_true_gain": 0.20225472748279572,
+        "min_true_gain": 5.382566428124846e-07,
+        "max_true_gain": 0.9988328814506531,
+        "min_unit_noise": -0.9999979138374329,
+        "max_unit_noise": 0.999993085861206,
+        "constant_state_batch_rate": 1.0
+      }
+    },
+    "fig1b_calibration": {
+      "m=1/iid": {
+        "shape": [
+          1000,
+          1
+        ],
+        "high_rate": 0.206,
+        "mean_true_gain": 0.20770080387592316,
+        "min_true_gain": 0.0001952472230186686,
+        "max_true_gain": 0.9667174816131592,
+        "min_unit_noise": -0.9970195889472961,
+        "max_unit_noise": 0.9999399185180664,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=1/bursty": {
+        "shape": [
+          1000,
+          1
+        ],
+        "high_rate": 0.197,
+        "mean_true_gain": 0.20102275907993317,
+        "min_true_gain": 2.293695433763787e-05,
+        "max_true_gain": 0.9747157692909241,
+        "min_unit_noise": -0.9989816546440125,
+        "max_unit_noise": 0.9979422092437744,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=5/iid": {
+        "shape": [
+          1000,
+          5
+        ],
+        "high_rate": 0.1988,
+        "mean_true_gain": 0.20435281097888947,
+        "min_true_gain": 2.164303805329837e-05,
+        "max_true_gain": 0.9903858304023743,
+        "min_unit_noise": -0.9997926950454712,
+        "max_unit_noise": 0.9994022250175476,
+        "constant_state_batch_rate": 0.339
+      },
+      "m=5/bursty": {
+        "shape": [
+          1000,
+          5
+        ],
+        "high_rate": 0.209,
+        "mean_true_gain": 0.20888318121433258,
+        "min_true_gain": 2.8980487059016014e-06,
+        "max_true_gain": 0.9909493327140808,
+        "min_unit_noise": -0.9993221759796143,
+        "max_unit_noise": 0.9990045428276062,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=10/iid": {
+        "shape": [
+          1000,
+          10
+        ],
+        "high_rate": 0.1998,
+        "mean_true_gain": 0.20471182465553284,
+        "min_true_gain": 1.9703618818311952e-05,
+        "max_true_gain": 0.9980301260948181,
+        "min_unit_noise": -0.9999648332595825,
+        "max_unit_noise": 0.999978244304657,
+        "constant_state_batch_rate": 0.098
+      },
+      "m=10/bursty": {
+        "shape": [
+          1000,
+          10
+        ],
+        "high_rate": 0.215,
+        "mean_true_gain": 0.2147354781627655,
+        "min_true_gain": 4.710522262030281e-06,
+        "max_true_gain": 0.9981957077980042,
+        "min_unit_noise": -0.9996137022972107,
+        "max_unit_noise": 0.9998894929885864,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=20/iid": {
+        "shape": [
+          1000,
+          20
+        ],
+        "high_rate": 0.2033,
+        "mean_true_gain": 0.20695917308330536,
+        "min_true_gain": 8.591690857429057e-06,
+        "max_true_gain": 0.9942993521690369,
+        "min_unit_noise": -0.9999905824661255,
+        "max_unit_noise": 0.999941885471344,
+        "constant_state_batch_rate": 0.004
+      },
+      "m=20/bursty": {
+        "shape": [
+          1000,
+          20
+        ],
+        "high_rate": 0.2,
+        "mean_true_gain": 0.20401708781719208,
+        "min_true_gain": 1.7393527741660364e-05,
+        "max_true_gain": 0.9945652484893799,
+        "min_unit_noise": -0.999961793422699,
+        "max_unit_noise": 0.9999849796295166,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=50/iid": {
+        "shape": [
+          1000,
+          50
+        ],
+        "high_rate": 0.20152,
+        "mean_true_gain": 0.20556573569774628,
+        "min_true_gain": 2.886373295041267e-06,
+        "max_true_gain": 0.9969048500061035,
+        "min_unit_noise": -0.9999489188194275,
+        "max_unit_noise": 0.9999887943267822,
+        "constant_state_batch_rate": 0.0
+      },
+      "m=50/bursty": {
+        "shape": [
+          1000,
+          50
+        ],
+        "high_rate": 0.2,
+        "mean_true_gain": 0.20422501862049103,
+        "min_true_gain": 1.1034478575311368e-06,
+        "max_true_gain": 0.999763011932373,
+        "min_unit_noise": -0.9999141693115234,
+        "max_unit_noise": 0.9999539256095886,
+        "constant_state_batch_rate": 1.0
+      },
+      "m=100/iid": {
+        "shape": [
+          1000,
+          100
+        ],
+        "high_rate": 0.19987,
+        "mean_true_gain": 0.20448759198188782,
+        "min_true_gain": 6.631226483477803e-07,
+        "max_true_gain": 0.9992812275886536,
+        "min_unit_noise": -0.9999662637710571,
+        "max_unit_noise": 0.9999677538871765,
+        "constant_state_batch_rate": 0.0
+      },
+      "m=100/bursty": {
+        "shape": [
+          1000,
+          100
+        ],
+        "high_rate": 0.211,
+        "mean_true_gain": 0.21117275953292847,
+        "min_true_gain": 1.7262199492051877e-07,
+        "max_true_gain": 0.9983227849006653,
+        "min_unit_noise": -0.999977707862854,
+        "max_unit_noise": 0.9999843835830688,
+        "constant_state_batch_rate": 1.0
+      }
+    }
+  }
+}

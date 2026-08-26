@@ -1,0 +1,62 @@
+{
+  "dataset": "TIGER-Lab/MMLU-Pro",
+  "dataset_revision": "b189ec765aa7ed75c8acfea42df31fdae71f97be",
+  "source_file": "C:\\Users\\gjtjw\\Desktop\\논문실험\\data\\real_llm\\mmlu_pro\\data\\test-00000-of-00001.parquet",
+  "source_sha256": "0e24a191921c2f453518a537a8b2117bd137e7714d4ef1565e9ba06c1ecb9ad8",
+  "seed": 20260825,
+  "rows": {
+    "train": 500,
+    "calibration": 500,
+    "test": 500
+  },
+  "categories": {
+    "train": {
+      "biology": 30,
+      "business": 33,
+      "chemistry": 47,
+      "computer science": 17,
+      "economics": 35,
+      "engineering": 40,
+      "health": 34,
+      "history": 16,
+      "law": 46,
+      "math": 56,
+      "other": 38,
+      "philosophy": 21,
+      "physics": 54,
+      "psychology": 33
+    },
+    "calibration": {
+      "biology": 30,
+      "business": 32,
+      "chemistry": 47,
+      "computer science": 17,
+      "economics": 35,
+      "engineering": 41,
+      "health": 34,
+      "history": 16,
+      "law": 46,
+      "math": 57,
+      "other": 38,
+      "philosophy": 20,
+      "physics": 54,
+      "psychology": 33
+    },
+    "test": {
+      "biology": 29,
+      "business": 33,
+      "chemistry": 47,
+      "computer science": 17,
+      "economics": 35,
+      "engineering": 40,
+      "health": 34,
+      "history": 16,
+      "law": 45,
+      "math": 56,
+      "other": 39,
+      "philosophy": 21,
+      "physics": 54,
+      "psychology": 34
+    }
+  }
+}
