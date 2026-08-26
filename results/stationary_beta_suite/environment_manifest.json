@@ -1,0 +1,322 @@
+[
+  {
+    "environment_id": "beta_01_a0p5_b0p5",
+    "environment_number": 1,
+    "alpha": 0.5,
+    "beta": 0.5,
+    "theoretical_mean": 0.5,
+    "theoretical_variance": 0.125
+  },
+  {
+    "environment_id": "beta_02_a0p5_b1",
+    "environment_number": 2,
+    "alpha": 0.5,
+    "beta": 1.0,
+    "theoretical_mean": 0.3333333333333333,
+    "theoretical_variance": 0.08888888888888889
+  },
+  {
+    "environment_id": "beta_03_a0p5_b2",
+    "environment_number": 3,
+    "alpha": 0.5,
+    "beta": 2.0,
+    "theoretical_mean": 0.2,
+    "theoretical_variance": 0.045714285714285714
+  },
+  {
+    "environment_id": "beta_04_a0p5_b3",
+    "environment_number": 4,
+    "alpha": 0.5,
+    "beta": 3.0,
+    "theoretical_mean": 0.14285714285714285,
+    "theoretical_variance": 0.027210884353741496
+  },
+  {
+    "environment_id": "beta_05_a0p5_b5",
+    "environment_number": 5,
+    "alpha": 0.5,
+    "beta": 5.0,
+    "theoretical_mean": 0.09090909090909091,
+    "theoretical_variance": 0.012714558169103624
+  },
+  {
+    "environment_id": "beta_06_a0p5_b8",
+    "environment_number": 6,
+    "alpha": 0.5,
+    "beta": 8.0,
+    "theoretical_mean": 0.058823529411764705,
+    "theoretical_variance": 0.005827718084137679
+  },
+  {
+    "environment_id": "beta_07_a0p5_b12",
+    "environment_number": 7,
+    "alpha": 0.5,
+    "beta": 12.0,
+    "theoretical_mean": 0.04,
+    "theoretical_variance": 0.0028444444444444446
+  },
+  {
+    "environment_id": "beta_08_a0p5_b20",
+    "environment_number": 8,
+    "alpha": 0.5,
+    "beta": 20.0,
+    "theoretical_mean": 0.024390243902439025,
+    "theoretical_variance": 0.0011067609258055145
+  },
+  {
+    "environment_id": "beta_09_a1_b0p5",
+    "environment_number": 9,
+    "alpha": 1.0,
+    "beta": 0.5,
+    "theoretical_mean": 0.6666666666666666,
+    "theoretical_variance": 0.08888888888888889
+  },
+  {
+    "environment_id": "beta_10_a1_b1",
+    "environment_number": 10,
+    "alpha": 1.0,
+    "beta": 1.0,
+    "theoretical_mean": 0.5,
+    "theoretical_variance": 0.08333333333333333
+  },
+  {
+    "environment_id": "beta_11_a1_b2",
+    "environment_number": 11,
+    "alpha": 1.0,
+    "beta": 2.0,
+    "theoretical_mean": 0.3333333333333333,
+    "theoretical_variance": 0.05555555555555555
+  },
+  {
+    "environment_id": "beta_12_a1_b3",
+    "environment_number": 12,
+    "alpha": 1.0,
+    "beta": 3.0,
+    "theoretical_mean": 0.25,
+    "theoretical_variance": 0.0375
+  },
+  {
+    "environment_id": "beta_13_a1_b5",
+    "environment_number": 13,
+    "alpha": 1.0,
+    "beta": 5.0,
+    "theoretical_mean": 0.16666666666666666,
+    "theoretical_variance": 0.01984126984126984
+  },
+  {
+    "environment_id": "beta_14_a1_b8",
+    "environment_number": 14,
+    "alpha": 1.0,
+    "beta": 8.0,
+    "theoretical_mean": 0.1111111111111111,
+    "theoretical_variance": 0.009876543209876543
+  },
+  {
+    "environment_id": "beta_15_a1_b12",
+    "environment_number": 15,
+    "alpha": 1.0,
+    "beta": 12.0,
+    "theoretical_mean": 0.07692307692307693,
+    "theoretical_variance": 0.00507185122569738
+  },
+  {
+    "environment_id": "beta_16_a1_b20",
+    "environment_number": 16,
+    "alpha": 1.0,
+    "beta": 20.0,
+    "theoretical_mean": 0.047619047619047616,
+    "theoretical_variance": 0.0020614306328592042
+  },
+  {
+    "environment_id": "beta_17_a2_b0p5",
+    "environment_number": 17,
+    "alpha": 2.0,
+    "beta": 0.5,
+    "theoretical_mean": 0.8,
+    "theoretical_variance": 0.045714285714285714
+  },
+  {
+    "environment_id": "beta_18_a2_b1",
+    "environment_number": 18,
+    "alpha": 2.0,
+    "beta": 1.0,
+    "theoretical_mean": 0.6666666666666666,
+    "theoretical_variance": 0.05555555555555555
+  },
+  {
+    "environment_id": "beta_19_a2_b2",
+    "environment_number": 19,
+    "alpha": 2.0,
+    "beta": 2.0,
+    "theoretical_mean": 0.5,
+    "theoretical_variance": 0.05
+  },
+  {
+    "environment_id": "beta_20_a2_b3",
+    "environment_number": 20,
+    "alpha": 2.0,
+    "beta": 3.0,
+    "theoretical_mean": 0.4,
+    "theoretical_variance": 0.04
+  },
+  {
+    "environment_id": "beta_21_a2_b5",
+    "environment_number": 21,
+    "alpha": 2.0,
+    "beta": 5.0,
+    "theoretical_mean": 0.2857142857142857,
+    "theoretical_variance": 0.025510204081632654
+  },
+  {
+    "environment_id": "beta_22_a2_b8",
+    "environment_number": 22,
+    "alpha": 2.0,
+    "beta": 8.0,
+    "theoretical_mean": 0.2,
+    "theoretical_variance": 0.014545454545454545
+  },
+  {
+    "environment_id": "beta_23_a2_b12",
+    "environment_number": 23,
+    "alpha": 2.0,
+    "beta": 12.0,
+    "theoretical_mean": 0.14285714285714285,
+    "theoretical_variance": 0.00816326530612245
+  },
+  {
+    "environment_id": "beta_24_a2_b20",
+    "environment_number": 24,
+    "alpha": 2.0,
+    "beta": 20.0,
+    "theoretical_mean": 0.09090909090909091,
+    "theoretical_variance": 0.0035932446999640674
+  },
+  {
+    "environment_id": "beta_25_a4_b0p5",
+    "environment_number": 25,
+    "alpha": 4.0,
+    "beta": 0.5,
+    "theoretical_mean": 0.8888888888888888,
+    "theoretical_variance": 0.017957351290684626
+  },
+  {
+    "environment_id": "beta_26_a4_b1",
+    "environment_number": 26,
+    "alpha": 4.0,
+    "beta": 1.0,
+    "theoretical_mean": 0.8,
+    "theoretical_variance": 0.02666666666666667
+  },
+  {
+    "environment_id": "beta_27_a4_b2",
+    "environment_number": 27,
+    "alpha": 4.0,
+    "beta": 2.0,
+    "theoretical_mean": 0.6666666666666666,
+    "theoretical_variance": 0.031746031746031744
+  },
+  {
+    "environment_id": "beta_28_a4_b3",
+    "environment_number": 28,
+    "alpha": 4.0,
+    "beta": 3.0,
+    "theoretical_mean": 0.5714285714285714,
+    "theoretical_variance": 0.030612244897959183
+  },
+  {
+    "environment_id": "beta_29_a4_b5",
+    "environment_number": 29,
+    "alpha": 4.0,
+    "beta": 5.0,
+    "theoretical_mean": 0.4444444444444444,
+    "theoretical_variance": 0.024691358024691357
+  },
+  {
+    "environment_id": "beta_30_a4_b8",
+    "environment_number": 30,
+    "alpha": 4.0,
+    "beta": 8.0,
+    "theoretical_mean": 0.3333333333333333,
+    "theoretical_variance": 0.017094017094017096
+  },
+  {
+    "environment_id": "beta_31_a4_b12",
+    "environment_number": 31,
+    "alpha": 4.0,
+    "beta": 12.0,
+    "theoretical_mean": 0.25,
+    "theoretical_variance": 0.011029411764705883
+  },
+  {
+    "environment_id": "beta_32_a4_b20",
+    "environment_number": 32,
+    "alpha": 4.0,
+    "beta": 20.0,
+    "theoretical_mean": 0.16666666666666666,
+    "theoretical_variance": 0.005555555555555556
+  },
+  {
+    "environment_id": "beta_33_a8_b0p5",
+    "environment_number": 33,
+    "alpha": 8.0,
+    "beta": 0.5,
+    "theoretical_mean": 0.9411764705882353,
+    "theoretical_variance": 0.005827718084137679
+  },
+  {
+    "environment_id": "beta_34_a8_b1",
+    "environment_number": 34,
+    "alpha": 8.0,
+    "beta": 1.0,
+    "theoretical_mean": 0.8888888888888888,
+    "theoretical_variance": 0.009876543209876543
+  },
+  {
+    "environment_id": "beta_35_a8_b2",
+    "environment_number": 35,
+    "alpha": 8.0,
+    "beta": 2.0,
+    "theoretical_mean": 0.8,
+    "theoretical_variance": 0.014545454545454545
+  },
+  {
+    "environment_id": "beta_36_a8_b3",
+    "environment_number": 36,
+    "alpha": 8.0,
+    "beta": 3.0,
+    "theoretical_mean": 0.7272727272727273,
+    "theoretical_variance": 0.01652892561983471
+  },
+  {
+    "environment_id": "beta_37_a8_b5",
+    "environment_number": 37,
+    "alpha": 8.0,
+    "beta": 5.0,
+    "theoretical_mean": 0.6153846153846154,
+    "theoretical_variance": 0.0169061707523246
+  },
+  {
+    "environment_id": "beta_38_a8_b8",
+    "environment_number": 38,
+    "alpha": 8.0,
+    "beta": 8.0,
+    "theoretical_mean": 0.5,
+    "theoretical_variance": 0.014705882352941176
+  },
+  {
+    "environment_id": "beta_39_a8_b12",
+    "environment_number": 39,
+    "alpha": 8.0,
+    "beta": 12.0,
+    "theoretical_mean": 0.4,
+    "theoretical_variance": 0.011428571428571429
+  },
+  {
+    "environment_id": "beta_40_a8_b20",
+    "environment_number": 40,
+    "alpha": 8.0,
+    "beta": 20.0,
+    "theoretical_mean": 0.2857142857142857,
+    "theoretical_variance": 0.007037297677691766
+  }
+]

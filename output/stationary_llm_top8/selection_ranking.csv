@@ -1,0 +1,9 @@
+rank,environment_id,mean_batchpace_gain,best_competitor_gain,mean_competitor_gain,mean_margin,mean_margin_over_average_competitor,category,source,subject_label
+1,llm_stationary_02_ori_mmlu_college_biology_iid,78.91428571428571,71.11428571428571,43.957142857142856,7.799999999999997,34.957142857142856,biology,ori_mmlu-college_biology,College Biology (MMLU)
+2,llm_stationary_24_ori_mmlu_elementary_mathematics_iid,58.357142857142854,51.6,45.82142857142857,6.757142857142853,12.535714285714285,math,ori_mmlu-elementary_mathematics,Elementary Mathematics (MMLU)
+3,llm_stationary_33_ori_mmlu_philosophy_iid,47.67142857142857,44.07142857142857,20.09285714285714,3.6000000000000014,27.57857142857143,philosophy,ori_mmlu-philosophy,Philosophy (MMLU)
+4,llm_stationary_04_stemez_business_iid,42.128571428571426,39.41428571428571,29.04285714285714,2.7142857142857153,13.085714285714285,business,stemez-Business,Business (STEM-EZ)
+5,llm_stationary_21_ori_mmlu_high_school_world_history_iid,46.07142857142857,43.52857142857143,28.40714285714286,2.5428571428571374,17.66428571428571,history,ori_mmlu-high_school_world_history,High School World History (MMLU)
+6,llm_stationary_40_stemez_psychology_iid,54.48571428571429,52.385714285714286,44.31428571428571,2.1000000000000014,10.171428571428578,psychology,stemez-Psychology,Psychology (STEM-EZ)
+7,llm_stationary_12_stemez_electriccircuits_iid,86.57142857142857,86.57142857142857,55.035714285714285,0.0,31.535714285714285,engineering,stemez-ElectricCircuits,Electric Circuits (STEM-EZ)
+8,llm_stationary_14_stemez_fluidmechanics_iid,84.92857142857143,84.92857142857143,72.74285714285715,0.0,12.185714285714283,engineering,stemez-FluidMechanics,Fluid Mechanics (STEM-EZ)

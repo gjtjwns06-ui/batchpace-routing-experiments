@@ -1,0 +1,785 @@
+environment_type,environment_id,budget,budget_fraction,method,mean_total_realized_gain,std_total_realized_gain,num_seeds,ci95
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,BatchPace,5.8,2.2010098692292237,10,1.3642000504976453
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,Equal Split,9.1,3.107338983045711,10,1.9259486551365332
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,Fixed Threshold,8.4,1.837873166945363,10,1.1391255905786293
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,Robust Batch-Level Query Routing,-7.6,4.351245032554859,10,2.6969296122319046
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,Sequential Pacing,5.7,2.213594362117866,10,1.372
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,24,0.05,WISERouter-Offline,16.0,2.7487370837451075,10,1.7036848952262924
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,BatchPace,17.4,2.6331223544175333,10,1.632026143581448
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,Equal Split,20.7,4.2176876234364356,10,2.6141498724356933
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,Fixed Threshold,18.9,2.4244128727957577,10,1.5026666666666668
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,Robust Batch-Level Query Routing,-1.8,5.050852513300216,10,3.130550821252458
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,Sequential Pacing,17.5,2.068278940998476,10,1.2819325688627738
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,48,0.1,WISERouter-Offline,31.0,4.447221354708776,10,2.756416353004586
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,BatchPace,27.1,3.8715486421958962,10,2.3996107091683756
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,Equal Split,31.3,5.250396810400779,10,3.2542296579477403
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,Fixed Threshold,26.8,3.8239014399199958,10,2.370078667236361
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,Robust Batch-Level Query Routing,11.1,5.384133067531753,10,3.337120248890584
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,Sequential Pacing,26.8,4.211096452627668,10,2.6100646224439217
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,72,0.15,WISERouter-Offline,38.8,6.511528238439882,10,4.035887015266903
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,BatchPace,37.5,4.249182927993988,10,2.633670864444193
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,Equal Split,41.0,6.110100926607787,10,3.7870797896708397
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,Fixed Threshold,33.2,6.477310827461929,10,4.0146788442193255
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,Robust Batch-Level Query Routing,25.6,6.131883886702356,10,3.800581008214401
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,Sequential Pacing,37.3,4.522781838156198,10,2.803249225848858
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,96,0.2,WISERouter-Offline,51.8,4.848825745591516,10,3.005333333333334
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,BatchPace,48.1,4.724639903973869,10,2.9283621512526214
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,Equal Split,49.4,5.872724145478732,10,3.6399521364374503
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,Fixed Threshold,47.1,6.332456079595025,10,3.9248969413221535
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,Oracle BatchPace,120.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,Robust Batch-Level Query Routing,37.2,7.612854625930772,10,4.718496182283315
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,Sequential Pacing,48.0,5.2493385826745405,10,3.2535737616077216
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,120,0.25,WISERouter-Offline,57.2,5.287301349039558,10,3.2771033279746025
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,BatchPace,58.9,4.458450154232722,10,2.7633760350540624
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,Equal Split,60.5,7.027722880769339,10,4.3558277692713645
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,Fixed Threshold,61.4,4.971027168615266,10,3.0810745600268166
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,Oracle BatchPace,142.3,2.5407785333546027,10,1.5747908503106771
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,Robust Batch-Level Query Routing,46.8,7.927448797970533,10,4.913483670246374
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,Sequential Pacing,58.6,4.671426144361292,10,2.8953799213382827
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,144,0.3,WISERouter-Offline,68.6,6.149977416399366,10,3.8117954941062733
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,BatchPace,81.6,6.022181221672647,10,3.732586591985062
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,Equal Split,81.5,7.691987172809552,10,4.767543042979965
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,Fixed Threshold,76.3,6.717307661721486,10,4.163430423207391
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,Oracle BatchPace,145.8,7.524773898411978,10,4.6639031817662
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,Robust Batch-Level Query Routing,60.6,8.329332372872258,10,5.162573690622839
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,Sequential Pacing,81.1,6.008327554319918,10,3.7239999999999984
+stationary_llm_broad,llm_broad_stationary_01_biology_iid,192,0.4,WISERouter-Offline,85.0,5.811865258054231,10,3.602231407212911
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,BatchPace,-8.6,2.6331223544175333,10,1.632026143581448
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,Equal Split,-6.3,2.2135943621178655,10,1.3719999999999999
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,Robust Batch-Level Query Routing,-0.2,1.3165611772087666,10,0.816013071790724
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,Sequential Pacing,-8.9,2.4698178070456938,10,1.5308089364777042
+stationary_llm_broad,llm_broad_stationary_02_business_iid,24,0.05,WISERouter-Offline,0.4,2.716206504995115,10,1.6835222336254165
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,BatchPace,-14.5,3.3082388735465345,10,2.0504676973260945
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,Equal Split,-11.4,3.687817782917155,10,2.2857331427793577
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,Fixed Threshold,-0.4,4.351245032554859,10,2.6969296122319046
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,Robust Batch-Level Query Routing,-0.9,2.766867462592951,10,1.7149222204584735
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,Sequential Pacing,-13.2,3.4253953543107007,10,2.123082036411531
+stationary_llm_broad,llm_broad_stationary_02_business_iid,48,0.1,WISERouter-Offline,2.0,3.126943839882286,10,1.9380998712943331
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,BatchPace,-7.7,4.667856991049414,10,2.893167737196644
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,Equal Split,-9.9,4.067486256208427,10,2.5210541005257654
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,Fixed Threshold,6.2,5.553777493242275,10,3.442266953299493
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,Robust Batch-Level Query Routing,-2.7,3.1287200080686173,10,1.939200751741695
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,Sequential Pacing,-6.7,4.808557187163549,10,2.9803746222394407
+stationary_llm_broad,llm_broad_stationary_02_business_iid,72,0.15,WISERouter-Offline,2.1,3.4140233677518315,10,2.1160336061183487
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,BatchPace,-1.5,5.582711408148075,10,3.4602003795541467
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,Equal Split,-6.5,3.7490739597339977,10,2.3237001145204217
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,Fixed Threshold,7.6,6.686636756330578,10,4.144420399096169
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,Oracle BatchPace,94.8,1.7511900715418276,10,1.0853988514212958
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,Robust Batch-Level Query Routing,-1.0,3.944053188733077,10,2.444549492692308
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,Sequential Pacing,-0.8,5.308274463305169,10,3.2901025988730366
+stationary_llm_broad,llm_broad_stationary_02_business_iid,96,0.2,WISERouter-Offline,1.6,5.680375574437545,10,3.5207332569603547
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,BatchPace,4.9,4.748099034818508,10,2.942902271190428
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,Equal Split,0.8,5.7115866641610396,10,3.5400780907896494
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,Fixed Threshold,17.9,6.999206304209706,10,4.33815301200356
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,Oracle BatchPace,99.0,6.666666666666666,10,4.132042809286681
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,Robust Batch-Level Query Routing,4.1,5.087020520675908,10,3.1529679844729013
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,Sequential Pacing,5.6,4.788875998951458,10,2.9681760954049423
+stationary_llm_broad,llm_broad_stationary_02_business_iid,120,0.25,WISERouter-Offline,1.2,6.196773353931867,10,3.840799916684023
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,BatchPace,12.3,5.186520991955976,10,3.2146390155039177
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,Equal Split,9.4,6.239658110292048,10,3.8673801640559375
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,Fixed Threshold,19.9,6.773313648265358,10,4.198143293303732
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,Oracle BatchPace,99.0,6.666666666666666,10,4.132042809286681
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,Robust Batch-Level Query Routing,11.7,4.137900702315393,10,2.564697426381694
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,Sequential Pacing,13.2,5.050852513300216,10,3.130550821252458
+stationary_llm_broad,llm_broad_stationary_02_business_iid,144,0.3,WISERouter-Offline,4.2,5.159672685570492,10,3.1979982628026686
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,BatchPace,20.6,6.501281924871945,10,4.02953628432189
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,Equal Split,20.2,5.921711464320654,10,3.6703147912225
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,Fixed Threshold,26.9,7.202622979011033,10,4.464231973263834
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,Oracle BatchPace,99.0,6.666666666666666,10,4.132042809286681
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,Robust Batch-Level Query Routing,26.1,5.915140648276159,10,3.66624215724433
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,Sequential Pacing,21.5,5.522680508593631,10,3.4229928425283043
+stationary_llm_broad,llm_broad_stationary_02_business_iid,192,0.4,WISERouter-Offline,14.6,6.095535707019979,10,3.7780521730413175
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,BatchPace,2.0,1.3333333333333333,10,0.8264085618573364
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,Equal Split,2.1,1.66332999331662,10,1.0309426107532207
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,Robust Batch-Level Query Routing,17.7,1.8287822299126937,10,1.1334909694293014
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,Sequential Pacing,1.7,1.3374935098492586,10,0.8289870659760352
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,24,0.05,WISERouter-Offline,8.1,2.3781411975649296,10,1.4739871852299877
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,BatchPace,4.7,2.869378562220979,10,1.7784592582719831
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,Equal Split,6.2,3.3928028399998595,10,2.102880986752328
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,Oracle BatchPace,46.5,2.9533408577782234,10,1.8304996282132604
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,Robust Batch-Level Query Routing,27.1,3.7844711945293255,10,2.3456395479461216
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,Sequential Pacing,4.9,2.923088169119167,10,1.811748817517974
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,48,0.1,WISERouter-Offline,17.0,2.3570226039551585,10,1.4608977452998626
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,BatchPace,8.2,3.119829055146024,10,1.9336900820279688
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,Equal Split,9.5,3.3747427885527648,10,2.0916872508947306
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,Oracle BatchPace,50.9,6.967384333050995,10,4.318429549938007
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,Robust Batch-Level Query Routing,30.5,5.52268050859363,10,3.4229928425283034
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,Sequential Pacing,8.1,3.0713731999438507,10,1.9036568318195721
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,72,0.15,WISERouter-Offline,23.1,2.9981475762358474,10,1.8582711200348443
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,BatchPace,12.2,3.7058512292499457,10,2.296910388616267
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,Equal Split,11.8,3.9944405810520647,10,2.475779922008865
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,Oracle BatchPace,50.9,6.967384333050995,10,4.318429549938007
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,Robust Batch-Level Query Routing,31.7,6.342975116877988,10,3.9314167081770064
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,Sequential Pacing,12.0,3.496029493900505,10,2.166861529698861
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,96,0.2,WISERouter-Offline,29.0,3.4641016151377544,10,2.147072425420251
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,BatchPace,14.1,4.653553003411002,10,2.884302033806831
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,Equal Split,15.0,4.760952285695233,10,2.9508687986195974
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,Fixed Threshold,10.6,4.221637386396684,10,2.6165979608814363
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,Oracle BatchPace,50.9,6.967384333050995,10,4.318429549938007
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,Robust Batch-Level Query Routing,32.1,6.707375708046246,10,4.157274534542499
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,Sequential Pacing,14.5,5.338539126015656,10,3.3088608311622894
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,120,0.25,WISERouter-Offline,32.2,4.661902329879222,10,2.8894769999661403
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,BatchPace,17.4,4.926120853842978,10,3.0532413377698573
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,Equal Split,17.3,5.355163655555055,10,3.319164821323447
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,Fixed Threshold,10.6,4.221637386396684,10,2.6165979608814363
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,Oracle BatchPace,50.9,6.967384333050995,10,4.318429549938007
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,Robust Batch-Level Query Routing,32.7,6.8321137122985425,10,4.23458795056982
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,Sequential Pacing,17.2,5.3499740393970345,10,3.315948263904141
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,144,0.3,WISERouter-Offline,35.1,5.566766466171264,10,3.4503176021281807
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,BatchPace,23.4,6.4670103001481465,10,4.0082945112465085
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,Equal Split,23.3,6.32543366980566,10,3.920544406641052
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,Fixed Threshold,21.3,6.9610024820822725,10,4.31447403772722
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,Oracle BatchPace,50.9,6.967384333050995,10,4.318429549938007
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,Robust Batch-Level Query Routing,35.9,6.871034209717713,10,4.258711124794032
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,Sequential Pacing,23.4,6.380525927469546,10,3.9546909417101666
+stationary_llm_broad,llm_broad_stationary_03_chemistry_iid,192,0.4,WISERouter-Offline,40.8,6.196773353931867,10,3.840799916684023
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,BatchPace,4.2,2.14993539954628,10,1.3325437662189143
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,Equal Split,0.4,0.5163977794943222,10,0.32006665972366855
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,Robust Batch-Level Query Routing,22.1,1.9692073983655907,10,1.220527390561601
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,Sequential Pacing,4.0,1.8856180831641267,10,1.16871819623989
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,24,0.05,WISERouter-Offline,11.6,3.864367132317183,10,2.395159563230252
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,BatchPace,8.0,1.9436506316151,10,1.2046871424196037
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,Equal Split,2.6,2.2211108331943574,10,1.3766587570394244
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,Robust Batch-Level Query Routing,40.3,3.713339317768967,10,2.301551553964316
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,Sequential Pacing,7.5,2.1213203435596424,10,1.314807970769876
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,48,0.1,WISERouter-Offline,22.3,3.1640339933558095,10,1.9610885865876748
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,BatchPace,14.9,3.725288952252936,10,2.3089580141507793
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,Equal Split,7.7,4.001388647846033,10,2.4800863784240343
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,Robust Batch-Level Query Routing,55.4,2.9888682361946532,10,1.8525197254910226
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,Sequential Pacing,13.4,4.033195589934446,10,2.499800525375308
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,72,0.15,WISERouter-Offline,35.8,3.190262963734773,10,1.9773454708550833
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,BatchPace,21.9,4.817791102892602,10,2.986097862502909
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,Equal Split,15.5,4.88193950529227,10,3.025857454232326
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,Robust Batch-Level Query Routing,66.2,3.938414796731183,10,2.4410547811232033
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,Sequential Pacing,21.3,5.165053511608353,10,3.2013333333333334
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,96,0.2,WISERouter-Offline,51.6,4.427188724235731,10,2.7439999999999998
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,BatchPace,29.0,5.456901847914968,10,3.382222806249038
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,Equal Split,27.0,6.683312551921141,10,4.142360035857176
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,Oracle BatchPace,120.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,Robust Batch-Level Query Routing,75.3,5.100108931298539,10,3.1610802654226373
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,Sequential Pacing,28.5,6.311365409587164,10,3.9118248086198
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,120,0.25,WISERouter-Offline,68.0,4.32049379893857,10,2.6778698001707726
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,BatchPace,37.1,6.624030327359453,10,4.10561653239938
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,Equal Split,40.1,7.680422442085388,10,4.760375148615448
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,Oracle BatchPace,142.3,1.6363916944844732,10,1.0142460801556525
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,Robust Batch-Level Query Routing,83.1,6.244108334173017,10,3.8701384413939985
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,Sequential Pacing,36.2,6.957010852370434,10,4.311999999999999
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,144,0.3,WISERouter-Offline,83.3,4.900113377373132,10,3.037121736849619
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,BatchPace,52.5,6.72061505121865,10,4.165480364455781
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,Equal Split,62.2,9.162726425881957,10,5.679116676228989
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,Oracle BatchPace,146.7,4.001388647846036,10,2.4800863784240357
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,Robust Batch-Level Query Routing,97.1,7.340148348485736,10,4.5494710803687
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,Sequential Pacing,51.0,7.055336829505575,10,4.372943072018101
+stationary_llm_broad,llm_broad_stationary_04_computer_science_iid,192,0.4,WISERouter-Offline,90.9,6.556591255285698,10,4.063817362475281
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,BatchPace,11.4,1.577621275493231,10,0.9778197970769233
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,Equal Split,11.0,2.309401076758503,10,1.431381616946834
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,Fixed Threshold,10.9,1.8529256146249726,10,1.1484551943081336
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,Robust Batch-Level Query Routing,19.1,2.846049894151541,10,1.7639999999999998
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,Sequential Pacing,11.3,1.5670212364724212,10,0.971249824824809
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,24,0.05,WISERouter-Offline,3.2,2.485513584307633,10,1.5405372800134083
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,BatchPace,14.6,3.2727833889689535,10,2.0284921603113095
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,Equal Split,15.9,3.928528138289624,10,2.4349269667350057
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,Fixed Threshold,12.2,2.440400695696417,10,1.5125760219645892
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,Robust Batch-Level Query Routing,31.3,4.620004810002306,10,2.8635086481059866
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,Sequential Pacing,13.2,3.32665998663324,10,2.0618852215064414
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,48,0.1,WISERouter-Offline,9.4,2.170509412813294,10,1.3452956717556344
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,BatchPace,18.5,4.503085362035432,10,2.791041223470393
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,Equal Split,18.5,3.62859017617954,10,2.2490234917996443
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,Fixed Threshold,8.2,4.237399621885521,10,2.6263674956529255
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,Robust Batch-Level Query Routing,38.6,5.3374983736661585,10,3.3082157661729914
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,Sequential Pacing,18.1,4.25440947723653,10,2.6369103132264473
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,72,0.15,WISERouter-Offline,20.5,2.5927248643506746,10,1.606987519829849
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,BatchPace,18.2,5.116422361159971,10,3.1711914340056966
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,Equal Split,19.9,4.458450154232722,10,2.7633760350540624
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,Fixed Threshold,11.0,3.9999999999999996,10,2.479225685572009
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,Robust Batch-Level Query Routing,42.7,5.437523946307425,10,3.370212258399561
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,Sequential Pacing,17.9,4.677368680976279,10,2.899063143691615
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,96,0.2,WISERouter-Offline,30.2,4.315347288715269,10,2.6746799600866056
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,BatchPace,18.5,4.196559437338058,10,2.601054487019533
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,Equal Split,24.0,4.268749491621899,10,2.645798346225367
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,Fixed Threshold,21.8,5.43241300999023,10,3.367044467250833
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,Oracle BatchPace,120.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,Robust Batch-Level Query Routing,45.3,6.2012543533994435,10,3.8435772689282857
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,Sequential Pacing,18.3,4.4484703987875305,10,2.757190518545201
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,120,0.25,WISERouter-Offline,40.0,4.447221354708779,10,2.756416353004588
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,BatchPace,24.8,6.5625198412398476,10,4.067491938119444
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,Equal Split,29.7,6.783149055645992,10,4.204239341955265
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,Fixed Threshold,24.9,6.081849134012525,10,3.769569147204433
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,Oracle BatchPace,144.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,Robust Batch-Level Query Routing,47.4,7.136759301905406,10,4.423409243257211
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,Sequential Pacing,25.3,6.056218108504496,10,3.753682873007669
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,144,0.3,WISERouter-Offline,49.6,5.985166849990251,10,3.709644846732486
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,BatchPace,43.8,6.957010852370434,10,4.311999999999999
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,Equal Split,43.9,8.799621203968574,10,5.454061728045744
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,Fixed Threshold,51.5,5.948856099191582,10,3.6871392102218694
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,Oracle BatchPace,186.1,5.5866905329641305,10,3.4626666666666623
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,Robust Batch-Level Query Routing,56.2,6.876691711054734,10,4.262217680451756
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,Sequential Pacing,44.1,7.445356494710869,10,4.614679764981892
+stationary_llm_broad,llm_broad_stationary_05_economics_iid,192,0.4,WISERouter-Offline,65.6,4.99332888295307,10,3.0948973057814597
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,BatchPace,14.5,2.718251071716682,10,1.68478946920841
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,Equal Split,17.5,2.91547594742265,10,1.8070307136294055
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,Fixed Threshold,11.4,2.170509412813294,10,1.3452956717556344
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,Robust Batch-Level Query Routing,9.7,1.7029386365926402,10,1.0554923021983627
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,Sequential Pacing,14.5,2.718251071716682,10,1.68478946920841
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,24,0.05,WISERouter-Offline,6.6,1.837873166945363,10,1.1391255905786293
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,BatchPace,37.6,3.2041639575194445,10,1.9859613960665665
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,Equal Split,35.4,2.503331114069144,10,1.5515806993729537
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,Fixed Threshold,39.4,2.633122354417533,10,1.6320261435814478
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,Robust Batch-Level Query Routing,23.0,3.559026084010437,10,2.2059072207748596
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,Sequential Pacing,37.6,3.2041639575194445,10,1.9859613960665665
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,48,0.1,WISERouter-Offline,12.9,3.4785054261852175,10,2.156
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,BatchPace,52.6,4.247875285886398,10,2.6328603794690246
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,Equal Split,52.0,3.0184617127124715,10,1.8708619522681096
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,Fixed Threshold,55.3,2.869378562220979,10,1.7784592582719831
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,Oracle BatchPace,70.9,1.3703203194062985,10,0.8493333333333337
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,Robust Batch-Level Query Routing,33.1,4.605552204797065,10,2.8545508305939205
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,Sequential Pacing,52.5,4.034572812303401,10,2.5006541366432726
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,72,0.15,WISERouter-Offline,20.5,2.8382310609877353,10,1.7591538369972723
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,BatchPace,72.3,3.8887301554906353,10,2.410259921437704
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,Equal Split,66.0,4.760952285695233,10,2.9508687986195974
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,Fixed Threshold,70.7,4.643992535164829,10,2.8783763941963287
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,Oracle BatchPace,72.8,2.9739610697593957,10,1.843280168009676
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,Robust Batch-Level Query Routing,41.1,6.190494505467412,10,3.8369082460868
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,Sequential Pacing,71.7,3.8311588035185613,10,2.374576827797136
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,96,0.2,WISERouter-Offline,26.8,4.917090377222873,10,3.047644190372477
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,BatchPace,84.3,5.143496432929215,10,3.1879721175415288
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,Equal Split,76.7,5.735852159879995,10,3.5551180008545424
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,Fixed Threshold,57.6,6.4670103001481465,10,4.0082945112465085
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,Oracle BatchPace,75.1,4.121757985239901,10,2.554692066679574
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,Robust Batch-Level Query Routing,48.3,6.634087059355726,10,4.111849759468898
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,Sequential Pacing,84.2,5.846176338238335,10,3.6234976350359487
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,120,0.25,WISERouter-Offline,35.4,6.669999167083072,10,4.134108314444065
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,BatchPace,86.6,6.131883886702358,10,3.8005810082144023
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,Equal Split,84.6,6.501281924871938,10,4.029536284321885
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,Fixed Threshold,65.7,6.000925854492047,10,3.7194123789174602
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,Oracle BatchPace,79.1,5.342700108039421,10,3.3114398345399203
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,Robust Batch-Level Query Routing,52.8,6.44291169511977,10,3.993358041103307
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,Sequential Pacing,86.1,6.081849134012526,10,3.7695691472044337
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,144,0.3,WISERouter-Offline,41.0,6.944222218666553,10,4.3040735227094915
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,BatchPace,91.3,6.12916525039639,10,3.7988959799745317
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,Equal Split,94.1,6.57351588657935,10,4.074307357630795
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,Fixed Threshold,76.3,5.5186552307202135,10,3.420497949454469
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,Oracle BatchPace,83.6,7.183313998427188,10,4.452264143107414
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,Robust Batch-Level Query Routing,61.6,6.866990283636315,10,4.256204673441142
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,Sequential Pacing,90.6,5.891613625409523,10,3.651659957395329
+stationary_llm_broad,llm_broad_stationary_06_engineering_iid,192,0.4,WISERouter-Offline,53.4,6.32806798671162,10,3.92217717317535
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,BatchPace,3.8,3.552776691859794,10,2.2020338073900882
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,Equal Split,4.5,3.2744804507314167,10,2.0295440100891846
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,Robust Batch-Level Query Routing,-6.7,2.359378449224852,10,1.4623579133258269
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,Sequential Pacing,2.7,3.973523485382827,10,2.4628153717961796
+stationary_llm_broad,llm_broad_stationary_07_health_iid,24,0.05,WISERouter-Offline,5.0,2.70801280154532,10,1.6784437236122434
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,BatchPace,1.4,4.221637386396684,10,2.6165979608814363
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,Equal Split,6.3,3.802046232695699,10,2.356532669457867
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,Fixed Threshold,14.0,3.2998316455372216,10,2.0452568434198075
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,Robust Batch-Level Query Routing,-10.3,4.90011337737313,10,3.037121736849618
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,Sequential Pacing,0.7,4.2176876234364356,10,2.6141498724356933
+stationary_llm_broad,llm_broad_stationary_07_health_iid,48,0.1,WISERouter-Offline,9.6,2.503331114069145,10,1.5515806993729544
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,BatchPace,3.4,6.2574400161372346,10,3.87840150348339
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,Equal Split,8.3,4.110960958218892,10,2.5479999999999996
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,Fixed Threshold,7.7,5.250396810400778,10,3.25422965794774
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,Robust Batch-Level Query Routing,-9.9,5.78215646046813,10,3.5838177036971803
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,Sequential Pacing,3.5,5.835713800003866,10,3.6170128866541553
+stationary_llm_broad,llm_broad_stationary_07_health_iid,72,0.15,WISERouter-Offline,14.7,4.001388647846033,10,2.4800863784240343
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,BatchPace,8.8,6.425643072011462,10,3.982654837612162
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,Equal Split,11.8,5.094659513211414,10,3.157702681099382
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,Fixed Threshold,10.4,4.6951511631090685,10,2.910084840305824
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,Robust Batch-Level Query Routing,-8.8,7.192588778272627,10,4.458012711212624
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,Sequential Pacing,9.1,5.506561742341788,10,3.413002327700479
+stationary_llm_broad,llm_broad_stationary_07_health_iid,96,0.2,WISERouter-Offline,21.6,3.565264521898917,10,2.209773844637601
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,BatchPace,12.5,6.553201083779166,10,4.061716112405909
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,Equal Split,18.1,7.202622979011033,10,4.464231973263834
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,Fixed Threshold,11.1,4.701063709417263,10,2.9137494744744266
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,Oracle BatchPace,120.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,Robust Batch-Level Query Routing,-4.6,7.105553383719588,10,4.4040676147801765
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,Sequential Pacing,12.0,6.182412330330469,10,3.8318988620381003
+stationary_llm_broad,llm_broad_stationary_07_health_iid,120,0.25,WISERouter-Offline,27.1,4.094712037087183,10,2.537928814341857
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,BatchPace,25.2,6.0882400303098,10,3.773530265767941
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,Equal Split,26.1,7.563802688536442,10,4.688093476504541
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,Fixed Threshold,41.8,6.124631508189787,10,3.7960859374419385
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,Oracle BatchPace,144.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,Robust Batch-Level Query Routing,1.2,7.223418704310154,10,4.477121297341753
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,Sequential Pacing,24.5,5.275730597114805,10,3.2699317016312945
+stationary_llm_broad,llm_broad_stationary_07_health_iid,144,0.3,WISERouter-Offline,33.9,4.724639903973871,10,2.928362151252623
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,BatchPace,46.5,5.31768537784794,10,3.2959355441378264
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,Equal Split,39.8,7.390684827688313,10,4.580793914693051
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,Fixed Threshold,48.7,6.799509786251751,10,4.214379827843396
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,Oracle BatchPace,156.4,4.427188724235729,10,2.7439999999999984
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,Robust Batch-Level Query Routing,16.9,8.292566952799758,10,5.1397862471766915
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,Sequential Pacing,48.2,5.39135109844153,10,3.3415940307982765
+stationary_llm_broad,llm_broad_stationary_07_health_iid,192,0.4,WISERouter-Offline,45.2,5.391351098441528,10,3.3415940307982757
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,Robust Batch-Level Query Routing,-17.8,2.2010098692292237,10,1.3642000504976453
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,24,0.05,WISERouter-Offline,0.1,0.31622776601683794,10,0.19599999999999998
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,Robust Batch-Level Query Routing,-27.7,4.191260749066641,10,2.597770326003949
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,48,0.1,WISERouter-Offline,0.6,1.0749676997731399,10,0.6662718831094571
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,BatchPace,0.2,0.4216370213557839,10,0.2613333333333333
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,Oracle BatchPace,58.4,4.087922591134905,10,2.533720672142935
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,Robust Batch-Level Query Routing,-30.9,5.087020520675907,10,3.152967984472901
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,Sequential Pacing,0.0,0.4714045207910317,10,0.2921795490599725
+stationary_llm_broad,llm_broad_stationary_08_history_iid,72,0.15,WISERouter-Offline,1.3,2.110818693198342,10,1.3082989804407181
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,BatchPace,0.3,0.48304589153964794,10,0.29939494540378153
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,Equal Split,0.2,0.42163702135578396,10,0.26133333333333336
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,Oracle BatchPace,58.4,4.087922591134905,10,2.533720672142935
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,Robust Batch-Level Query Routing,-30.1,5.801340841181076,10,3.595708306053512
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,Sequential Pacing,0.2,0.4216370213557839,10,0.2613333333333333
+stationary_llm_broad,llm_broad_stationary_08_history_iid,96,0.2,WISERouter-Offline,3.6,2.836272984824353,10,1.7579402088176312
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,BatchPace,0.3,0.48304589153964794,10,0.29939494540378153
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,Equal Split,0.6,0.8432740427115678,10,0.5226666666666666
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,Oracle BatchPace,58.4,4.087922591134905,10,2.533720672142935
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,Robust Batch-Level Query Routing,-26.8,7.96938586787659,10,4.939476535468555
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,Sequential Pacing,0.2,0.4216370213557839,10,0.2613333333333333
+stationary_llm_broad,llm_broad_stationary_08_history_iid,120,0.25,WISERouter-Offline,3.7,4.571651780264984,10,2.833539129780988
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,BatchPace,0.5,0.8498365855987975,10,0.5267341728888386
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,Equal Split,1.9,0.9944289260117533,10,0.6163534339610315
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,Oracle BatchPace,58.4,4.087922591134905,10,2.533720672142935
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,Robust Batch-Level Query Routing,-19.6,9.67470929795826,10,5.996446947985115
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,Sequential Pacing,0.5,0.8498365855987975,10,0.5267341728888386
+stationary_llm_broad,llm_broad_stationary_08_history_iid,144,0.3,WISERouter-Offline,7.4,5.232377832092956,10,3.24306137948561
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,BatchPace,1.8,1.6193277068654823,10,1.0036697110548314
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,Equal Split,7.6,2.8751811537130436,10,1.7820557417394853
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,Oracle BatchPace,58.4,4.087922591134905,10,2.533720672142935
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,Robust Batch-Level Query Routing,0.8,10.706176825656403,10,6.635757145110788
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,Sequential Pacing,1.8,1.6193277068654828,10,1.0036697110548316
+stationary_llm_broad,llm_broad_stationary_08_history_iid,192,0.4,WISERouter-Offline,10.2,5.533734925185901,10,3.4298444409169466
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,BatchPace,-0.4,3.533962208186286,10,2.190372469594054
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,Equal Split,-3.9,3.0713731999438516,10,1.9036568318195728
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,Robust Batch-Level Query Routing,13.4,3.565264521898917,10,2.209773844637601
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,Sequential Pacing,-0.3,3.0568684048294332,10,1.8946666666666665
+stationary_llm_broad,llm_broad_stationary_09_law_iid,24,0.05,WISERouter-Offline,9.1,3.212821536005731,10,1.991327418806081
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,BatchPace,2.7,4.24394994210713,10,2.6304274261884593
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,Equal Split,-0.6,4.5995168828427575,10,2.8508100992914667
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,Fixed Threshold,2.1,4.357624225296267,10,2.7008834768563332
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,Robust Batch-Level Query Routing,18.8,4.917090377222873,10,3.047644190372477
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,Sequential Pacing,2.8,4.157990967870047,10,2.57714950197996
+stationary_llm_broad,llm_broad_stationary_09_law_iid,48,0.1,WISERouter-Offline,17.3,2.8303906287138374,10,1.7542942867274134
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,BatchPace,4.2,4.366539438350084,10,2.7064091831551758
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,Equal Split,4.4,5.501514942874069,10,3.4098742889829046
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,Fixed Threshold,0.9,4.433458644845529,10,2.747886137055577
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,Robust Batch-Level Query Routing,23.9,5.3218626647276635,10,3.2985246533698804
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,Sequential Pacing,4.5,4.249182927993988,10,2.633670864444193
+stationary_llm_broad,llm_broad_stationary_09_law_iid,72,0.15,WISERouter-Offline,22.5,4.034572812303401,10,2.5006541366432726
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,BatchPace,11.9,5.173651192984184,10,3.206662231459164
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,Equal Split,8.4,6.979334575094614,10,4.325836386693843
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,Fixed Threshold,12.2,4.1041983924323695,10,2.5438085183004198
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,Robust Batch-Level Query Routing,31.3,7.30372811955952,10,4.526897588611629
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,Sequential Pacing,12.5,4.8362060428489695,10,2.9975115605374323
+stationary_llm_broad,llm_broad_stationary_09_law_iid,96,0.2,WISERouter-Offline,27.9,5.1088159097779196,10,3.1664769065950873
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,BatchPace,12.8,4.638007234913623,10,2.8746666666666667
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,Equal Split,11.4,6.866990283636315,10,4.256204673441142
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,Fixed Threshold,11.7,4.571651780264984,10,2.833539129780988
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,Oracle BatchPace,119.9,0.3162277660168382,10,0.19600000000000017
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,Robust Batch-Level Query Routing,40.7,7.273238618387272,10,4.508
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,Sequential Pacing,13.3,3.8887301554906353,10,2.410259921437704
+stationary_llm_broad,llm_broad_stationary_09_law_iid,120,0.25,WISERouter-Offline,32.5,4.62481230850387,10,2.866488366548093
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,BatchPace,11.9,6.384877968032487,10,3.9573883643972403
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,Equal Split,15.8,6.9410213785708645,10,4.302089621464331
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,Fixed Threshold,12.7,4.001388647846033,10,2.4800863784240343
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,Oracle BatchPace,136.9,8.37257427557379,10,5.189375299590499
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,Robust Batch-Level Query Routing,50.0,9.225568335398698,10,5.7180664952800635
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,Sequential Pacing,11.9,4.998888765404656,10,3.098343356627143
+stationary_llm_broad,llm_broad_stationary_09_law_iid,144,0.3,WISERouter-Offline,35.8,7.0992957397195395,10,4.400189086846155
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,BatchPace,28.2,6.729701991090606,10,4.171112508139231
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,Equal Split,23.7,6.498717822257967,10,4.027947037056635
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,Fixed Threshold,25.1,7.355270219373317,10,4.558843713048298
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,Oracle BatchPace,139.0,10.718623460542352,10,6.643471649337833
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,Robust Batch-Level Query Routing,65.2,8.230026326405849,10,5.101023165339806
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,Sequential Pacing,28.5,7.245688373094719,10,4.490924181056722
+stationary_llm_broad,llm_broad_stationary_09_law_iid,192,0.4,WISERouter-Offline,46.2,6.579429222120176,10,4.077972480970851
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,BatchPace,9.4,2.458545188611436,10,1.5238220951862378
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,Equal Split,9.7,2.6687491868330797,10,1.654107883086496
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,Fixed Threshold,6.9,1.5238839267549946,10,0.9445130432603293
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,Robust Batch-Level Query Routing,6.3,2.3118054512532935,10,1.4328718636981388
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,Sequential Pacing,9.4,2.503331114069144,10,1.5515806993729537
+stationary_llm_broad,llm_broad_stationary_10_math_iid,24,0.05,WISERouter-Offline,9.5,3.3082388735465345,10,2.0504676973260945
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,BatchPace,13.9,3.4785054261852175,10,2.156
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,Equal Split,16.3,3.6224607965059086,10,2.2452244629187716
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,Fixed Threshold,12.8,3.2591750830880843,10,2.0200576449420664
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,Oracle BatchPace,47.8,0.6324555320336754,10,0.3919999999999997
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,Robust Batch-Level Query Routing,15.2,4.894441291460708,10,3.0336061415784057
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,Sequential Pacing,13.9,3.2472210341220142,10,2.01264844863125
+stationary_llm_broad,llm_broad_stationary_10_math_iid,48,0.1,WISERouter-Offline,14.0,4.9216076867444665,10,3.05044404782138
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,BatchPace,20.4,4.6951511631090685,10,2.910084840305824
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,Equal Split,23.2,4.263540521418529,10,2.642569793044473
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,Fixed Threshold,21.0,5.055250296034367,10,3.1332765952309765
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,Oracle BatchPace,63.4,9.946523680831076,10,6.164919247916662
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,Robust Batch-Level Query Routing,21.2,5.266244708835067,10,3.264052287162896
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,Sequential Pacing,20.6,4.993328882953068,10,3.094897305781459
+stationary_llm_broad,llm_broad_stationary_10_math_iid,72,0.15,WISERouter-Offline,16.1,5.195083145522205,10,3.2199458932652196
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,BatchPace,27.0,6.53197264742181,10,4.048558591235487
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,Equal Split,27.2,5.094659513211413,10,3.1577026810993813
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,Fixed Threshold,21.6,5.399588461684423,10,3.3466996014315686
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,Oracle BatchPace,64.3,10.91431272331072,10,6.7647611109993315
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,Robust Batch-Level Query Routing,24.7,5.313504806936128,10,3.2933443994415965
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,Sequential Pacing,26.9,6.367451958550173,10,3.9465876118208465
+stationary_llm_broad,llm_broad_stationary_10_math_iid,96,0.2,WISERouter-Offline,18.7,5.49848463972878,10,3.4079960876346864
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,BatchPace,30.4,6.899275324264136,10,4.2762151489372
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,Equal Split,31.7,4.9452558635075246,10,3.0651013396333604
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,Fixed Threshold,21.1,5.586690532964135,10,3.462666666666665
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,Oracle BatchPace,64.3,10.91431272331072,10,6.7647611109993315
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,Robust Batch-Level Query Routing,28.3,4.90011337737313,10,3.037121736849618
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,Sequential Pacing,30.5,6.7040617870395875,10,4.1552205450225825
+stationary_llm_broad,llm_broad_stationary_10_math_iid,120,0.25,WISERouter-Offline,20.9,5.801340841181076,10,3.595708306053512
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,BatchPace,33.8,8.093893445747302,10,5.016647131744912
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,Equal Split,35.6,5.699902533279748,10,3.532836191441029
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,Fixed Threshold,24.0,6.79869268479038,10,4.213873383110709
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,Oracle BatchPace,64.3,10.91431272331072,10,6.7647611109993315
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,Robust Batch-Level Query Routing,32.1,5.586690532964137,10,3.4626666666666663
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,Sequential Pacing,33.6,7.633260552782583,10,4.731143906780543
+stationary_llm_broad,llm_broad_stationary_10_math_iid,144,0.3,WISERouter-Offline,22.9,6.756889488185784,10,4.187963493420426
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,BatchPace,38.7,8.152027695951208,10,5.05267911332416
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,Equal Split,41.9,7.294594650226365,10,4.521236605669342
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,Fixed Threshold,30.5,7.457285773732363,10,4.622073608722002
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,Oracle BatchPace,64.3,10.91431272331072,10,6.7647611109993315
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,Robust Batch-Level Query Routing,37.5,7.863417408056966,10,4.873796603607226
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,Sequential Pacing,38.3,8.000694414306244,10,4.958881773590136
+stationary_llm_broad,llm_broad_stationary_10_math_iid,192,0.4,WISERouter-Offline,28.1,7.51960400848638,10,4.660698850792418
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,BatchPace,3.1,2.0248456731316584,10,1.255012350536838
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,Equal Split,4.3,1.8885620632287057,10,1.170542893988369
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,Robust Batch-Level Query Routing,4.4,2.1705094128132942,10,1.3452956717556346
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,Sequential Pacing,2.8,1.9321835661585918,10,1.1975797816151261
+stationary_llm_broad,llm_broad_stationary_11_other_iid,24,0.05,WISERouter-Offline,7.3,1.636391694484477,10,1.0142460801556548
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,BatchPace,10.8,2.0439612955674527,10,1.2668603360714674
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,Equal Split,11.2,3.1902629637347726,10,1.977345470855083
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,Robust Batch-Level Query Routing,10.8,2.7406406388125952,10,1.6986666666666663
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,Sequential Pacing,10.2,1.9321835661585918,10,1.1975797816151261
+stationary_llm_broad,llm_broad_stationary_11_other_iid,48,0.1,WISERouter-Offline,14.8,1.4757295747452435,10,0.9146666666666665
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,BatchPace,17.7,3.622460796505909,10,2.245224462918772
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,Equal Split,17.7,3.8311588035185618,10,2.3745768277971364
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,Fixed Threshold,12.5,2.3213980461973533,10,1.438817415642289
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,Robust Batch-Level Query Routing,16.9,3.5730472522297645,10,2.21459763087263
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,Sequential Pacing,17.5,3.5668224265054493,10,2.2107394439166477
+stationary_llm_broad,llm_broad_stationary_11_other_iid,72,0.15,WISERouter-Offline,21.9,3.573047252229763,10,2.2145976308726296
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,BatchPace,25.3,4.110960958218894,10,2.5480000000000005
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,Equal Split,21.4,3.717824931626316,10,2.30433176623699
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,Fixed Threshold,24.9,4.701063709417263,10,2.9137494744744266
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,Oracle BatchPace,95.9,0.3162277660168401,10,0.1960000000000013
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,Robust Batch-Level Query Routing,20.5,4.32691832858239,10,2.681851764898442
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,Sequential Pacing,25.5,4.006938426723769,10,2.483526167009766
+stationary_llm_broad,llm_broad_stationary_11_other_iid,96,0.2,WISERouter-Offline,30.6,4.060651288757615,10,2.5168177438097405
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,BatchPace,26.4,4.427188724235731,10,2.7439999999999998
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,Equal Split,24.6,4.115013163202924,10,2.550511582669903
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,Fixed Threshold,24.9,4.701063709417263,10,2.9137494744744266
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,Oracle BatchPace,106.1,6.279596590015424,10,3.89213429024916
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,Robust Batch-Level Query Routing,21.3,4.762119042797837,10,2.951591962163997
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,Sequential Pacing,26.6,4.273952113286562,10,2.6490229645412033
+stationary_llm_broad,llm_broad_stationary_11_other_iid,120,0.25,WISERouter-Offline,38.6,3.565264521898917,10,2.209773844637601
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,BatchPace,27.6,4.5995168828427575,10,2.8508100992914667
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,Equal Split,26.9,3.8427420765212266,10,2.3817562147849363
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,Fixed Threshold,24.9,4.701063709417263,10,2.9137494744744266
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,Oracle BatchPace,106.1,6.279596590015424,10,3.89213429024916
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,Robust Batch-Level Query Routing,22.5,5.1693541397569405,10,3.2039988902758507
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,Sequential Pacing,27.9,4.557045826702499,10,2.824486265972392
+stationary_llm_broad,llm_broad_stationary_11_other_iid,144,0.3,WISERouter-Offline,43.9,4.724639903973871,10,2.928362151252623
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,BatchPace,31.8,3.2930904093942583,10,2.041078581970272
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,Equal Split,33.6,4.115013163202924,10,2.550511582669903
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,Fixed Threshold,24.9,4.701063709417263,10,2.9137494744744266
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,Oracle BatchPace,106.1,6.279596590015424,10,3.89213429024916
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,Robust Batch-Level Query Routing,27.9,5.586690532964137,10,3.4626666666666663
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,Sequential Pacing,32.1,4.0124805295477755,10,2.486961197928106
+stationary_llm_broad,llm_broad_stationary_11_other_iid,192,0.4,WISERouter-Offline,52.4,6.168017869984199,10,3.822977083082995
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,BatchPace,1.1,1.523883926754995,10,0.9445130432603295
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,Equal Split,0.2,0.4216370213557839,10,0.2613333333333333
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,Robust Batch-Level Query Routing,0.1,0.31622776601683794,10,0.19599999999999998
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,Sequential Pacing,1.0,1.3333333333333333,10,0.8264085618573364
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,24,0.05,WISERouter-Offline,4.7,1.3374935098492586,10,0.8289870659760352
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,BatchPace,2.0,1.8257418583505538,10,1.1316065276116665
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,Equal Split,1.3,0.9486832980505137,10,0.5879999999999999
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,Robust Batch-Level Query Routing,0.4,0.6992058987801011,10,0.4333723059397722
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,Sequential Pacing,2.2,1.8737959096740262,10,1.1613907371959036
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,48,0.1,WISERouter-Offline,9.2,2.485513584307633,10,1.5405372800134083
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,BatchPace,5.9,3.4785054261852175,10,2.156
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,Equal Split,4.5,1.6499158227686108,10,1.0226284217099038
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,Robust Batch-Level Query Routing,2.2,1.3165611772087666,10,0.816013071790724
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,Sequential Pacing,5.3,3.3015148038438356,10,2.0463000757464678
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,72,0.15,WISERouter-Offline,13.5,2.718251071716682,10,1.68478946920841
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,BatchPace,10.1,4.280446497997869,10,2.653048225888268
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,Equal Split,11.3,3.267686915507325,10,2.025333333333333
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,Fixed Threshold,18.6,4.550946177566938,10,2.820705664269927
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,Robust Batch-Level Query Routing,5.9,1.9119507199599983,10,1.1850393336181808
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,Sequential Pacing,9.9,4.357624225296267,10,2.7008834768563332
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,96,0.2,WISERouter-Offline,17.8,2.8982753492378888,10,1.7963696724226896
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,BatchPace,21.4,6.022181221672649,10,3.732586591985063
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,Equal Split,20.8,5.116422361159972,10,3.1711914340056975
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,Fixed Threshold,23.0,5.333333333333334,10,3.3056342474293463
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,Oracle BatchPace,119.2,1.619327706865482,10,1.0036697110548312
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,Robust Batch-Level Query Routing,11.1,3.5103022978402048,10,2.17570790523197
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,Sequential Pacing,20.6,5.3582750126426975,10,3.3210932604256143
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,120,0.25,WISERouter-Offline,23.7,3.4657049948186747,10,2.1480662104424164
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,BatchPace,34.0,6.253887679764573,10,3.8761997425886667
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,Equal Split,32.2,5.432413009990231,10,3.3670444672508335
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,Fixed Threshold,24.4,5.92921205182911,10,3.674963703524461
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,Oracle BatchPace,121.0,4.714045207910316,10,2.9217954905997243
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,Robust Batch-Level Query Routing,17.4,2.674987019698518,10,1.657974131952071
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,Sequential Pacing,33.4,6.363087999461339,10,3.9438828019548904
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,144,0.3,WISERouter-Offline,27.8,3.614784456460255,10,2.2404666180656796
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,BatchPace,53.3,11.245245909074445,10,6.969875624587731
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,Equal Split,50.7,8.731170215574389,10,5.411635365888331
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,Fixed Threshold,43.3,8.895067297228405,10,5.513219829545063
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,Oracle BatchPace,121.0,4.714045207910316,10,2.9217954905997243
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,Robust Batch-Level Query Routing,34.1,3.8137179293236216,10,2.3637668619764045
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,Sequential Pacing,50.9,10.50343859039611,10,6.510098685034573
+stationary_llm_broad,llm_broad_stationary_12_philosophy_iid,192,0.4,WISERouter-Offline,41.6,3.9214509786273974,10,2.4305404977311342
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,BatchPace,22.8,2.394437999475729,10,1.4840880477024712
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,Equal Split,16.3,2.3593784492248515,10,1.4623579133258267
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,Fixed Threshold,22.8,2.394437999475729,10,1.4840880477024712
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,Robust Batch-Level Query Routing,11.0,2.9059326290271157,10,1.8011157036064556
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,Sequential Pacing,22.7,2.359378449224852,10,1.4623579133258269
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,24,0.05,WISERouter-Offline,12.4,2.2211108331943574,10,1.3766587570394244
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,BatchPace,27.1,5.546770832355224,10,3.437924179889176
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,Equal Split,24.8,4.237399621885522,10,2.626367495652926
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,Fixed Threshold,25.4,4.526465385804789,10,2.8055323123349614
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,Robust Batch-Level Query Routing,24.2,2.973961069759395,10,1.8432801680096753
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,Sequential Pacing,27.0,5.374838498865699,10,3.3313594155472854
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,48,0.1,WISERouter-Offline,25.1,2.884826203122507,10,1.7880338052981235
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,BatchPace,28.3,4.667856991049413,10,2.8931677371966438
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,Equal Split,30.0,5.055250296034368,10,3.133276595230977
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,Fixed Threshold,26.8,5.8080404038998665,10,3.599860738047144
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,Oracle BatchPace,71.9,0.3162277660168395,10,0.19600000000000092
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,Robust Batch-Level Query Routing,38.4,3.025814858109391,10,1.8754194790025567
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,Sequential Pacing,28.3,4.620004810002307,10,2.863508648105987
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,72,0.15,WISERouter-Offline,37.5,3.865804501581067,10,2.39605045392992
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,BatchPace,33.2,3.5839146815241625,10,2.2213333333333325
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,Equal Split,35.7,4.347413023856831,10,2.6945545086340332
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,Fixed Threshold,26.8,5.8080404038998665,10,3.599860738047144
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,Oracle BatchPace,81.9,6.2441083341730135,10,3.8701384413939963
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,Robust Batch-Level Query Routing,49.5,3.274480450731417,10,2.0295440100891846
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,Sequential Pacing,33.1,3.784471194529326,10,2.345639547946122
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,96,0.2,WISERouter-Offline,47.1,4.998888765404656,10,3.098343356627143
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,BatchPace,40.3,3.3015148038438347,10,2.046300075746467
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,Equal Split,40.7,4.137900702315393,10,2.564697426381694
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,Fixed Threshold,26.8,5.8080404038998665,10,3.599860738047144
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,Oracle BatchPace,82.0,6.3420991968134794,10,3.930873807296397
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,Robust Batch-Level Query Routing,57.0,3.6817870057290882,10,2.281995228352203
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,Sequential Pacing,40.3,3.4976182372199127,10,2.167846243010175
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,120,0.25,WISERouter-Offline,49.3,5.143496432929214,10,3.1879721175415283
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,BatchPace,47.0,5.011098792790969,10,3.1059112100065644
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,Equal Split,45.8,4.638007234913623,10,2.8746666666666667
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,Fixed Threshold,34.7,5.271516754112509,10,3.2673199346797297
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,Oracle BatchPace,82.0,6.3420991968134794,10,3.930873807296397
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,Robust Batch-Level Query Routing,61.2,5.5136195008360875,10,3.4173767717358867
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,Sequential Pacing,46.9,4.581363212940979,10,2.8395583381144953
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,144,0.3,WISERouter-Offline,52.7,5.2925524193068805,10,3.280357975045474
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,BatchPace,54.7,5.271516754112509,10,3.2673199346797297
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,Equal Split,54.1,5.321862664727662,10,3.2985246533698795
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,Fixed Threshold,54.2,5.692099788303083,10,3.528
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,Oracle BatchPace,82.1,6.384877968032485,10,3.9573883643972385
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,Robust Batch-Level Query Routing,63.7,6.447221623821122,10,3.9960293625881507
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,Sequential Pacing,55.0,5.537749241945384,10,3.4323325402219798
+stationary_llm_broad,llm_broad_stationary_13_physics_iid,192,0.4,WISERouter-Offline,58.9,6.045200116161949,10,3.7468538506028994
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,Equal Split,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,Oracle BatchPace,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,Sequential Pacing,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,0,0.0,WISERouter-Offline,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,BatchPace,17.0,2.5819888974716103,10,1.6003332986183423
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,Equal Split,17.5,1.957890020745122,10,1.213512807239105
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,Fixed Threshold,0.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,Oracle BatchPace,24.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,Robust Batch-Level Query Routing,13.2,2.820559440174158,10,1.7482008529405946
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,Sequential Pacing,16.6,2.4129281427805145,10,1.495548357255254
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,24,0.05,WISERouter-Offline,10.5,1.90029237516523,10,1.1778134166515697
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,BatchPace,32.2,5.223876806442594,10,3.23779238919909
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,Equal Split,26.9,3.8715486421958962,10,2.3996107091683756
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,Fixed Threshold,30.0,5.92546294487706,10,3.6726399829610914
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,Oracle BatchPace,48.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,Robust Batch-Level Query Routing,25.4,3.3065591380365973,10,2.0494265864707937
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,Sequential Pacing,32.3,4.922736366426028,10,3.051143610735708
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,48,0.1,WISERouter-Offline,22.1,3.1073389830457105,10,1.9259486551365328
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,BatchPace,36.6,4.812021982031625,10,2.9825221243474833
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,Equal Split,34.2,4.589843860815602,10,2.8448146981247593
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,Fixed Threshold,30.0,5.92546294487706,10,3.6726399829610914
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,Oracle BatchPace,72.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,Robust Batch-Level Query Routing,38.5,3.979112128771107,10,2.4662792488551113
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,Sequential Pacing,37.0,5.2068331172711035,10,3.2272286012063733
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,72,0.15,WISERouter-Offline,33.6,3.5652645218989165,10,2.209773844637601
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,BatchPace,41.4,4.765617600176404,10,2.9537603904928447
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,Equal Split,42.2,5.513619500836088,10,3.4173767717358876
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,Fixed Threshold,30.0,5.92546294487706,10,3.6726399829610914
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,Oracle BatchPace,96.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,Robust Batch-Level Query Routing,53.5,4.32691832858239,10,2.681851764898442
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,Sequential Pacing,41.7,5.437523946307424,10,3.3702122583995604
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,96,0.2,WISERouter-Offline,44.7,5.8509258526607,10,3.626441414573429
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,BatchPace,51.0,5.497474167490214,10,3.4073697904525844
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,Equal Split,52.1,6.136412270663988,10,3.8033877296723535
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,Fixed Threshold,43.2,7.1616261343977525,10,4.4388218657156715
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,Oracle BatchPace,120.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,Robust Batch-Level Query Routing,68.1,5.526702854726713,10,3.4254859184906534
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,Sequential Pacing,50.7,5.292552419306879,10,3.280357975045473
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,120,0.25,WISERouter-Offline,58.0,7.859884081701065,10,4.871606625242961
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,BatchPace,64.2,6.196773353931869,10,3.8407999166840243
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,Equal Split,65.8,6.629898608240969,10,4.109253730572282
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,Fixed Threshold,43.2,7.1616261343977525,10,4.4388218657156715
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,Oracle BatchPace,144.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,Robust Batch-Level Query Routing,82.5,7.989576542804594,10,4.95199084544119
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,Sequential Pacing,64.5,6.450667493454543,10,3.998165134714229
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,144,0.3,WISERouter-Offline,68.9,5.896326540030384,10,3.6545810521408155
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,BatchPace,97.0,7.007932013876214,10,4.343561262886072
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,Equal Split,95.6,7.167829363048326,10,4.442666666666666
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,Fixed Threshold,55.9,7.430417963419765,10,4.605420767361484
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,Oracle BatchPace,192.0,0.0,10,0.0
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,Robust Batch-Level Query Routing,110.9,7.936553968120478,10,4.919127113173186
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,Sequential Pacing,98.0,6.944222218666552,10,4.304073522709491
+stationary_llm_broad,llm_broad_stationary_14_psychology_iid,192,0.4,WISERouter-Offline,89.1,7.430417963419764,10,4.605420767361484

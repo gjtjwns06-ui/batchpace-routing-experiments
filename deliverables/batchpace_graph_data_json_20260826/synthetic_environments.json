@@ -1,0 +1,242 @@
+[
+  {
+    "environment_id": "syn_01_sparse_mean_up_iid",
+    "family": "sparse",
+    "shift": "mean_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_02_sparse_mean_up_batch_bursty",
+    "family": "sparse",
+    "shift": "mean_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_03_sparse_mean_down_iid",
+    "family": "sparse",
+    "shift": "mean_down",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_04_sparse_mean_down_batch_bursty",
+    "family": "sparse",
+    "shift": "mean_down",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_05_sparse_variance_up_iid",
+    "family": "sparse",
+    "shift": "variance_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_06_sparse_variance_up_batch_bursty",
+    "family": "sparse",
+    "shift": "variance_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_07_sparse_tail_reversal_iid",
+    "family": "sparse",
+    "shift": "tail_reversal",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_08_sparse_tail_reversal_batch_bursty",
+    "family": "sparse",
+    "shift": "tail_reversal",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_09_moderate_mean_up_iid",
+    "family": "moderate",
+    "shift": "mean_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_10_moderate_mean_up_batch_bursty",
+    "family": "moderate",
+    "shift": "mean_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_11_moderate_mean_down_iid",
+    "family": "moderate",
+    "shift": "mean_down",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_12_moderate_mean_down_batch_bursty",
+    "family": "moderate",
+    "shift": "mean_down",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_13_moderate_variance_up_iid",
+    "family": "moderate",
+    "shift": "variance_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_14_moderate_variance_up_batch_bursty",
+    "family": "moderate",
+    "shift": "variance_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_15_moderate_tail_reversal_iid",
+    "family": "moderate",
+    "shift": "tail_reversal",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_16_moderate_tail_reversal_batch_bursty",
+    "family": "moderate",
+    "shift": "tail_reversal",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_17_bimodal_mean_up_iid",
+    "family": "bimodal",
+    "shift": "mean_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_18_bimodal_mean_up_batch_bursty",
+    "family": "bimodal",
+    "shift": "mean_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_19_bimodal_mean_down_iid",
+    "family": "bimodal",
+    "shift": "mean_down",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_20_bimodal_mean_down_batch_bursty",
+    "family": "bimodal",
+    "shift": "mean_down",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_21_bimodal_variance_up_iid",
+    "family": "bimodal",
+    "shift": "variance_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_22_bimodal_variance_up_batch_bursty",
+    "family": "bimodal",
+    "shift": "variance_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_23_bimodal_tail_reversal_iid",
+    "family": "bimodal",
+    "shift": "tail_reversal",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_24_bimodal_tail_reversal_batch_bursty",
+    "family": "bimodal",
+    "shift": "tail_reversal",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_25_heavy_tail_mean_up_iid",
+    "family": "heavy_tail",
+    "shift": "mean_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_26_heavy_tail_mean_up_batch_bursty",
+    "family": "heavy_tail",
+    "shift": "mean_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_27_heavy_tail_mean_down_iid",
+    "family": "heavy_tail",
+    "shift": "mean_down",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_28_heavy_tail_mean_down_batch_bursty",
+    "family": "heavy_tail",
+    "shift": "mean_down",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_29_heavy_tail_variance_up_iid",
+    "family": "heavy_tail",
+    "shift": "variance_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_30_heavy_tail_variance_up_batch_bursty",
+    "family": "heavy_tail",
+    "shift": "variance_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_31_heavy_tail_tail_reversal_iid",
+    "family": "heavy_tail",
+    "shift": "tail_reversal",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_32_heavy_tail_tail_reversal_batch_bursty",
+    "family": "heavy_tail",
+    "shift": "tail_reversal",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_33_rare_jackpot_mean_up_iid",
+    "family": "rare_jackpot",
+    "shift": "mean_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_34_rare_jackpot_mean_up_batch_bursty",
+    "family": "rare_jackpot",
+    "shift": "mean_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_35_rare_jackpot_mean_down_iid",
+    "family": "rare_jackpot",
+    "shift": "mean_down",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_36_rare_jackpot_mean_down_batch_bursty",
+    "family": "rare_jackpot",
+    "shift": "mean_down",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_37_rare_jackpot_variance_up_iid",
+    "family": "rare_jackpot",
+    "shift": "variance_up",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_38_rare_jackpot_variance_up_batch_bursty",
+    "family": "rare_jackpot",
+    "shift": "variance_up",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "syn_39_rare_jackpot_tail_reversal_iid",
+    "family": "rare_jackpot",
+    "shift": "tail_reversal",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "syn_40_rare_jackpot_tail_reversal_batch_bursty",
+    "family": "rare_jackpot",
+    "shift": "tail_reversal",
+    "regime": "batch_bursty"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "package_name": "BatchPace graph data (JSON)",
+  "created_date": "2026-08-26",
+  "repository": "https://github.com/gjtjwns06-ui/batchpace-routing-experiments",
+  "experiment": {
+    "environment_count": 80,
+    "synthetic_environment_count": 40,
+    "llm_environment_count": 40,
+    "raw_run_count": 44800,
+    "figure_point_count": 4480,
+    "budgets": [
+      0,
+      24,
+      48,
+      72,
+      96,
+      120,
+      144,
+      192
+    ],
+    "methods": [
+      "BatchPace",
+      "Equal Split",
+      "Fixed Threshold",
+      "Oracle BatchPace",
+      "Robust Batch-Level Query Routing",
+      "Sequential Pacing",
+      "WISERouter-Offline"
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "batches_per_environment": 24,
+    "queries_per_batch": 20,
+    "shift_after_batch": 12
+  },
+  "llm_data": {
+    "query_count": 1500,
+    "cheap_option_score_count": 1500,
+    "strong_option_score_count": 1500,
+    "gain_definition": "1[strong_correct] - 1[cheap_correct]"
+  },
+  "files": {
+    "experiment_runs.json": "Seed-level raw policy outcomes; 44,800 records.",
+    "summarized_results.json": "Environment-budget-method mean, standard deviation, and 95% CI.",
+    "figure_points.json": "Exact aggregated points used by the plotting script.",
+    "synthetic_environments.json": "Definitions of the 40 synthetic environments.",
+    "llm_environments.json": "Definitions of the 40 LLM-derived environments.",
+    "llm_queries.json": "The 1,500 MMLU-Pro query records and fixed split labels.",
+    "option_scores_qwen3_0.6b.json": "Cheap-model option-scoring outputs.",
+    "option_scores_qwen3_4b.json": "Strong-model option-scoring outputs.",
+    "llm_split_manifest.json": "Dataset split provenance and hashes."
+  }
+}

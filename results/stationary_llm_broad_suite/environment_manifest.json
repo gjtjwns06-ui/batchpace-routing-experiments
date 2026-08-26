@@ -1,0 +1,128 @@
+[
+  {
+    "environment_id": "llm_broad_stationary_01_biology_iid",
+    "category": "biology",
+    "category_label": "Biology",
+    "regime": "iid_stationary",
+    "train_pool_size": 30,
+    "calibration_pool_size": 30,
+    "test_pool_size": 29
+  },
+  {
+    "environment_id": "llm_broad_stationary_02_business_iid",
+    "category": "business",
+    "category_label": "Business",
+    "regime": "iid_stationary",
+    "train_pool_size": 33,
+    "calibration_pool_size": 32,
+    "test_pool_size": 33
+  },
+  {
+    "environment_id": "llm_broad_stationary_03_chemistry_iid",
+    "category": "chemistry",
+    "category_label": "Chemistry",
+    "regime": "iid_stationary",
+    "train_pool_size": 47,
+    "calibration_pool_size": 47,
+    "test_pool_size": 47
+  },
+  {
+    "environment_id": "llm_broad_stationary_04_computer_science_iid",
+    "category": "computer science",
+    "category_label": "Computer Science",
+    "regime": "iid_stationary",
+    "train_pool_size": 17,
+    "calibration_pool_size": 17,
+    "test_pool_size": 17
+  },
+  {
+    "environment_id": "llm_broad_stationary_05_economics_iid",
+    "category": "economics",
+    "category_label": "Economics",
+    "regime": "iid_stationary",
+    "train_pool_size": 35,
+    "calibration_pool_size": 35,
+    "test_pool_size": 35
+  },
+  {
+    "environment_id": "llm_broad_stationary_06_engineering_iid",
+    "category": "engineering",
+    "category_label": "Engineering",
+    "regime": "iid_stationary",
+    "train_pool_size": 40,
+    "calibration_pool_size": 41,
+    "test_pool_size": 40
+  },
+  {
+    "environment_id": "llm_broad_stationary_07_health_iid",
+    "category": "health",
+    "category_label": "Health",
+    "regime": "iid_stationary",
+    "train_pool_size": 34,
+    "calibration_pool_size": 34,
+    "test_pool_size": 34
+  },
+  {
+    "environment_id": "llm_broad_stationary_08_history_iid",
+    "category": "history",
+    "category_label": "History",
+    "regime": "iid_stationary",
+    "train_pool_size": 16,
+    "calibration_pool_size": 16,
+    "test_pool_size": 16
+  },
+  {
+    "environment_id": "llm_broad_stationary_09_law_iid",
+    "category": "law",
+    "category_label": "Law",
+    "regime": "iid_stationary",
+    "train_pool_size": 46,
+    "calibration_pool_size": 46,
+    "test_pool_size": 45
+  },
+  {
+    "environment_id": "llm_broad_stationary_10_math_iid",
+    "category": "math",
+    "category_label": "Math",
+    "regime": "iid_stationary",
+    "train_pool_size": 56,
+    "calibration_pool_size": 57,
+    "test_pool_size": 56
+  },
+  {
+    "environment_id": "llm_broad_stationary_11_other_iid",
+    "category": "other",
+    "category_label": "Other",
+    "regime": "iid_stationary",
+    "train_pool_size": 38,
+    "calibration_pool_size": 38,
+    "test_pool_size": 39
+  },
+  {
+    "environment_id": "llm_broad_stationary_12_philosophy_iid",
+    "category": "philosophy",
+    "category_label": "Philosophy",
+    "regime": "iid_stationary",
+    "train_pool_size": 21,
+    "calibration_pool_size": 20,
+    "test_pool_size": 21
+  },
+  {
+    "environment_id": "llm_broad_stationary_13_physics_iid",
+    "category": "physics",
+    "category_label": "Physics",
+    "regime": "iid_stationary",
+    "train_pool_size": 54,
+    "calibration_pool_size": 54,
+    "test_pool_size": 54
+  },
+  {
+    "environment_id": "llm_broad_stationary_14_psychology_iid",
+    "category": "psychology",
+    "category_label": "Psychology",
+    "regime": "iid_stationary",
+    "train_pool_size": 33,
+    "calibration_pool_size": 33,
+    "test_pool_size": 34
+  }
+]

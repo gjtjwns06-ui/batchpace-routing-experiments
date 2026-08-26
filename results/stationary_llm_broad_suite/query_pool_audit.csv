@@ -1,0 +1,43 @@
+environment_id,category,category_label,split,unique_queries,mean_gain,positive_rate,negative_rate
+llm_broad_stationary_01_biology_iid,biology,Biology,calibration,30,0.6333333333333333,0.6333333333333333,0.0
+llm_broad_stationary_01_biology_iid,biology,Biology,test,29,0.27586206896551724,0.3103448275862069,0.034482758620689655
+llm_broad_stationary_01_biology_iid,biology,Biology,train,30,0.3,0.3333333333333333,0.03333333333333333
+llm_broad_stationary_02_business_iid,business,Business,calibration,32,0.125,0.1875,0.0625
+llm_broad_stationary_02_business_iid,business,Business,test,33,0.12121212121212122,0.21212121212121213,0.09090909090909091
+llm_broad_stationary_02_business_iid,business,Business,train,33,0.030303030303030304,0.12121212121212122,0.09090909090909091
+llm_broad_stationary_03_chemistry_iid,chemistry,Chemistry,calibration,47,0.10638297872340426,0.1276595744680851,0.02127659574468085
+llm_broad_stationary_03_chemistry_iid,chemistry,Chemistry,test,47,0.10638297872340426,0.10638297872340426,0.0
+llm_broad_stationary_03_chemistry_iid,chemistry,Chemistry,train,47,0.10638297872340426,0.10638297872340426,0.0
+llm_broad_stationary_04_computer_science_iid,computer science,Computer Science,calibration,17,0.23529411764705882,0.23529411764705882,0.0
+llm_broad_stationary_04_computer_science_iid,computer science,Computer Science,test,17,0.35294117647058826,0.35294117647058826,0.0
+llm_broad_stationary_04_computer_science_iid,computer science,Computer Science,train,17,0.11764705882352941,0.23529411764705882,0.11764705882352941
+llm_broad_stationary_05_economics_iid,economics,Economics,calibration,35,0.34285714285714286,0.42857142857142855,0.08571428571428572
+llm_broad_stationary_05_economics_iid,economics,Economics,test,35,0.34285714285714286,0.4,0.05714285714285714
+llm_broad_stationary_05_economics_iid,economics,Economics,train,35,0.37142857142857144,0.45714285714285713,0.08571428571428572
+llm_broad_stationary_06_engineering_iid,engineering,Engineering,calibration,41,0.07317073170731707,0.0975609756097561,0.024390243902439025
+llm_broad_stationary_06_engineering_iid,engineering,Engineering,test,40,0.2,0.225,0.025
+llm_broad_stationary_06_engineering_iid,engineering,Engineering,train,40,0.05,0.075,0.025
+llm_broad_stationary_07_health_iid,health,Health,calibration,34,0.29411764705882354,0.38235294117647056,0.08823529411764706
+llm_broad_stationary_07_health_iid,health,Health,test,34,0.2647058823529412,0.3235294117647059,0.058823529411764705
+llm_broad_stationary_07_health_iid,health,Health,train,34,0.2647058823529412,0.29411764705882354,0.029411764705882353
+llm_broad_stationary_08_history_iid,history,History,calibration,16,0.0625,0.25,0.1875
+llm_broad_stationary_08_history_iid,history,History,test,16,0.0625,0.125,0.0625
+llm_broad_stationary_08_history_iid,history,History,train,16,0.4375,0.5,0.0625
+llm_broad_stationary_09_law_iid,law,Law,calibration,46,0.21739130434782608,0.32608695652173914,0.10869565217391304
+llm_broad_stationary_09_law_iid,law,Law,test,45,0.2,0.28888888888888886,0.08888888888888889
+llm_broad_stationary_09_law_iid,law,Law,train,46,0.32608695652173914,0.3695652173913043,0.043478260869565216
+llm_broad_stationary_10_math_iid,math,Math,calibration,57,0.14035087719298245,0.14035087719298245,0.0
+llm_broad_stationary_10_math_iid,math,Math,test,56,0.125,0.125,0.0
+llm_broad_stationary_10_math_iid,math,Math,train,56,0.125,0.14285714285714285,0.017857142857142856
+llm_broad_stationary_11_other_iid,other,Other,calibration,38,0.34210526315789475,0.39473684210526316,0.05263157894736842
+llm_broad_stationary_11_other_iid,other,Other,test,39,0.1794871794871795,0.20512820512820512,0.02564102564102564
+llm_broad_stationary_11_other_iid,other,Other,train,38,0.10526315789473684,0.21052631578947367,0.10526315789473684
+llm_broad_stationary_12_philosophy_iid,philosophy,Philosophy,calibration,20,0.25,0.3,0.05
+llm_broad_stationary_12_philosophy_iid,philosophy,Philosophy,test,21,0.19047619047619047,0.23809523809523808,0.047619047619047616
+llm_broad_stationary_12_philosophy_iid,philosophy,Philosophy,train,21,0.2857142857142857,0.3333333333333333,0.047619047619047616
+llm_broad_stationary_13_physics_iid,physics,Physics,calibration,54,0.1111111111111111,0.12962962962962962,0.018518518518518517
+llm_broad_stationary_13_physics_iid,physics,Physics,test,54,0.16666666666666666,0.16666666666666666,0.0
+llm_broad_stationary_13_physics_iid,physics,Physics,train,54,0.09259259259259259,0.1111111111111111,0.018518518518518517
+llm_broad_stationary_14_psychology_iid,psychology,Psychology,calibration,33,0.6666666666666666,0.6666666666666666,0.0
+llm_broad_stationary_14_psychology_iid,psychology,Psychology,test,34,0.47058823529411764,0.47058823529411764,0.0
+llm_broad_stationary_14_psychology_iid,psychology,Psychology,train,33,0.5454545454545454,0.5757575757575758,0.030303030303030304

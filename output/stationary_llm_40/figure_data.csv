@@ -1,0 +1,1601 @@
+environment_id,budget,method,mean,std,count,ci95
+llm_stationary_01_stemez_biology_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,24,Equal Split,3.7,2.3118054512532935,10,1.4328718636981388
+llm_stationary_01_stemez_biology_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_01_stemez_biology_iid,24,Robust Batch-Level Query Routing,-13.4,2.9514591494904874,10,1.8293333333333333
+llm_stationary_01_stemez_biology_iid,24,WISERouter-Offline,22.0,1.699673171197595,10,1.0534683457776772
+llm_stationary_01_stemez_biology_iid,48,BatchPace,15.3,4.164666186436129,10,2.5812868453114195
+llm_stationary_01_stemez_biology_iid,48,Equal Split,13.2,2.6161889160464775,10,1.621530689742805
+llm_stationary_01_stemez_biology_iid,48,Fixed Threshold,24.2,3.4896672875473067,10,2.162918193346921
+llm_stationary_01_stemez_biology_iid,48,Robust Batch-Level Query Routing,-14.8,6.321040701937899,10,3.9178216169476405
+llm_stationary_01_stemez_biology_iid,48,WISERouter-Offline,39.5,3.2744804507314167,10,2.0295440100891846
+llm_stationary_01_stemez_biology_iid,72,BatchPace,33.2,4.077035960378843,10,2.5269730684929925
+llm_stationary_01_stemez_biology_iid,72,Equal Split,25.1,4.677368680976279,10,2.899063143691615
+llm_stationary_01_stemez_biology_iid,72,Fixed Threshold,35.4,4.005551702879946,10,2.4826666666666655
+llm_stationary_01_stemez_biology_iid,72,Robust Batch-Level Query Routing,-7.7,8.433399209228876,10,5.2270749840507245
+llm_stationary_01_stemez_biology_iid,72,WISERouter-Offline,46.3,4.78539444560216,10,2.966018206282625
+llm_stationary_01_stemez_biology_iid,96,BatchPace,38.4,6.05896947600094,10,3.755388188249577
+llm_stationary_01_stemez_biology_iid,96,Equal Split,34.0,6.036923425424944,10,3.7417239045362196
+llm_stationary_01_stemez_biology_iid,96,Fixed Threshold,37.2,7.114929530376406,10,4.409879010685994
+llm_stationary_01_stemez_biology_iid,96,Robust Batch-Level Query Routing,2.7,8.420213774008355,10,5.218902566632185
+llm_stationary_01_stemez_biology_iid,96,WISERouter-Offline,56.6,3.5023801430836516,10,2.1707977028425893
+llm_stationary_01_stemez_biology_iid,120,BatchPace,47.6,5.460972644339305,10,3.3847459120130257
+llm_stationary_01_stemez_biology_iid,120,Equal Split,40.9,6.349978127696364,10,3.9357572192513204
+llm_stationary_01_stemez_biology_iid,120,Fixed Threshold,46.2,6.62989860824097,10,4.1092537305722825
+llm_stationary_01_stemez_biology_iid,120,Robust Batch-Level Query Routing,13.1,6.690789689316701,10,4.146994413628582
+llm_stationary_01_stemez_biology_iid,120,WISERouter-Offline,61.7,6.684143758012524,10,4.142875222730116
+llm_stationary_01_stemez_biology_iid,144,BatchPace,57.5,7.291547618075786,10,4.519348035576223
+llm_stationary_01_stemez_biology_iid,144,Equal Split,48.0,5.395471352079549,10,3.344147790460889
+llm_stationary_01_stemez_biology_iid,144,Fixed Threshold,55.1,5.546770832355224,10,3.437924179889176
+llm_stationary_01_stemez_biology_iid,144,Robust Batch-Level Query Routing,23.6,6.785605679999719,10,4.205761973504656
+llm_stationary_01_stemez_biology_iid,144,WISERouter-Offline,68.3,5.907622195096773,10,3.661582171684804
+llm_stationary_01_stemez_biology_iid,192,BatchPace,85.1,6.9193769790189785,10,4.288674283634877
+llm_stationary_01_stemez_biology_iid,192,Equal Split,69.8,6.988880056521535,10,4.331752737377536
+llm_stationary_01_stemez_biology_iid,192,Fixed Threshold,54.2,9.51957048517538,10,5.900290915614999
+llm_stationary_01_stemez_biology_iid,192,Robust Batch-Level Query Routing,46.1,10.332795684937677,10,6.404333116466278
+llm_stationary_01_stemez_biology_iid,192,WISERouter-Offline,79.9,6.063552314169201,10,3.75822866077447
+llm_stationary_02_ori_mmlu_college_biology_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,24,BatchPace,22.9,1.728840330651992,10,1.071546338501306
+llm_stationary_02_ori_mmlu_college_biology_iid,24,Equal Split,23.9,0.31622776601683766,10,0.1959999999999998
+llm_stationary_02_ori_mmlu_college_biology_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,24,Robust Batch-Level Query Routing,0.3,0.48304589153964794,10,0.29939494540378153
+llm_stationary_02_ori_mmlu_college_biology_iid,24,WISERouter-Offline,13.8,3.9384147967311813,10,2.441054781123202
+llm_stationary_02_ori_mmlu_college_biology_iid,48,BatchPace,45.2,2.616188916046478,10,1.621530689742805
+llm_stationary_02_ori_mmlu_college_biology_iid,48,Equal Split,46.2,1.4757295747452437,10,0.9146666666666666
+llm_stationary_02_ori_mmlu_college_biology_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,48,Robust Batch-Level Query Routing,1.8,1.1352924243950933,10,0.7036615347989084
+llm_stationary_02_ori_mmlu_college_biology_iid,48,WISERouter-Offline,25.5,3.7785946829182104,10,2.3419972483141622
+llm_stationary_02_ori_mmlu_college_biology_iid,72,BatchPace,66.0,4.320493798938571,10,2.677869800170773
+llm_stationary_02_ori_mmlu_college_biology_iid,72,Equal Split,65.6,3.169297153067926,10,1.9643507267740616
+llm_stationary_02_ori_mmlu_college_biology_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,72,Robust Batch-Level Query Routing,6.7,2.5407785333546005,10,1.574790850310676
+llm_stationary_02_ori_mmlu_college_biology_iid,72,WISERouter-Offline,38.4,3.4058772731852804,10,2.1109846043967253
+llm_stationary_02_ori_mmlu_college_biology_iid,96,BatchPace,87.2,4.4671641514002545,10,2.7687770264545
+llm_stationary_02_ori_mmlu_college_biology_iid,96,Equal Split,80.1,3.695342413844158,10,2.2903969573465264
+llm_stationary_02_ori_mmlu_college_biology_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,96,Robust Batch-Level Query Routing,15.4,4.788875998951458,10,2.9681760954049423
+llm_stationary_02_ori_mmlu_college_biology_iid,96,WISERouter-Offline,49.0,4.737556801183965,10,2.936368127087913
+llm_stationary_02_ori_mmlu_college_biology_iid,120,BatchPace,102.7,7.1499805749541885,10,4.431603873191837
+llm_stationary_02_ori_mmlu_college_biology_iid,120,Equal Split,89.2,4.8488257455915145,10,3.0053333333333327
+llm_stationary_02_ori_mmlu_college_biology_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_02_ori_mmlu_college_biology_iid,120,Robust Batch-Level Query Routing,29.7,6.129165250396392,10,3.7988959799745325
+llm_stationary_02_ori_mmlu_college_biology_iid,120,WISERouter-Offline,60.8,4.541169697580374,10,2.814646139195634
+llm_stationary_02_ori_mmlu_college_biology_iid,144,BatchPace,107.9,7.264066813202276,10,4.502315256250573
+llm_stationary_02_ori_mmlu_college_biology_iid,144,Equal Split,94.3,6.929005059249928,10,4.294641829587706
+llm_stationary_02_ori_mmlu_college_biology_iid,144,Fixed Threshold,98.0,8.717797887081348,10,5.403347110819367
+llm_stationary_02_ori_mmlu_college_biology_iid,144,Robust Batch-Level Query Routing,47.5,6.835365551469961,10,4.236603461369603
+llm_stationary_02_ori_mmlu_college_biology_iid,144,WISERouter-Offline,72.0,5.537749241945382,10,3.4323325402219784
+llm_stationary_02_ori_mmlu_college_biology_iid,192,BatchPace,120.5,9.300537618869138,10,5.764532938582275
+llm_stationary_02_ori_mmlu_college_biology_iid,192,Equal Split,98.5,8.934950102453472,10,5.537939448326726
+llm_stationary_02_ori_mmlu_college_biology_iid,192,Fixed Threshold,98.0,8.717797887081348,10,5.403347110819367
+llm_stationary_02_ori_mmlu_college_biology_iid,192,Robust Batch-Level Query Routing,78.4,6.834552736727629,10,4.236099673572902
+llm_stationary_02_ori_mmlu_college_biology_iid,192,WISERouter-Offline,97.7,6.912950809089337,10,4.284691302247522
+llm_stationary_03_stemez_genetics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_03_stemez_genetics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_03_stemez_genetics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_03_stemez_genetics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_03_stemez_genetics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_03_stemez_genetics_iid,24,BatchPace,8.5,2.592724864350674,10,1.6069875198298487
+llm_stationary_03_stemez_genetics_iid,24,Equal Split,20.7,2.0027758514399734,10,1.2413333333333332
+llm_stationary_03_stemez_genetics_iid,24,Fixed Threshold,7.8,2.485513584307633,10,1.5405372800134083
+llm_stationary_03_stemez_genetics_iid,24,Robust Batch-Level Query Routing,20.4,1.5055453054181622,10,0.9331466479962658
+llm_stationary_03_stemez_genetics_iid,24,WISERouter-Offline,18.8,1.3165611772087666,10,0.816013071790724
+llm_stationary_03_stemez_genetics_iid,48,BatchPace,16.0,3.7416573867739413,10,2.319103274975049
+llm_stationary_03_stemez_genetics_iid,48,Equal Split,35.4,3.4383458555273676,10,2.1311088402258784
+llm_stationary_03_stemez_genetics_iid,48,Fixed Threshold,15.4,3.893013685508382,10,2.412914880848933
+llm_stationary_03_stemez_genetics_iid,48,Robust Batch-Level Query Routing,34.7,3.945461527713414,10,2.445422390235819
+llm_stationary_03_stemez_genetics_iid,48,WISERouter-Offline,36.4,2.836272984824353,10,1.7579402088176312
+llm_stationary_03_stemez_genetics_iid,72,BatchPace,24.7,4.473378042498879,10,2.772628436059264
+llm_stationary_03_stemez_genetics_iid,72,Equal Split,44.3,5.831904586934797,10,3.614651911933492
+llm_stationary_03_stemez_genetics_iid,72,Fixed Threshold,23.8,4.467164151400255,10,2.7687770264545004
+llm_stationary_03_stemez_genetics_iid,72,Robust Batch-Level Query Routing,43.4,6.221825384170718,10,3.8563273258949944
+llm_stationary_03_stemez_genetics_iid,72,WISERouter-Offline,52.9,3.314949304120485,10,2.0546268652861412
+llm_stationary_03_stemez_genetics_iid,96,BatchPace,32.3,5.538752366533258,10,3.432954283283001
+llm_stationary_03_stemez_genetics_iid,96,Equal Split,49.3,6.880729935438859,10,4.264720597856064
+llm_stationary_03_stemez_genetics_iid,96,Fixed Threshold,31.6,5.274677451960661,10,3.2692789555020974
+llm_stationary_03_stemez_genetics_iid,96,Robust Batch-Level Query Routing,49.8,7.800284895082002,10,4.834666666666666
+llm_stationary_03_stemez_genetics_iid,96,WISERouter-Offline,70.7,1.8287822299126935,10,1.1334909694293014
+llm_stationary_03_stemez_genetics_iid,120,BatchPace,39.7,6.3779132776934,10,3.95307160460206
+llm_stationary_03_stemez_genetics_iid,120,Equal Split,54.5,8.383184226639527,10,5.195951415391709
+llm_stationary_03_stemez_genetics_iid,120,Fixed Threshold,39.1,6.640783086353595,10,4.115999999999999
+llm_stationary_03_stemez_genetics_iid,120,Robust Batch-Level Query Routing,56.7,8.2334008094401,10,5.103114691593317
+llm_stationary_03_stemez_genetics_iid,120,WISERouter-Offline,89.1,4.121757985239901,10,2.554692066679574
+llm_stationary_03_stemez_genetics_iid,144,BatchPace,50.2,10.008884941779367,10,6.203571157898579
+llm_stationary_03_stemez_genetics_iid,144,Equal Split,62.0,8.563488385776752,10,5.3077050910288275
+llm_stationary_03_stemez_genetics_iid,144,Fixed Threshold,46.6,7.574812062208394,10,4.694917157001933
+llm_stationary_03_stemez_genetics_iid,144,Robust Batch-Level Query Routing,65.3,7.732327520797918,10,4.792546249704383
+llm_stationary_03_stemez_genetics_iid,144,WISERouter-Offline,107.8,3.457680661303985,10,2.143092677002613
+llm_stationary_03_stemez_genetics_iid,192,BatchPace,92.3,7.08754776585903,10,4.392907617209054
+llm_stationary_03_stemez_genetics_iid,192,Equal Split,80.4,6.93140998963735,10,4.296132420884833
+llm_stationary_03_stemez_genetics_iid,192,Fixed Threshold,76.7,7.087547765859029,10,4.392907617209054
+llm_stationary_03_stemez_genetics_iid,192,Robust Batch-Level Query Routing,94.5,7.4870258150720685,10,4.6405066773168455
+llm_stationary_03_stemez_genetics_iid,192,WISERouter-Offline,141.8,7.315128919650777,10,4.533963877717207
+llm_stationary_04_stemez_business_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,24,BatchPace,18.9,2.6436506745197796,10,1.6385516639873012
+llm_stationary_04_stemez_business_iid,24,Equal Split,18.1,1.2866839377079187,10,0.7974949668946018
+llm_stationary_04_stemez_business_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_04_stemez_business_iid,24,Robust Batch-Level Query Routing,5.5,3.13581462037113,10,1.943598038004086
+llm_stationary_04_stemez_business_iid,24,WISERouter-Offline,2.5,1.90029237516523,10,1.1778134166515697
+llm_stationary_04_stemez_business_iid,48,BatchPace,33.6,3.1692971530679235,10,1.9643507267740599
+llm_stationary_04_stemez_business_iid,48,Equal Split,29.6,3.438345855527367,10,2.131108840225878
+llm_stationary_04_stemez_business_iid,48,Fixed Threshold,25.6,5.358275012642698,10,3.3210932604256147
+llm_stationary_04_stemez_business_iid,48,Robust Batch-Level Query Routing,15.0,3.6209268304000717,10,2.244273700876175
+llm_stationary_04_stemez_business_iid,48,WISERouter-Offline,4.7,2.9078437983419185,10,1.8023002586201395
+llm_stationary_04_stemez_business_iid,72,BatchPace,41.8,3.2591750830880835,10,2.020057644942066
+llm_stationary_04_stemez_business_iid,72,Equal Split,37.2,4.263540521418527,10,2.642569793044472
+llm_stationary_04_stemez_business_iid,72,Fixed Threshold,25.6,5.358275012642698,10,3.3210932604256147
+llm_stationary_04_stemez_business_iid,72,Robust Batch-Level Query Routing,24.5,4.27525177946022,10,2.649828505981304
+llm_stationary_04_stemez_business_iid,72,WISERouter-Offline,9.8,4.391911757866828,10,2.722135109717289
+llm_stationary_04_stemez_business_iid,96,BatchPace,48.3,5.53875236653326,10,3.432954283283003
+llm_stationary_04_stemez_business_iid,96,Equal Split,43.3,5.1001089312985375,10,3.161080265422636
+llm_stationary_04_stemez_business_iid,96,Fixed Threshold,46.7,4.473378042498879,10,2.772628436059264
+llm_stationary_04_stemez_business_iid,96,Robust Batch-Level Query Routing,34.3,4.620004810002307,10,2.863508648105987
+llm_stationary_04_stemez_business_iid,96,WISERouter-Offline,13.2,4.984420171338331,10,3.089375629116306
+llm_stationary_04_stemez_business_iid,120,BatchPace,48.8,5.921711464320655,10,3.6703147912225003
+llm_stationary_04_stemez_business_iid,120,Equal Split,47.6,5.420127099780759,10,3.3594295812103443
+llm_stationary_04_stemez_business_iid,120,Fixed Threshold,26.6,4.788875998951459,10,2.9681760954049428
+llm_stationary_04_stemez_business_iid,120,Robust Batch-Level Query Routing,45.2,5.6134758493389025,10,3.4792683777547895
+llm_stationary_04_stemez_business_iid,120,WISERouter-Offline,16.3,6.056218108504496,10,3.753682873007669
+llm_stationary_04_stemez_business_iid,144,BatchPace,48.9,6.081849134012523,10,3.769569147204432
+llm_stationary_04_stemez_business_iid,144,Equal Split,48.9,5.952590472502987,10,3.689453798780157
+llm_stationary_04_stemez_business_iid,144,Fixed Threshold,30.9,4.357624225296267,10,2.7008834768563332
+llm_stationary_04_stemez_business_iid,144,Robust Batch-Level Query Routing,56.5,6.637435917246624,10,4.113925403094011
+llm_stationary_04_stemez_business_iid,144,WISERouter-Offline,19.0,7.118052168020874,10,4.411814441549719
+llm_stationary_04_stemez_business_iid,192,BatchPace,54.6,6.552353266829663,10,4.0611906300164415
+llm_stationary_04_stemez_business_iid,192,Equal Split,51.2,6.196773353931867,10,3.840799916684023
+llm_stationary_04_stemez_business_iid,192,Fixed Threshold,39.7,4.667856991049413,10,2.8931677371966438
+llm_stationary_04_stemez_business_iid,192,Robust Batch-Level Query Routing,71.0,7.086763875156435,10,4.392421756717916
+llm_stationary_04_stemez_business_iid,192,WISERouter-Offline,24.7,7.557924465236619,10,4.684450115956929
+llm_stationary_05_scibench_atkins_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_05_scibench_atkins_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,24,WISERouter-Offline,1.8,1.1352924243950937,10,0.7036615347989087
+llm_stationary_06_stemez_chemistry_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,48,WISERouter-Offline,3.2,1.4757295747452437,10,0.9146666666666666
+llm_stationary_06_stemez_chemistry_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,72,Robust Batch-Level Query Routing,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_06_stemez_chemistry_iid,72,WISERouter-Offline,4.5,1.8408935028645435,10,1.1409976141761013
+llm_stationary_06_stemez_chemistry_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,96,Equal Split,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_06_stemez_chemistry_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,96,Robust Batch-Level Query Routing,0.3,0.9486832980505138,10,0.588
+llm_stationary_06_stemez_chemistry_iid,96,WISERouter-Offline,5.6,2.7568097504180447,10,1.708688385867944
+llm_stationary_06_stemez_chemistry_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,120,Equal Split,0.2,0.6324555320336759,10,0.39199999999999996
+llm_stationary_06_stemez_chemistry_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,120,Robust Batch-Level Query Routing,1.1,1.4491376746189437,10,0.8981848362113444
+llm_stationary_06_stemez_chemistry_iid,120,WISERouter-Offline,6.8,3.489667287547307,10,2.1629181933469215
+llm_stationary_06_stemez_chemistry_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,144,Equal Split,0.5,0.9718253158075502,10,0.602343571209802
+llm_stationary_06_stemez_chemistry_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,144,Robust Batch-Level Query Routing,2.9,2.282785822435191,10,1.4148853114102373
+llm_stationary_06_stemez_chemistry_iid,144,WISERouter-Offline,8.3,3.0930028559098792,10,1.9170630314798383
+llm_stationary_06_stemez_chemistry_iid,192,BatchPace,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_06_stemez_chemistry_iid,192,Equal Split,2.3,1.4944341180973262,10,0.9262598627455111
+llm_stationary_06_stemez_chemistry_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_06_stemez_chemistry_iid,192,Robust Batch-Level Query Routing,7.7,2.496664441476534,10,1.5474486528907294
+llm_stationary_06_stemez_chemistry_iid,192,WISERouter-Offline,10.9,3.725288952252936,10,2.3089580141507793
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,24,BatchPace,1.3,2.110818693198342,10,1.3082989804407181
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,24,Equal Split,0.6,0.6992058987801011,10,0.4333723059397722
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,24,Robust Batch-Level Query Routing,24.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,24,WISERouter-Offline,16.6,2.118699810942761,10,1.313183747826463
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,48,BatchPace,3.6,5.460972644339305,10,3.3847459120130257
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,48,Equal Split,3.4,1.9550504398153574,10,1.2117528167447718
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,48,Robust Batch-Level Query Routing,48.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,48,WISERouter-Offline,32.6,3.9496835316262993,10,2.4480392153721717
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,72,BatchPace,6.7,6.717307661721488,10,4.163430423207392
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,72,Equal Split,11.7,4.295992965026311,10,2.6626840259824713
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,72,Robust Batch-Level Query Routing,72.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,72,WISERouter-Offline,49.0,3.0912061651652345,10,1.9159494310190501
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,96,BatchPace,12.9,7.309810759064378,10,4.530667647635758
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,96,Equal Split,25.5,7.230337321161287,10,4.481409500493244
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,96,Robust Batch-Level Query Routing,95.9,0.3162277660168401,10,0.1960000000000013
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,96,WISERouter-Offline,63.2,3.6453928305312897,10,2.259437884863306
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,120,BatchPace,28.9,6.41958807955083,10,3.978901914403576
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,120,Equal Split,44.0,8.743251365736,10,5.41912334033631
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,120,Robust Batch-Level Query Routing,119.8,0.6324555320336762,10,0.3920000000000002
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,120,WISERouter-Offline,79.6,4.526465385804789,10,2.8055323123349614
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,144,BatchPace,46.9,5.4456914671651715,10,3.375274540274053
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,144,Equal Split,65.0,9.018499505645787,10,5.589723904928875
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,144,Robust Batch-Level Query Routing,143.2,1.0327955589886448,10,0.6401333194473374
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,144,WISERouter-Offline,97.0,3.858612300930076,10,2.391592681782489
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,192,BatchPace,80.8,7.997221739801614,10,4.956729387632758
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,192,Equal Split,106.4,8.527081042837057,10,5.285139586088946
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,192,Robust Batch-Level Query Routing,186.3,2.540778533354601,10,1.5747908503106762
+llm_stationary_07_ori_mmlu_high_school_chemistry_iid,192,WISERouter-Offline,128.7,4.270050741306632,10,2.6466048691358006
+llm_stationary_08_stemez_physicalchemistry_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_08_stemez_physicalchemistry_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_09_ori_mmlu_college_computer_science_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,24,BatchPace,0.6,0.9660917830792958,10,0.598789890807563
+llm_stationary_10_stemez_economics_iid,24,Equal Split,3.6,2.1705094128132942,10,1.3452956717556346
+llm_stationary_10_stemez_economics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,24,Robust Batch-Level Query Routing,21.9,1.1972189997378646,10,0.7420440238512356
+llm_stationary_10_stemez_economics_iid,24,WISERouter-Offline,13.3,3.093002855909879,10,1.917063031479838
+llm_stationary_10_stemez_economics_iid,48,BatchPace,3.5,3.2744804507314167,10,2.0295440100891846
+llm_stationary_10_stemez_economics_iid,48,Equal Split,8.3,2.907843798341919,10,1.8023002586201398
+llm_stationary_10_stemez_economics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_10_stemez_economics_iid,48,Robust Batch-Level Query Routing,40.2,3.6147844564602556,10,2.24046661806568
+llm_stationary_10_stemez_economics_iid,48,WISERouter-Offline,25.4,3.7475918193480524,10,2.322781474391807
+llm_stationary_10_stemez_economics_iid,72,BatchPace,0.3,4.595891885393109,10,2.848563302594641
+llm_stationary_10_stemez_economics_iid,72,Equal Split,9.9,6.0635523141692005,10,3.7582286607744697
+llm_stationary_10_stemez_economics_iid,72,Fixed Threshold,-2.2,4.237399621885521,10,2.6263674956529255
+llm_stationary_10_stemez_economics_iid,72,Robust Batch-Level Query Routing,54.9,5.743595467030114,10,3.5599173523490046
+llm_stationary_10_stemez_economics_iid,72,WISERouter-Offline,40.8,4.157990967870047,10,2.57714950197996
+llm_stationary_10_stemez_economics_iid,96,BatchPace,2.4,4.857983120596447,10,3.0110091331644937
+llm_stationary_10_stemez_economics_iid,96,Equal Split,14.7,6.583649781424013,10,4.08058841072924
+llm_stationary_10_stemez_economics_iid,96,Fixed Threshold,-2.8,3.489667287547307,10,2.1629181933469215
+llm_stationary_10_stemez_economics_iid,96,Robust Batch-Level Query Routing,65.6,6.535373831014652,10,4.050666666666666
+llm_stationary_10_stemez_economics_iid,96,WISERouter-Offline,53.6,6.310485101972923,10,3.9112791883076925
+llm_stationary_10_stemez_economics_iid,120,BatchPace,10.6,8.630694577430537,10,5.349359920173211
+llm_stationary_10_stemez_economics_iid,120,Equal Split,23.3,7.334090869963972,10,4.54571661628346
+llm_stationary_10_stemez_economics_iid,120,Fixed Threshold,-2.8,3.489667287547307,10,2.1629181933469215
+llm_stationary_10_stemez_economics_iid,120,Robust Batch-Level Query Routing,74.3,10.446158251827425,10,6.474595963370137
+llm_stationary_10_stemez_economics_iid,120,WISERouter-Offline,66.7,9.405081368896049,10,5.829329826165459
+llm_stationary_10_stemez_economics_iid,144,BatchPace,33.4,9.418657606639659,10,5.837744465497306
+llm_stationary_10_stemez_economics_iid,144,Equal Split,35.2,7.598245411496875,10,4.709441297365678
+llm_stationary_10_stemez_economics_iid,144,Fixed Threshold,-2.8,3.489667287547307,10,2.1629181933469215
+llm_stationary_10_stemez_economics_iid,144,Robust Batch-Level Query Routing,83.8,12.908223046656044,10,8.00059953309056
+llm_stationary_10_stemez_economics_iid,144,WISERouter-Offline,77.2,5.391351098441527,10,3.341594030798275
+llm_stationary_10_stemez_economics_iid,192,BatchPace,54.4,8.87192826341101,10,5.498878107800212
+llm_stationary_10_stemez_economics_iid,192,Equal Split,64.1,9.585289655392673,10,5.941024079324297
+llm_stationary_10_stemez_economics_iid,192,Fixed Threshold,51.5,9.276613366717164,10,5.749704533471457
+llm_stationary_10_stemez_economics_iid,192,Robust Batch-Level Query Routing,97.4,12.0756872360219,10,7.484588491619889
+llm_stationary_10_stemez_economics_iid,192,WISERouter-Offline,101.5,8.79709548026443,10,5.452496268275251
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,24,BatchPace,3.3,3.2676869155073254,10,2.025333333333333
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,24,Equal Split,21.6,1.2649110640673513,10,0.7839999999999997
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,24,Fixed Threshold,1.8,3.011090610836324,10,1.8662932959925314
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,24,Robust Batch-Level Query Routing,22.2,1.5491933384829668,10,0.9601999791710057
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,24,WISERouter-Offline,2.0,2.788866755113585,10,1.7285575232288657
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,48,BatchPace,3.5,5.104464277037851,10,3.1637797366792495
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,48,Equal Split,38.7,2.9458068127047596,10,1.8258299786976633
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,48,Fixed Threshold,2.1,5.152130088074683,10,3.1933233124407834
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,48,Robust Batch-Level Query Routing,39.8,2.9739610697593957,10,1.843280168009676
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,48,WISERouter-Offline,6.1,3.1073389830457114,10,1.9259486551365335
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,72,BatchPace,2.1,6.4368729468068056,10,3.9896151861217555
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,72,Equal Split,49.4,4.6951511631090685,10,2.910084840305824
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,72,Fixed Threshold,0.3,6.236986451805071,10,3.86572425296994
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,72,Robust Batch-Level Query Routing,50.7,5.229191567005788,10,3.2410865119243235
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,72,WISERouter-Offline,7.3,4.473378042498879,10,2.772628436059264
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,96,BatchPace,0.1,7.6077445920442,10,4.715328950466882
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,96,Equal Split,53.6,6.040603354706291,10,3.7440047483350707
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,96,Fixed Threshold,-0.8,7.539525478731698,10,4.673046305974056
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,96,Robust Batch-Level Query Routing,56.9,7.665941994736633,10,4.751400074364046
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,96,WISERouter-Offline,13.5,5.892556509887895,10,3.6522443632496557
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,120,BatchPace,-1.0,8.379870059984357,10,5.193897273617268
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,120,Equal Split,53.9,6.6072350915913045,10,4.0952067374214725
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,120,Fixed Threshold,-1.6,8.51404069105198,10,5.277057092315332
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,120,Robust Batch-Level Query Routing,58.5,8.708233651742086,10,5.397419136340379
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,120,WISERouter-Offline,12.6,6.636598861197236,10,4.113406590379533
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,144,BatchPace,-1.9,9.386160024205852,10,5.8176022552250855
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,144,Equal Split,50.1,6.871034209717713,10,4.258711124794032
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,144,Fixed Threshold,-3.5,9.336309049440612,10,5.786704300952889
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,144,Robust Batch-Level Query Routing,58.8,9.126274644612055,10,5.656523628126692
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,144,WISERouter-Offline,15.9,7.992357460585568,10,4.953714476139204
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,192,BatchPace,-2.2,9.2951600308978,10,5.761199875026035
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,192,Equal Split,33.2,8.121302577515232,10,5.033635487619482
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,192,Fixed Threshold,-3.9,9.386160024205852,10,5.8176022552250855
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,192,Robust Batch-Level Query Routing,55.1,10.959014554237985,10,6.792467592856074
+llm_stationary_11_ori_mmlu_high_school_macroeconomics_iid,192,WISERouter-Offline,23.4,6.686636756330578,10,4.144420399096169
+llm_stationary_12_stemez_electriccircuits_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,24,BatchPace,24.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,24,Equal Split,24.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,24,Fixed Threshold,24.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,24,WISERouter-Offline,7.6,1.837873166945363,10,1.1391255905786293
+llm_stationary_12_stemez_electriccircuits_iid,48,BatchPace,48.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,48,Equal Split,47.6,0.5163977794943211,10,0.3200666597236679
+llm_stationary_12_stemez_electriccircuits_iid,48,Fixed Threshold,48.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,48,Robust Batch-Level Query Routing,0.6,0.8432740427115678,10,0.5226666666666666
+llm_stationary_12_stemez_electriccircuits_iid,48,WISERouter-Offline,14.9,2.558211180579986,10,1.5855957170028487
+llm_stationary_12_stemez_electriccircuits_iid,72,BatchPace,72.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,72,Equal Split,69.4,1.429840705968483,10,0.8862244511283695
+llm_stationary_12_stemez_electriccircuits_iid,72,Fixed Threshold,72.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,72,Robust Batch-Level Query Routing,3.6,1.8973665961010275,10,1.176
+llm_stationary_12_stemez_electriccircuits_iid,72,WISERouter-Offline,24.3,3.802046232695699,10,2.356532669457867
+llm_stationary_12_stemez_electriccircuits_iid,96,BatchPace,96.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,96,Equal Split,88.3,3.560586718193756,10,2.206874511863126
+llm_stationary_12_stemez_electriccircuits_iid,96,Fixed Threshold,96.0,0.0,10,0.0
+llm_stationary_12_stemez_electriccircuits_iid,96,Robust Batch-Level Query Routing,9.9,2.8460498941515415,10,1.764
+llm_stationary_12_stemez_electriccircuits_iid,96,WISERouter-Offline,31.1,4.748099034818508,10,2.942902271190428
+llm_stationary_12_stemez_electriccircuits_iid,120,BatchPace,117.2,5.0288059108389636,10,3.116886195477075
+llm_stationary_12_stemez_electriccircuits_iid,120,Equal Split,103.2,5.473166867139678,10,3.392303969608594
+llm_stationary_12_stemez_electriccircuits_iid,120,Fixed Threshold,117.2,5.0288059108389636,10,3.116886195477075
+llm_stationary_12_stemez_electriccircuits_iid,120,Robust Batch-Level Query Routing,19.8,5.553777493242275,10,3.442266953299493
+llm_stationary_12_stemez_electriccircuits_iid,120,WISERouter-Offline,39.1,6.41958807955083,10,3.978901914403576
+llm_stationary_12_stemez_electriccircuits_iid,144,BatchPace,124.4,11.491059326469621,10,7.122232359153819
+llm_stationary_12_stemez_electriccircuits_iid,144,Equal Split,113.5,7.590198357823801,10,4.704453681825813
+llm_stationary_12_stemez_electriccircuits_iid,144,Fixed Threshold,124.4,11.491059326469621,10,7.122232359153819
+llm_stationary_12_stemez_electriccircuits_iid,144,Robust Batch-Level Query Routing,33.6,7.676804890925218,10,4.758132967176657
+llm_stationary_12_stemez_electriccircuits_iid,144,WISERouter-Offline,48.0,6.44635986860457,10,3.995495241171263
+llm_stationary_12_stemez_electriccircuits_iid,192,BatchPace,124.4,11.491059326469621,10,7.122232359153819
+llm_stationary_12_stemez_electriccircuits_iid,192,Equal Split,122.7,10.392839415246977,10,6.441548606076371
+llm_stationary_12_stemez_electriccircuits_iid,192,Fixed Threshold,124.4,11.491059326469621,10,7.122232359153819
+llm_stationary_12_stemez_electriccircuits_iid,192,Robust Batch-Level Query Routing,69.4,9.811557810392122,10,6.081266534749703
+llm_stationary_12_stemez_electriccircuits_iid,192,WISERouter-Offline,64.4,6.736302975503534,10,4.175203840665879
+llm_stationary_13_stemez_electricalmachines_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,24,BatchPace,4.4,3.062315754094894,10,1.8980429687209694
+llm_stationary_13_stemez_electricalmachines_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,48,BatchPace,5.9,3.6953424138441564,10,2.2903969573465255
+llm_stationary_13_stemez_electricalmachines_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,72,BatchPace,8.3,4.967673276069771,10,3.0789957958904566
+llm_stationary_13_stemez_electricalmachines_iid,72,Equal Split,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_13_stemez_electricalmachines_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,72,Robust Batch-Level Query Routing,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_13_stemez_electricalmachines_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,96,BatchPace,10.3,3.8887301554906353,10,2.410259921437704
+llm_stationary_13_stemez_electricalmachines_iid,96,Equal Split,1.3,1.1595018087284057,10,0.7186666666666667
+llm_stationary_13_stemez_electricalmachines_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,96,Robust Batch-Level Query Routing,1.3,1.1595018087284057,10,0.7186666666666667
+llm_stationary_13_stemez_electricalmachines_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,120,BatchPace,11.4,3.893013685508382,10,2.412914880848933
+llm_stationary_13_stemez_electricalmachines_iid,120,Equal Split,5.1,2.378141197564929,10,1.4739871852299877
+llm_stationary_13_stemez_electricalmachines_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,120,Robust Batch-Level Query Routing,5.1,2.378141197564929,10,1.4739871852299877
+llm_stationary_13_stemez_electricalmachines_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,144,BatchPace,13.1,5.152130088074683,10,3.1933233124407834
+llm_stationary_13_stemez_electricalmachines_iid,144,Equal Split,12.2,3.3266599866332403,10,2.0618852215064414
+llm_stationary_13_stemez_electricalmachines_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,144,Robust Batch-Level Query Routing,12.2,3.3266599866332403,10,2.0618852215064414
+llm_stationary_13_stemez_electricalmachines_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_13_stemez_electricalmachines_iid,192,BatchPace,33.6,9.418657606639659,10,5.837744465497306
+llm_stationary_13_stemez_electricalmachines_iid,192,Equal Split,39.6,7.229568912920512,10,4.48093323613136
+llm_stationary_13_stemez_electricalmachines_iid,192,Fixed Threshold,94.5,5.72033410057684,10,3.54549980805089
+llm_stationary_13_stemez_electricalmachines_iid,192,Robust Batch-Level Query Routing,39.6,7.229568912920512,10,4.48093323613136
+llm_stationary_13_stemez_electricalmachines_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,24,BatchPace,24.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,24,Equal Split,23.9,0.31622776601683766,10,0.1959999999999998
+llm_stationary_14_stemez_fluidmechanics_iid,24,Fixed Threshold,24.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,24,Robust Batch-Level Query Routing,23.9,0.31622776601683766,10,0.1959999999999998
+llm_stationary_14_stemez_fluidmechanics_iid,24,WISERouter-Offline,10.2,1.9321835661585918,10,1.1975797816151261
+llm_stationary_14_stemez_fluidmechanics_iid,48,BatchPace,48.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,48,Equal Split,46.8,1.0327955589886442,10,0.640133319447337
+llm_stationary_14_stemez_fluidmechanics_iid,48,Fixed Threshold,48.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,48,Robust Batch-Level Query Routing,46.8,1.0327955589886442,10,0.640133319447337
+llm_stationary_14_stemez_fluidmechanics_iid,48,WISERouter-Offline,22.7,4.110960958218893,10,2.548
+llm_stationary_14_stemez_fluidmechanics_iid,72,BatchPace,72.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,72,Equal Split,68.4,2.4585451886114384,10,1.5238220951862396
+llm_stationary_14_stemez_fluidmechanics_iid,72,Fixed Threshold,72.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,72,Robust Batch-Level Query Routing,68.4,2.4585451886114384,10,1.5238220951862396
+llm_stationary_14_stemez_fluidmechanics_iid,72,WISERouter-Offline,35.0,5.2281290471193715,10,3.240427955275865
+llm_stationary_14_stemez_fluidmechanics_iid,96,BatchPace,96.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,96,Equal Split,86.8,3.994440581052066,10,2.475779922008866
+llm_stationary_14_stemez_fluidmechanics_iid,96,Fixed Threshold,96.0,0.0,10,0.0
+llm_stationary_14_stemez_fluidmechanics_iid,96,Robust Batch-Level Query Routing,86.8,3.994440581052066,10,2.475779922008866
+llm_stationary_14_stemez_fluidmechanics_iid,96,WISERouter-Offline,45.9,6.4368729468068056,10,3.9896151861217555
+llm_stationary_14_stemez_fluidmechanics_iid,120,BatchPace,116.3,5.186520991955975,10,3.2146390155039173
+llm_stationary_14_stemez_fluidmechanics_iid,120,Equal Split,101.5,5.562773089426211,10,3.4478424815785553
+llm_stationary_14_stemez_fluidmechanics_iid,120,Fixed Threshold,116.3,5.186520991955975,10,3.2146390155039173
+llm_stationary_14_stemez_fluidmechanics_iid,120,Robust Batch-Level Query Routing,101.5,5.562773089426211,10,3.4478424815785553
+llm_stationary_14_stemez_fluidmechanics_iid,120,WISERouter-Offline,56.6,5.777350411544877,10,3.5808388837130187
+llm_stationary_14_stemez_fluidmechanics_iid,144,BatchPace,119.1,8.319321553534945,10,5.156368920514167
+llm_stationary_14_stemez_fluidmechanics_iid,144,Equal Split,111.1,6.967384333050995,10,4.318429549938007
+llm_stationary_14_stemez_fluidmechanics_iid,144,Fixed Threshold,119.1,8.319321553534945,10,5.156368920514167
+llm_stationary_14_stemez_fluidmechanics_iid,144,Robust Batch-Level Query Routing,111.1,6.967384333050995,10,4.318429549938007
+llm_stationary_14_stemez_fluidmechanics_iid,144,WISERouter-Offline,67.8,7.208020224413605,10,4.467577220622182
+llm_stationary_14_stemez_fluidmechanics_iid,192,BatchPace,119.1,8.319321553534945,10,5.156368920514167
+llm_stationary_14_stemez_fluidmechanics_iid,192,Equal Split,118.5,8.23609940040389,10,5.104787295601388
+llm_stationary_14_stemez_fluidmechanics_iid,192,Fixed Threshold,119.1,8.319321553534945,10,5.156368920514167
+llm_stationary_14_stemez_fluidmechanics_iid,192,Robust Batch-Level Query Routing,118.5,8.23609940040389,10,5.104787295601388
+llm_stationary_14_stemez_fluidmechanics_iid,192,WISERouter-Offline,90.1,10.47165486232026,10,6.4903989262773525
+llm_stationary_15_stemez_heattransfer_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,24,BatchPace,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_15_stemez_heattransfer_iid,24,Equal Split,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_15_stemez_heattransfer_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,24,Robust Batch-Level Query Routing,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_15_stemez_heattransfer_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,48,BatchPace,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_15_stemez_heattransfer_iid,48,Equal Split,1.0,0.9428090415820634,10,0.584359098119945
+llm_stationary_15_stemez_heattransfer_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,48,Robust Batch-Level Query Routing,1.0,0.9428090415820634,10,0.584359098119945
+llm_stationary_15_stemez_heattransfer_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,72,BatchPace,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_15_stemez_heattransfer_iid,72,Equal Split,3.5,2.3687784005919825,10,1.4681840635439565
+llm_stationary_15_stemez_heattransfer_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,72,Robust Batch-Level Query Routing,3.5,2.3687784005919825,10,1.4681840635439565
+llm_stationary_15_stemez_heattransfer_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,96,BatchPace,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_15_stemez_heattransfer_iid,96,Equal Split,9.0,4.216370213557839,10,2.6133333333333333
+llm_stationary_15_stemez_heattransfer_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,96,Robust Batch-Level Query Routing,9.0,4.216370213557839,10,2.6133333333333333
+llm_stationary_15_stemez_heattransfer_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,120,BatchPace,12.2,2.898275349237888,10,1.7963696724226892
+llm_stationary_15_stemez_heattransfer_iid,120,Equal Split,20.0,5.0771820705759385,10,3.1468700499243862
+llm_stationary_15_stemez_heattransfer_iid,120,Fixed Threshold,62.7,5.437523946307428,10,3.370212258399562
+llm_stationary_15_stemez_heattransfer_iid,120,Robust Batch-Level Query Routing,20.0,5.0771820705759385,10,3.1468700499243862
+llm_stationary_15_stemez_heattransfer_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,144,BatchPace,35.7,3.831158803518562,10,2.3745768277971364
+llm_stationary_15_stemez_heattransfer_iid,144,Equal Split,34.2,5.652924513520021,10,3.5037189131296222
+llm_stationary_15_stemez_heattransfer_iid,144,Fixed Threshold,73.9,6.1725197448043865,10,3.825767374004855
+llm_stationary_15_stemez_heattransfer_iid,144,Robust Batch-Level Query Routing,34.2,5.652924513520021,10,3.5037189131296222
+llm_stationary_15_stemez_heattransfer_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_15_stemez_heattransfer_iid,192,BatchPace,79.7,6.429964575675702,10,3.9853333333333314
+llm_stationary_15_stemez_heattransfer_iid,192,Equal Split,68.9,6.471304179049057,10,4.0109558849619775
+llm_stationary_15_stemez_heattransfer_iid,192,Fixed Threshold,99.2,8.011103405759895,10,4.965333333333334
+llm_stationary_15_stemez_heattransfer_iid,192,Robust Batch-Level Query Routing,69.0,6.446359868604573,10,3.9954952411712648
+llm_stationary_15_stemez_heattransfer_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,24,BatchPace,20.9,1.9692073983655893,10,1.2205273905616003
+llm_stationary_16_stemez_thermodynamics_iid,24,Equal Split,23.7,0.6749485577105528,10,0.4183374501789461
+llm_stationary_16_stemez_thermodynamics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,24,Robust Batch-Level Query Routing,0.4,0.966091783079296,10,0.5987898908075631
+llm_stationary_16_stemez_thermodynamics_iid,24,WISERouter-Offline,4.5,1.9578900207451218,10,1.213512807239105
+llm_stationary_16_stemez_thermodynamics_iid,48,BatchPace,42.7,2.710063549890379,10,1.679714790605172
+llm_stationary_16_stemez_thermodynamics_iid,48,Equal Split,44.8,2.299758441421378,10,1.4254050496457327
+llm_stationary_16_stemez_thermodynamics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_16_stemez_thermodynamics_iid,48,Robust Batch-Level Query Routing,3.1,3.1428932176861775,10,1.947985398074408
+llm_stationary_16_stemez_thermodynamics_iid,48,WISERouter-Offline,8.6,3.134042472944842,10,1.9424996496496179
+llm_stationary_16_stemez_thermodynamics_iid,72,BatchPace,57.3,4.056544780420347,10,2.5142725035727973
+llm_stationary_16_stemez_thermodynamics_iid,72,Equal Split,61.3,4.762119042797835,10,2.9515919621639957
+llm_stationary_16_stemez_thermodynamics_iid,72,Fixed Threshold,36.8,4.289522117905442,10,2.658673353385104
+llm_stationary_16_stemez_thermodynamics_iid,72,Robust Batch-Level Query Routing,10.2,5.593647190240808,10,3.4669784475181773
+llm_stationary_16_stemez_thermodynamics_iid,72,WISERouter-Offline,13.6,3.2727833889689535,10,2.0284921603113095
+llm_stationary_16_stemez_thermodynamics_iid,96,BatchPace,63.9,4.998888765404657,10,3.0983433566271437
+llm_stationary_16_stemez_thermodynamics_iid,96,Equal Split,71.3,6.092800852007409,10,3.776357092342948
+llm_stationary_16_stemez_thermodynamics_iid,96,Fixed Threshold,49.8,5.553777493242275,10,3.442266953299493
+llm_stationary_16_stemez_thermodynamics_iid,96,Robust Batch-Level Query Routing,21.5,6.7371276438025784,10,4.175714975373146
+llm_stationary_16_stemez_thermodynamics_iid,96,WISERouter-Offline,17.0,3.4318767136623336,10,2.1270992245570284
+llm_stationary_16_stemez_thermodynamics_iid,120,BatchPace,71.0,6.253887679764573,10,3.8761997425886667
+llm_stationary_16_stemez_thermodynamics_iid,120,Equal Split,76.7,6.945022198188666,10,4.304569355154279
+llm_stationary_16_stemez_thermodynamics_iid,120,Fixed Threshold,60.6,4.575295983139599,10,2.835797830123533
+llm_stationary_16_stemez_thermodynamics_iid,120,Robust Batch-Level Query Routing,36.6,7.290785661062567,10,4.518875769726604
+llm_stationary_16_stemez_thermodynamics_iid,120,WISERouter-Offline,21.7,4.270050741306633,10,2.646604869135801
+llm_stationary_16_stemez_thermodynamics_iid,144,BatchPace,76.7,6.254775952999613,10,3.8767503000436956
+llm_stationary_16_stemez_thermodynamics_iid,144,Equal Split,78.5,7.184087354084102,10,4.452743473909591
+llm_stationary_16_stemez_thermodynamics_iid,144,Fixed Threshold,72.5,4.949747468305832,10,3.0678852651297106
+llm_stationary_16_stemez_thermodynamics_iid,144,Robust Batch-Level Query Routing,51.7,7.601900347208512,10,4.711706649989529
+llm_stationary_16_stemez_thermodynamics_iid,144,WISERouter-Offline,25.2,4.7093288033198295,10,2.918872232748653
+llm_stationary_16_stemez_thermodynamics_iid,192,BatchPace,79.0,7.378647873726218,10,4.573333333333332
+llm_stationary_16_stemez_thermodynamics_iid,192,Equal Split,79.0,7.378647873726218,10,4.573333333333332
+llm_stationary_16_stemez_thermodynamics_iid,192,Fixed Threshold,79.0,7.378647873726218,10,4.573333333333332
+llm_stationary_16_stemez_thermodynamics_iid,192,Robust Batch-Level Query Routing,71.7,7.257945837341151,10,4.498521436106657
+llm_stationary_16_stemez_thermodynamics_iid,192,WISERouter-Offline,34.2,4.613988392799542,10,2.8597796340899344
+llm_stationary_17_stemez_transportphenomena_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,24,BatchPace,13.0,3.80058475033046,10,2.3556268333031394
+llm_stationary_17_stemez_transportphenomena_iid,24,Equal Split,19.6,2.1705094128132942,10,1.3452956717556346
+llm_stationary_17_stemez_transportphenomena_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,24,WISERouter-Offline,2.2,1.6193277068654826,10,1.0036697110548314
+llm_stationary_17_stemez_transportphenomena_iid,48,BatchPace,25.5,3.865804501581067,10,2.39605045392992
+llm_stationary_17_stemez_transportphenomena_iid,48,Equal Split,33.1,4.677368680976279,10,2.899063143691615
+llm_stationary_17_stemez_transportphenomena_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,48,WISERouter-Offline,3.7,2.359378449224852,10,1.4623579133258269
+llm_stationary_17_stemez_transportphenomena_iid,72,BatchPace,40.1,5.989806155275627,10,3.7125203179391644
+llm_stationary_17_stemez_transportphenomena_iid,72,Equal Split,39.3,5.618422079789544,10,3.4823340831497864
+llm_stationary_17_stemez_transportphenomena_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,72,WISERouter-Offline,5.8,2.14993539954628,10,1.3325437662189143
+llm_stationary_17_stemez_transportphenomena_iid,96,BatchPace,43.9,5.606543795720617,10,3.474971846408735
+llm_stationary_17_stemez_transportphenomena_iid,96,Equal Split,42.4,5.853773711604051,10,3.6282065358337396
+llm_stationary_17_stemez_transportphenomena_iid,96,Fixed Threshold,15.1,1.911950719959998,10,1.1850393336181808
+llm_stationary_17_stemez_transportphenomena_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,96,WISERouter-Offline,8.0,2.8674417556808756,10,1.777258813141431
+llm_stationary_17_stemez_transportphenomena_iid,120,BatchPace,43.9,5.606543795720617,10,3.474971846408735
+llm_stationary_17_stemez_transportphenomena_iid,120,Equal Split,43.7,5.735852159879995,10,3.5551180008545424
+llm_stationary_17_stemez_transportphenomena_iid,120,Fixed Threshold,19.0,3.299831645537222,10,2.0452568434198075
+llm_stationary_17_stemez_transportphenomena_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,120,WISERouter-Offline,10.2,3.2930904093942592,10,2.0410785819702726
+llm_stationary_17_stemez_transportphenomena_iid,144,BatchPace,43.9,5.606543795720617,10,3.474971846408735
+llm_stationary_17_stemez_transportphenomena_iid,144,Equal Split,43.9,5.70477382938574,10,3.5358554520480294
+llm_stationary_17_stemez_transportphenomena_iid,144,Fixed Threshold,22.8,4.442221666388715,10,2.753317514078849
+llm_stationary_17_stemez_transportphenomena_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,144,WISERouter-Offline,12.5,4.116363011742823,10,2.5513482274628405
+llm_stationary_17_stemez_transportphenomena_iid,192,BatchPace,43.9,5.606543795720617,10,3.474971846408735
+llm_stationary_17_stemez_transportphenomena_iid,192,Equal Split,44.0,5.754225500544023,10,3.5665059153805485
+llm_stationary_17_stemez_transportphenomena_iid,192,Fixed Threshold,24.9,4.748099034818507,10,2.942902271190427
+llm_stationary_17_stemez_transportphenomena_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_17_stemez_transportphenomena_iid,192,WISERouter-Offline,17.1,4.332051092342595,10,2.6850330848365105
+llm_stationary_18_ori_mmlu_human_aging_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,24,Robust Batch-Level Query Routing,0.4,0.5163977794943222,10,0.32006665972366855
+llm_stationary_18_ori_mmlu_human_aging_iid,24,WISERouter-Offline,7.0,1.699673171197595,10,1.0534683457776772
+llm_stationary_18_ori_mmlu_human_aging_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,48,Robust Batch-Level Query Routing,1.9,1.7919573407620817,10,1.1106666666666667
+llm_stationary_18_ori_mmlu_human_aging_iid,48,WISERouter-Offline,14.4,2.988868236194652,10,1.8525197254910217
+llm_stationary_18_ori_mmlu_human_aging_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,72,Robust Batch-Level Query Routing,7.6,4.195235392680606,10,2.6002338356386328
+llm_stationary_18_ori_mmlu_human_aging_iid,72,WISERouter-Offline,18.4,3.0258148581093915,10,1.875419479002557
+llm_stationary_18_ori_mmlu_human_aging_iid,96,BatchPace,1.1,2.3309511649396115,10,1.4447384999830704
+llm_stationary_18_ori_mmlu_human_aging_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,96,Robust Batch-Level Query Routing,17.8,5.473166867139677,10,3.392303969608593
+llm_stationary_18_ori_mmlu_human_aging_iid,96,WISERouter-Offline,22.9,3.665151201974256,10,2.2716842503599244
+llm_stationary_18_ori_mmlu_human_aging_iid,120,BatchPace,5.3,3.622460796505909,10,2.245224462918772
+llm_stationary_18_ori_mmlu_human_aging_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,120,Robust Batch-Level Query Routing,32.1,6.505553183413554,10,4.032183637793409
+llm_stationary_18_ori_mmlu_human_aging_iid,120,WISERouter-Offline,28.5,4.881939505292269,10,3.0258574542323253
+llm_stationary_18_ori_mmlu_human_aging_iid,144,BatchPace,8.2,5.329165037789691,10,3.3030507110851324
+llm_stationary_18_ori_mmlu_human_aging_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,144,Robust Batch-Level Query Routing,48.2,7.330302403948512,10,4.543368500719849
+llm_stationary_18_ori_mmlu_human_aging_iid,144,WISERouter-Offline,34.2,4.779586221049312,10,2.9624182314078777
+llm_stationary_18_ori_mmlu_human_aging_iid,192,BatchPace,16.1,9.230986464680312,10,5.721424686600746
+llm_stationary_18_ori_mmlu_human_aging_iid,192,Equal Split,0.7,1.0593499054713802,10,0.6565918739132314
+llm_stationary_18_ori_mmlu_human_aging_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_18_ori_mmlu_human_aging_iid,192,Robust Batch-Level Query Routing,75.9,5.108815909777922,10,3.166476906595089
+llm_stationary_18_ori_mmlu_human_aging_iid,192,WISERouter-Offline,42.8,6.0882400303098,10,3.773530265767941
+llm_stationary_19_ori_mmlu_nutrition_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,24,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,24,Equal Split,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_19_ori_mmlu_nutrition_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,24,Robust Batch-Level Query Routing,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_19_ori_mmlu_nutrition_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,48,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,48,Equal Split,0.3,0.674948557710553,10,0.41833745017894614
+llm_stationary_19_ori_mmlu_nutrition_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,48,Robust Batch-Level Query Routing,0.3,0.674948557710553,10,0.41833745017894614
+llm_stationary_19_ori_mmlu_nutrition_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,72,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,72,Equal Split,0.9,1.4491376746189437,10,0.8981848362113444
+llm_stationary_19_ori_mmlu_nutrition_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,72,Robust Batch-Level Query Routing,0.9,1.4491376746189437,10,0.8981848362113444
+llm_stationary_19_ori_mmlu_nutrition_iid,72,WISERouter-Offline,1.0,0.9428090415820634,10,0.584359098119945
+llm_stationary_19_ori_mmlu_nutrition_iid,96,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,96,Equal Split,2.2,2.2010098692292237,10,1.3642000504976453
+llm_stationary_19_ori_mmlu_nutrition_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,96,Robust Batch-Level Query Routing,2.2,2.2010098692292237,10,1.3642000504976453
+llm_stationary_19_ori_mmlu_nutrition_iid,96,WISERouter-Offline,8.4,2.011080417199781,10,1.2464805565181425
+llm_stationary_19_ori_mmlu_nutrition_iid,120,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,120,Equal Split,5.6,3.3065591380365986,10,2.0494265864707946
+llm_stationary_19_ori_mmlu_nutrition_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,120,Robust Batch-Level Query Routing,5.6,3.3065591380365986,10,2.0494265864707946
+llm_stationary_19_ori_mmlu_nutrition_iid,120,WISERouter-Offline,17.8,3.259175083088084,10,2.0200576449420664
+llm_stationary_19_ori_mmlu_nutrition_iid,144,BatchPace,0.6,0.9660917830792959,10,0.5987898908075631
+llm_stationary_19_ori_mmlu_nutrition_iid,144,Equal Split,12.0,5.436502143433364,10,3.36957893841682
+llm_stationary_19_ori_mmlu_nutrition_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_19_ori_mmlu_nutrition_iid,144,Robust Batch-Level Query Routing,12.0,5.436502143433364,10,3.36957893841682
+llm_stationary_19_ori_mmlu_nutrition_iid,144,WISERouter-Offline,27.3,3.4334951418181574,10,2.128102336720571
+llm_stationary_19_ori_mmlu_nutrition_iid,192,BatchPace,32.5,10.564615994493654,10,6.548016832938385
+llm_stationary_19_ori_mmlu_nutrition_iid,192,Equal Split,37.8,8.189424074174365,10,5.075857628683714
+llm_stationary_19_ori_mmlu_nutrition_iid,192,Fixed Threshold,95.1,5.173651192984185,10,3.2066622314591644
+llm_stationary_19_ori_mmlu_nutrition_iid,192,Robust Batch-Level Query Routing,37.8,8.189424074174365,10,5.075857628683714
+llm_stationary_19_ori_mmlu_nutrition_iid,192,WISERouter-Offline,44.4,5.641118880348314,10,3.4964017058811883
+llm_stationary_20_ori_mmlu_professional_medicine_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,24,BatchPace,20.8,2.347575581554535,10,1.4550424201529126
+llm_stationary_20_ori_mmlu_professional_medicine_iid,24,Equal Split,21.3,1.888562063228706,10,1.170542893988369
+llm_stationary_20_ori_mmlu_professional_medicine_iid,24,Fixed Threshold,24.0,0.0,10,0.0
+llm_stationary_20_ori_mmlu_professional_medicine_iid,24,Robust Batch-Level Query Routing,-23.9,0.3162277660168377,10,0.19599999999999984
+llm_stationary_20_ori_mmlu_professional_medicine_iid,24,WISERouter-Offline,4.5,5.212165257037297,10,3.230533495673225
+llm_stationary_20_ori_mmlu_professional_medicine_iid,48,BatchPace,13.5,5.797509043642029,10,3.5933333333333333
+llm_stationary_20_ori_mmlu_professional_medicine_iid,48,Equal Split,34.3,5.8509258526606995,10,3.6264414145734287
+llm_stationary_20_ori_mmlu_professional_medicine_iid,48,Fixed Threshold,-2.5,5.522680508593631,10,3.4229928425283043
+llm_stationary_20_ori_mmlu_professional_medicine_iid,48,Robust Batch-Level Query Routing,-47.3,0.8232726023485649,10,0.5102696454925683
+llm_stationary_20_ori_mmlu_professional_medicine_iid,48,WISERouter-Offline,-0.2,4.565571644870382,10,2.8297706228204746
+llm_stationary_20_ori_mmlu_professional_medicine_iid,72,BatchPace,10.9,5.3218626647276635,10,3.2985246533698804
+llm_stationary_20_ori_mmlu_professional_medicine_iid,72,Equal Split,36.0,8.232726023485643,10,5.102696454925679
+llm_stationary_20_ori_mmlu_professional_medicine_iid,72,Fixed Threshold,-0.4,5.059644256269407,10,3.1359999999999997
+llm_stationary_20_ori_mmlu_professional_medicine_iid,72,Robust Batch-Level Query Routing,-69.4,2.011080417199784,10,1.246480556518144
+llm_stationary_20_ori_mmlu_professional_medicine_iid,72,WISERouter-Offline,6.1,10.49285471165974,10,6.503538729030526
+llm_stationary_20_ori_mmlu_professional_medicine_iid,96,BatchPace,6.2,6.460134157533676,10,4.004032633899645
+llm_stationary_20_ori_mmlu_professional_medicine_iid,96,Equal Split,27.7,10.392839415246977,10,6.441548606076371
+llm_stationary_20_ori_mmlu_professional_medicine_iid,96,Fixed Threshold,-0.7,5.250396810400778,10,3.25422965794774
+llm_stationary_20_ori_mmlu_professional_medicine_iid,96,Robust Batch-Level Query Routing,-88.5,4.0892813821284335,10,2.5345628595260545
+llm_stationary_20_ori_mmlu_professional_medicine_iid,96,WISERouter-Offline,9.0,6.69991708074726,10,4.15265162944781
+llm_stationary_20_ori_mmlu_professional_medicine_iid,120,BatchPace,3.8,7.4654760955570225,10,4.627150022782201
+llm_stationary_20_ori_mmlu_professional_medicine_iid,120,Equal Split,16.9,11.049886877249016,10,6.84879084218521
+llm_stationary_20_ori_mmlu_professional_medicine_iid,120,Fixed Threshold,-2.0,5.981452814975454,10,3.7073428639810366
+llm_stationary_20_ori_mmlu_professional_medicine_iid,120,Robust Batch-Level Query Routing,-102.0,7.438637868140467,10,4.610515517090615
+llm_stationary_20_ori_mmlu_professional_medicine_iid,120,WISERouter-Offline,15.3,10.371435130523965,10,6.428282092959724
+llm_stationary_20_ori_mmlu_professional_medicine_iid,144,BatchPace,2.0,7.986099033807293,10,4.949835463034212
+llm_stationary_20_ori_mmlu_professional_medicine_iid,144,Equal Split,8.2,10.747609553343064,10,6.661437415786808
+llm_stationary_20_ori_mmlu_professional_medicine_iid,144,Fixed Threshold,-2.0,6.2182527020592095,10,3.854112954580686
+llm_stationary_20_ori_mmlu_professional_medicine_iid,144,Robust Batch-Level Query Routing,-107.3,12.247902314727659,10,7.59132850326242
+llm_stationary_20_ori_mmlu_professional_medicine_iid,144,WISERouter-Offline,20.0,11.64283279771532,10,7.21630253122901
+llm_stationary_20_ori_mmlu_professional_medicine_iid,192,BatchPace,-8.7,7.528464503321894,10,4.666190642388189
+llm_stationary_20_ori_mmlu_professional_medicine_iid,192,Equal Split,-3.7,9.798525966241613,10,6.073189314062624
+llm_stationary_20_ori_mmlu_professional_medicine_iid,192,Fixed Threshold,-39.2,7.067924416372571,10,4.380744939188108
+llm_stationary_20_ori_mmlu_professional_medicine_iid,192,Robust Batch-Level Query Routing,-98.2,22.004040033088874,10,13.638245309097174
+llm_stationary_20_ori_mmlu_professional_medicine_iid,192,WISERouter-Offline,26.8,11.89584427903758,10,7.373120672038701
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,24,BatchPace,10.0,2.3570226039551585,10,1.4608977452998626
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,24,Equal Split,0.4,0.5163977794943222,10,0.32006665972366855
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,24,Fixed Threshold,11.3,2.4966644414765335,10,1.547448652890729
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,24,Robust Batch-Level Query Routing,0.4,0.5163977794943222,10,0.32006665972366855
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,24,WISERouter-Offline,5.6,1.776388345929897,10,1.1010169036950441
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,48,BatchPace,22.2,4.685675570881488,10,2.904211807396668
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,48,Equal Split,1.5,1.4337208778404378,10,0.8886294065707155
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,48,Fixed Threshold,23.3,4.321779468896785,10,2.6786666666666665
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,48,Robust Batch-Level Query Routing,2.2,1.4757295747452437,10,0.9146666666666666
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,48,WISERouter-Offline,11.4,2.951459149490488,10,1.8293333333333335
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,72,BatchPace,32.8,4.613988392799541,10,2.859779634089934
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,72,Equal Split,5.8,3.4896672875473067,10,2.162918193346921
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,72,Fixed Threshold,34.3,4.643992535164831,10,2.8783763941963296
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,72,Robust Batch-Level Query Routing,7.7,2.79085809185793,10,1.7297917665301668
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,72,WISERouter-Offline,13.9,3.478505426185217,10,2.1559999999999997
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,96,BatchPace,44.1,5.321862664727662,10,3.2985246533698795
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,96,Equal Split,14.9,4.605552204797066,10,2.8545508305939213
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,96,Fixed Threshold,45.0,4.830458915396479,10,2.993949454037815
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,96,Robust Batch-Level Query Routing,17.3,4.321779468896785,10,2.6786666666666665
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,96,WISERouter-Offline,18.2,1.7511900715418265,10,1.085398851421295
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,120,BatchPace,57.6,6.363087999461338,10,3.94388280195489
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,120,Equal Split,27.0,5.94418483337567,10,3.6842439296731335
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,120,Fixed Threshold,58.2,6.494442068244028,10,4.025296897262499
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,120,Robust Batch-Level Query Routing,31.0,6.27162924074226,10,3.887196076008172
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,120,WISERouter-Offline,23.6,4.8579831205964465,10,3.0110091331644933
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,144,BatchPace,68.6,5.719362823873924,10,3.5448978045134734
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,144,Equal Split,42.8,6.511528238439882,10,4.035887015266903
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,144,Fixed Threshold,70.0,5.9254629448770615,10,3.6726399829610923
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,144,Robust Batch-Level Query Routing,47.4,6.363087999461335,10,3.943882801954888
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,144,WISERouter-Offline,32.1,6.556591255285698,10,4.063817362475281
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,192,BatchPace,87.2,9.235198367598224,10,5.724035251075552
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,192,Equal Split,72.2,8.58681159297986,10,5.322160964620792
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,192,Fixed Threshold,62.6,5.834761729877618,10,3.6164227874762904
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,192,Robust Batch-Level Query Routing,77.3,5.9076221950967716,10,3.6615821716848025
+llm_stationary_21_ori_mmlu_high_school_world_history_iid,192,WISERouter-Offline,38.0,6.146362971528592,10,3.809555237965596
+llm_stationary_22_ori_mmlu_professional_law_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,24,BatchPace,-4.8,5.245103536738918,10,3.2509488529419284
+llm_stationary_22_ori_mmlu_professional_law_iid,24,Equal Split,-4.9,3.5418137224371984,10,2.195238888544428
+llm_stationary_22_ori_mmlu_professional_law_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_22_ori_mmlu_professional_law_iid,24,Robust Batch-Level Query Routing,12.6,4.060651288757616,10,2.516817743809741
+llm_stationary_22_ori_mmlu_professional_law_iid,24,WISERouter-Offline,4.3,3.4657049948186747,10,2.1480662104424164
+llm_stationary_22_ori_mmlu_professional_law_iid,48,BatchPace,1.9,6.0635523141692005,10,3.7582286607744697
+llm_stationary_22_ori_mmlu_professional_law_iid,48,Equal Split,-1.2,5.411920998027307,10,3.3543433866489507
+llm_stationary_22_ori_mmlu_professional_law_iid,48,Fixed Threshold,6.7,4.8545511292669135,10,3.0088819629002836
+llm_stationary_22_ori_mmlu_professional_law_iid,48,Robust Batch-Level Query Routing,17.0,4.69041575982343,10,2.9071498069414994
+llm_stationary_22_ori_mmlu_professional_law_iid,48,WISERouter-Offline,10.9,4.2282121254470875,10,2.620673026363859
+llm_stationary_22_ori_mmlu_professional_law_iid,72,BatchPace,7.6,6.586180818788517,10,4.082157163940544
+llm_stationary_22_ori_mmlu_professional_law_iid,72,Equal Split,2.8,6.528569691917382,10,4.046449417562128
+llm_stationary_22_ori_mmlu_professional_law_iid,72,Fixed Threshold,6.7,5.417051268397267,10,3.3575231611677343
+llm_stationary_22_ori_mmlu_professional_law_iid,72,Robust Batch-Level Query Routing,20.2,4.211096452627669,10,2.610064622443922
+llm_stationary_22_ori_mmlu_professional_law_iid,72,WISERouter-Offline,16.4,4.477102237434884,10,2.774936715995119
+llm_stationary_22_ori_mmlu_professional_law_iid,96,BatchPace,9.8,6.250333324444918,10,3.873996730337632
+llm_stationary_22_ori_mmlu_professional_law_iid,96,Equal Split,5.4,6.397916327472041,10,3.9654696233023055
+llm_stationary_22_ori_mmlu_professional_law_iid,96,Fixed Threshold,9.4,5.929212051829109,10,3.6749637035244604
+llm_stationary_22_ori_mmlu_professional_law_iid,96,Robust Batch-Level Query Routing,27.2,5.28730134903956,10,3.277103327974603
+llm_stationary_22_ori_mmlu_professional_law_iid,96,WISERouter-Offline,19.2,5.788878225624644,10,3.587983896904283
+llm_stationary_22_ori_mmlu_professional_law_iid,120,BatchPace,5.0,5.41602560309064,10,3.3568874472244867
+llm_stationary_22_ori_mmlu_professional_law_iid,120,Equal Split,6.6,6.397916327472041,10,3.9654696233023055
+llm_stationary_22_ori_mmlu_professional_law_iid,120,Fixed Threshold,11.2,5.996295152471696,10,3.716542240069689
+llm_stationary_22_ori_mmlu_professional_law_iid,120,Robust Batch-Level Query Routing,35.7,6.832113712298543,10,4.2345879505698205
+llm_stationary_22_ori_mmlu_professional_law_iid,120,WISERouter-Offline,27.4,4.857983120596447,10,3.0110091331644937
+llm_stationary_22_ori_mmlu_professional_law_iid,144,BatchPace,9.5,6.704061787039588,10,4.155220545022583
+llm_stationary_22_ori_mmlu_professional_law_iid,144,Equal Split,7.1,7.32499525976335,10,4.540079098674627
+llm_stationary_22_ori_mmlu_professional_law_iid,144,Fixed Threshold,11.7,5.2925524193068805,10,3.280357975045474
+llm_stationary_22_ori_mmlu_professional_law_iid,144,Robust Batch-Level Query Routing,44.3,8.420213774008355,10,5.218902566632185
+llm_stationary_22_ori_mmlu_professional_law_iid,144,WISERouter-Offline,29.3,5.207899981971833,10,3.227889850798643
+llm_stationary_22_ori_mmlu_professional_law_iid,192,BatchPace,17.4,8.514040691051981,10,5.277057092315333
+llm_stationary_22_ori_mmlu_professional_law_iid,192,Equal Split,11.0,9.092121131323903,10,5.635355061277565
+llm_stationary_22_ori_mmlu_professional_law_iid,192,Fixed Threshold,11.9,5.10881590977792,10,3.166476906595088
+llm_stationary_22_ori_mmlu_professional_law_iid,192,Robust Batch-Level Query Routing,60.1,11.415875885021796,10,7.075633179362033
+llm_stationary_22_ori_mmlu_professional_law_iid,192,WISERouter-Offline,34.0,8.286535263104035,10,5.136047767171433
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,24,BatchPace,6.1,1.1972189997378648,10,0.7420440238512357
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,24,Equal Split,23.2,1.0327955589886444,10,0.6401333194473371
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,24,Fixed Threshold,5.7,1.2516655570345725,10,0.7757903496864772
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,24,Robust Batch-Level Query Routing,1.0,0.9428090415820635,10,0.584359098119945
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,48,BatchPace,13.3,2.4060109910158114,10,1.4912610621737412
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,48,Equal Split,42.4,2.1705094128132942,10,1.3452956717556346
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,48,Fixed Threshold,12.2,1.9888578520235067,10,1.232706867922063
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,48,Robust Batch-Level Query Routing,4.8,1.6865480854231356,10,1.0453333333333332
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,72,BatchPace,18.9,2.7668674625929506,10,1.7149222204584733
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,72,Equal Split,55.9,3.4785054261852175,10,2.156
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,72,Fixed Threshold,17.1,2.2335820757001272,10,1.38438851322725
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,72,Robust Batch-Level Query Routing,12.8,3.6147844564602556,10,2.24046661806568
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,96,BatchPace,24.0,2.9059326290271157,10,1.8011157036064556
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,96,Equal Split,63.6,4.221637386396683,10,2.6165979608814354
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,96,Fixed Threshold,22.8,3.04776785350999,10,1.889026086520659
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,96,Robust Batch-Level Query Routing,25.6,6.484168755086842,10,4.0189294317986946
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,120,BatchPace,31.4,5.081557066709201,10,3.149581700621352
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,120,Equal Split,66.9,5.195083145522205,10,3.2199458932652196
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,120,Fixed Threshold,30.3,4.831608887776871,10,2.994662214303606
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,120,Robust Batch-Level Query Routing,39.5,7.074995092263708,10,4.385127389509023
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,144,BatchPace,37.1,5.1305187088853135,10,3.179928440844053
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,144,Equal Split,68.2,6.106462878695725,10,3.7848249042136084
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,144,Fixed Threshold,36.3,5.034326612809746,10,3.1203079620091634
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,144,Robust Batch-Level Query Routing,52.7,6.549809157525125,10,4.059613774732763
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,192,BatchPace,48.6,5.521674464226309,10,3.422369289769232
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,192,Equal Split,68.7,6.447221623821123,10,3.9960293625881516
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,192,Fixed Threshold,47.5,5.2967495273569005,10,3.2829593695661567
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,192,Robust Batch-Level Query Routing,65.3,6.325433669805661,10,3.9205444066410524
+llm_stationary_23_ori_mmlu_abstract_algebra_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,24,BatchPace,24.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,24,Equal Split,21.7,1.7029386365926404,10,1.0554923021983629
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,24,Fixed Threshold,24.0,0.0,10,0.0
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,24,Robust Batch-Level Query Routing,2.1,1.286683937707919,10,0.7974949668946019
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,24,WISERouter-Offline,10.6,2.319003617456811,10,1.437333333333333
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,48,BatchPace,42.3,2.983286778035259,10,1.849060301883094
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,48,Equal Split,37.6,3.405877273185279,10,2.110984604396725
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,48,Fixed Threshold,14.9,3.5418137224371984,10,2.195238888544428
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,48,Robust Batch-Level Query Routing,9.6,3.3065591380365986,10,2.0494265864707946
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,48,WISERouter-Offline,21.6,3.0258148581093907,10,1.8754194790025565
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,72,BatchPace,44.9,3.4464152068167553,10,2.1361102759715167
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,72,Equal Split,47.2,4.984420171338332,10,3.0893756291163066
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,72,Fixed Threshold,23.5,4.624812308503869,10,2.8664883665480927
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,72,Robust Batch-Level Query Routing,20.8,5.7310072800899885,10,3.5521151132498194
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,72,WISERouter-Offline,33.0,4.714045207910317,10,2.921795490599725
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,96,BatchPace,56.4,5.059644256269407,10,3.1359999999999997
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,96,Equal Split,52.8,6.408327915038889,10,3.971922792133133
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,96,Fixed Threshold,48.0,6.565905201197403,10,4.069590205959863
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,96,Robust Batch-Level Query Routing,33.9,5.724217559340898,10,3.547906800730068
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,96,WISERouter-Offline,44.9,5.896326540030383,10,3.654581052140815
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,120,BatchPace,66.6,6.9314099896373484,10,4.296132420884832
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,120,Equal Split,57.1,6.6072350915913045,10,4.0952067374214725
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,120,Fixed Threshold,59.6,6.168017869984202,10,3.8229770830829968
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,120,Robust Batch-Level Query Routing,45.4,5.872724145478732,10,3.6399521364374503
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,120,WISERouter-Offline,57.3,7.8180702364600325,10,4.845690135459436
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,144,BatchPace,76.5,6.916164640415478,10,4.286683255540738
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,144,Equal Split,62.7,7.528464503321894,10,4.666190642388189
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,144,Fixed Threshold,71.8,7.067924416372571,10,4.380744939188108
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,144,Robust Batch-Level Query Routing,58.2,5.692099788303083,10,3.528
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,144,WISERouter-Offline,69.0,8.366600265340754,10,5.185672569686597
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,192,BatchPace,97.8,6.321040701937899,10,3.9178216169476405
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,192,Equal Split,82.1,10.21382505343724,10,6.330594355105126
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,192,Fixed Threshold,93.8,9.390302326218137,10,5.820169680611648
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,192,Robust Batch-Level Query Routing,89.1,7.651434142985514,10,4.742408014688086
+llm_stationary_24_ori_mmlu_elementary_mathematics_iid,192,WISERouter-Offline,90.7,11.245245909074445,10,6.969875624587731
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_25_ori_mmlu_high_school_mathematics_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,24,BatchPace,10.9,2.330951164939612,10,1.4447384999830706
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,24,Equal Split,1.6,1.1737877907772674,10,0.7275212100764562
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,24,Fixed Threshold,11.5,2.0138409955990952,10,1.2481915807367963
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,24,Robust Batch-Level Query Routing,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,24,WISERouter-Offline,24.0,0.0,10,0.0
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,48,BatchPace,22.1,4.121757985239902,10,2.554692066679575
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,48,Equal Split,6.9,1.9692073983655907,10,1.220527390561601
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,48,Fixed Threshold,22.7,4.191260749066641,10,2.597770326003949
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,48,Robust Batch-Level Query Routing,0.7,0.8232726023485646,10,0.510269645492568
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,48,WISERouter-Offline,47.7,0.6749485577105531,10,0.4183374501789462
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,72,BatchPace,30.7,6.09280085200741,10,3.7763570923429484
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,72,Equal Split,17.4,2.633122354417534,10,1.6320261435814487
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,72,Fixed Threshold,22.1,5.152130088074683,10,3.1933233124407834
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,72,Robust Batch-Level Query Routing,2.1,1.449137674618944,10,0.8981848362113446
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,72,WISERouter-Offline,65.3,4.571651780264985,10,2.8335391297809887
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,96,BatchPace,35.9,6.261877602693231,10,3.8811519481262833
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,96,Equal Split,30.6,4.376706016578627,10,2.7127104936248205
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,96,Fixed Threshold,31.0,6.5659052011974035,10,4.069590205959863
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,96,Robust Batch-Level Query Routing,6.2,3.084008934992101,10,1.9114885415414984
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,96,WISERouter-Offline,73.4,7.441624673267106,10,4.612366758087555
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,120,BatchPace,43.8,7.627435858647241,10,4.727533723952807
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,120,Equal Split,44.4,5.98516684999025,10,3.709644846732485
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,120,Fixed Threshold,38.3,6.912950809089335,10,4.28469130224752
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,120,Robust Batch-Level Query Routing,14.6,5.146735750831676,10,3.1899798675784075
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,120,WISERouter-Offline,82.1,6.77331364826536,10,4.198143293303734
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,144,BatchPace,49.8,7.315128919650776,10,4.533963877717206
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,144,Equal Split,56.9,7.723700897597963,10,4.7871994132501134
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,144,Fixed Threshold,47.9,6.707375708046246,10,4.157274534542499
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,144,Robust Batch-Level Query Routing,29.0,6.733003292241386,10,4.173158675791436
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,144,WISERouter-Offline,91.0,6.497862896539308,10,4.027417148606397
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,192,BatchPace,70.5,7.6485292703891785,10,4.7406075559995475
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,192,Equal Split,79.1,8.451824260674933,10,5.238494949251488
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,192,Fixed Threshold,63.3,8.219894565422765,10,5.094743434822472
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,192,Robust Batch-Level Query Routing,64.6,7.919034733546199,10,4.908268579086156
+llm_stationary_26_ori_mmlu_high_school_statistics_iid,192,WISERouter-Offline,107.5,6.519202405202649,10,4.040643513105307
+llm_stationary_27_theoremqa_math_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_27_theoremqa_math_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,24,BatchPace,1.7,2.1108186931983415,10,1.3082989804407177
+llm_stationary_28_ori_mmlu_miscellaneous_iid,24,Equal Split,2.6,1.07496769977314,10,0.6662718831094572
+llm_stationary_28_ori_mmlu_miscellaneous_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,48,BatchPace,2.6,2.7968235951204043,10,1.7334892237590889
+llm_stationary_28_ori_mmlu_miscellaneous_iid,48,Equal Split,9.1,2.8460498941515415,10,1.764
+llm_stationary_28_ori_mmlu_miscellaneous_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,48,WISERouter-Offline,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_28_ori_mmlu_miscellaneous_iid,72,BatchPace,16.3,5.755190893638735,10,3.567104272219819
+llm_stationary_28_ori_mmlu_miscellaneous_iid,72,Equal Split,20.8,5.43241300999023,10,3.367044467250833
+llm_stationary_28_ori_mmlu_miscellaneous_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,72,WISERouter-Offline,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_28_ori_mmlu_miscellaneous_iid,96,BatchPace,39.2,5.750362307426086,10,3.56411148347897
+llm_stationary_28_ori_mmlu_miscellaneous_iid,96,Equal Split,33.6,6.022181221672648,10,3.7325865919850627
+llm_stationary_28_ori_mmlu_miscellaneous_iid,96,Fixed Threshold,24.8,5.116422361159971,10,3.1711914340056966
+llm_stationary_28_ori_mmlu_miscellaneous_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_28_ori_mmlu_miscellaneous_iid,96,WISERouter-Offline,0.3,0.4830458915396479,10,0.2993949454037815
+llm_stationary_28_ori_mmlu_miscellaneous_iid,120,BatchPace,47.4,7.105553383719587,10,4.404067614780176
+llm_stationary_28_ori_mmlu_miscellaneous_iid,120,Equal Split,44.2,6.0699624747146865,10,3.762201719442722
+llm_stationary_28_ori_mmlu_miscellaneous_iid,120,Fixed Threshold,31.7,5.229191567005788,10,3.2410865119243235
+llm_stationary_28_ori_mmlu_miscellaneous_iid,120,Robust Batch-Level Query Routing,0.1,0.31622776601683794,10,0.19599999999999998
+llm_stationary_28_ori_mmlu_miscellaneous_iid,120,WISERouter-Offline,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_28_ori_mmlu_miscellaneous_iid,144,BatchPace,49.4,7.306009702825324,10,4.528311728570716
+llm_stationary_28_ori_mmlu_miscellaneous_iid,144,Equal Split,51.1,6.332456079595025,10,3.9248969413221535
+llm_stationary_28_ori_mmlu_miscellaneous_iid,144,Fixed Threshold,38.2,5.788878225624643,10,3.5879838969042828
+llm_stationary_28_ori_mmlu_miscellaneous_iid,144,Robust Batch-Level Query Routing,0.8,1.3165611772087666,10,0.816013071790724
+llm_stationary_28_ori_mmlu_miscellaneous_iid,144,WISERouter-Offline,0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_28_ori_mmlu_miscellaneous_iid,192,BatchPace,55.6,7.152311203768719,10,4.433048411896967
+llm_stationary_28_ori_mmlu_miscellaneous_iid,192,Equal Split,56.9,6.854844191437825,10,4.248676447501687
+llm_stationary_28_ori_mmlu_miscellaneous_iid,192,Fixed Threshold,51.2,7.871185143010903,10,4.878611095611355
+llm_stationary_28_ori_mmlu_miscellaneous_iid,192,Robust Batch-Level Query Routing,8.1,3.8137179293236207,10,2.363766861976404
+llm_stationary_28_ori_mmlu_miscellaneous_iid,192,WISERouter-Offline,1.0,1.8257418583505536,10,1.1316065276116662
+llm_stationary_29_ori_mmlu_professional_accounting_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_29_ori_mmlu_professional_accounting_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,24,BatchPace,3.1,1.286683937707919,10,0.7974949668946019
+llm_stationary_30_ori_mmlu_security_studies_iid,24,Equal Split,0.7,0.6749485577105528,10,0.4183374501789461
+llm_stationary_30_ori_mmlu_security_studies_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,24,Robust Batch-Level Query Routing,24.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,24,WISERouter-Offline,12.3,1.7029386365926402,10,1.0554923021983627
+llm_stationary_30_ori_mmlu_security_studies_iid,48,BatchPace,6.2,3.0110906108363236,10,1.866293295992531
+llm_stationary_30_ori_mmlu_security_studies_iid,48,Equal Split,3.5,1.35400640077266,10,0.8392218618061217
+llm_stationary_30_ori_mmlu_security_studies_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,48,Robust Batch-Level Query Routing,48.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,48,WISERouter-Offline,23.8,3.2249030993194197,10,1.9988156493283713
+llm_stationary_30_ori_mmlu_security_studies_iid,72,BatchPace,9.5,3.719318934070233,10,2.305257758545307
+llm_stationary_30_ori_mmlu_security_studies_iid,72,Equal Split,10.5,2.9154759474226504,10,1.807030713629406
+llm_stationary_30_ori_mmlu_security_studies_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,72,Robust Batch-Level Query Routing,72.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,72,WISERouter-Offline,36.5,4.949747468305833,10,3.0678852651297115
+llm_stationary_30_ori_mmlu_security_studies_iid,96,BatchPace,11.9,4.677368680976279,10,2.899063143691615
+llm_stationary_30_ori_mmlu_security_studies_iid,96,Equal Split,22.6,5.232377832092956,10,3.24306137948561
+llm_stationary_30_ori_mmlu_security_studies_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,96,Robust Batch-Level Query Routing,95.9,0.3162277660168401,10,0.1960000000000013
+llm_stationary_30_ori_mmlu_security_studies_iid,96,WISERouter-Offline,47.1,4.254409477236529,10,2.636910313226447
+llm_stationary_30_ori_mmlu_security_studies_iid,120,BatchPace,15.8,4.0221608343995605,10,2.4929611130362836
+llm_stationary_30_ori_mmlu_security_studies_iid,120,Equal Split,38.0,8.32666399786453,10,5.160919814658365
+llm_stationary_30_ori_mmlu_security_studies_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,120,Robust Batch-Level Query Routing,119.8,0.6324555320336762,10,0.3920000000000002
+llm_stationary_30_ori_mmlu_security_studies_iid,120,WISERouter-Offline,61.2,4.565571644870381,10,2.829770622820474
+llm_stationary_30_ori_mmlu_security_studies_iid,144,BatchPace,20.6,5.358275012642698,10,3.3210932604256147
+llm_stationary_30_ori_mmlu_security_studies_iid,144,Equal Split,54.2,8.791409948858538,10,5.448972339400847
+llm_stationary_30_ori_mmlu_security_studies_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,144,Robust Batch-Level Query Routing,143.5,0.9718253158075499,10,0.6023435712098019
+llm_stationary_30_ori_mmlu_security_studies_iid,144,WISERouter-Offline,72.5,6.346477588219923,10,3.9335875624054824
+llm_stationary_30_ori_mmlu_security_studies_iid,192,BatchPace,36.6,5.719362823873924,10,3.5448978045134734
+llm_stationary_30_ori_mmlu_security_studies_iid,192,Equal Split,78.9,8.491171886141508,10,5.262882860182239
+llm_stationary_30_ori_mmlu_security_studies_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_30_ori_mmlu_security_studies_iid,192,Robust Batch-Level Query Routing,188.1,2.923088169119164,10,1.8117488175179721
+llm_stationary_30_ori_mmlu_security_studies_iid,192,WISERouter-Offline,96.2,5.050852513300217,10,3.1305508212524593
+llm_stationary_31_ori_mmlu_formal_logic_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,24,BatchPace,17.2,3.910100879630714,10,2.4235056334895435
+llm_stationary_31_ori_mmlu_formal_logic_iid,24,Equal Split,24.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,48,BatchPace,31.0,8.232726023485647,10,5.102696454925681
+llm_stationary_31_ori_mmlu_formal_logic_iid,48,Equal Split,47.6,0.843274042711568,10,0.5226666666666667
+llm_stationary_31_ori_mmlu_formal_logic_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,48,Robust Batch-Level Query Routing,-0.2,0.4216370213557839,10,0.2613333333333333
+llm_stationary_31_ori_mmlu_formal_logic_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,72,BatchPace,45.4,10.156552345927015,10,6.2950963632197245
+llm_stationary_31_ori_mmlu_formal_logic_iid,72,Equal Split,70.4,2.065591117977293,10,1.2802666388946766
+llm_stationary_31_ori_mmlu_formal_logic_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,72,Robust Batch-Level Query Routing,-0.6,0.8432740427115678,10,0.5226666666666666
+llm_stationary_31_ori_mmlu_formal_logic_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,96,BatchPace,53.8,12.734903917100347,10,7.893175223641693
+llm_stationary_31_ori_mmlu_formal_logic_iid,96,Equal Split,91.0,4.136557881996952,10,2.5638651377255477
+llm_stationary_31_ori_mmlu_formal_logic_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,96,Robust Batch-Level Query Routing,-1.7,1.0593499054713802,10,0.6565918739132314
+llm_stationary_31_ori_mmlu_formal_logic_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,120,BatchPace,64.2,13.447841627727644,10,8.335058594741719
+llm_stationary_31_ori_mmlu_formal_logic_iid,120,Equal Split,106.4,8.154071920757684,10,5.053946136985984
+llm_stationary_31_ori_mmlu_formal_logic_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,120,Robust Batch-Level Query Routing,-5.8,2.2010098692292237,10,1.3642000504976453
+llm_stationary_31_ori_mmlu_formal_logic_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,144,BatchPace,75.8,18.19523747211524,10,11.277525023987605
+llm_stationary_31_ori_mmlu_formal_logic_iid,144,Equal Split,115.2,10.799176923368845,10,6.693399202863137
+llm_stationary_31_ori_mmlu_formal_logic_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,144,Robust Batch-Level Query Routing,-13.9,4.90917508345343,10,3.042738240466964
+llm_stationary_31_ori_mmlu_formal_logic_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,192,BatchPace,99.0,18.239152027072603,10,11.304743547142794
+llm_stationary_31_ori_mmlu_formal_logic_iid,192,Equal Split,110.4,16.21521918856891,10,10.050296977370039
+llm_stationary_31_ori_mmlu_formal_logic_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_31_ori_mmlu_formal_logic_iid,192,Robust Batch-Level Query Routing,-42.0,9.043106644167024,10,5.604975567396445
+llm_stationary_31_ori_mmlu_formal_logic_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_32_ori_mmlu_moral_disputes_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,24,BatchPace,11.3,1.8287822299126937,10,1.1334909694293014
+llm_stationary_33_ori_mmlu_philosophy_iid,24,Equal Split,0.9,1.1972189997378646,10,0.7420440238512356
+llm_stationary_33_ori_mmlu_philosophy_iid,24,Fixed Threshold,12.1,2.378141197564929,10,1.4739871852299877
+llm_stationary_33_ori_mmlu_philosophy_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,48,BatchPace,23.9,2.766867462592951,10,1.7149222204584735
+llm_stationary_33_ori_mmlu_philosophy_iid,48,Equal Split,5.0,2.5819888974716116,10,1.6003332986183432
+llm_stationary_33_ori_mmlu_philosophy_iid,48,Fixed Threshold,25.0,2.309401076758503,10,1.431381616946834
+llm_stationary_33_ori_mmlu_philosophy_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,72,BatchPace,36.2,3.552776691859795,10,2.2020338073900887
+llm_stationary_33_ori_mmlu_philosophy_iid,72,Equal Split,13.0,4.055175020198813,10,2.513423517391722
+llm_stationary_33_ori_mmlu_philosophy_iid,72,Fixed Threshold,36.9,3.2472210341220147,10,2.01264844863125
+llm_stationary_33_ori_mmlu_philosophy_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,96,BatchPace,48.2,3.823901439919996,10,2.3700786672363616
+llm_stationary_33_ori_mmlu_philosophy_iid,96,Equal Split,26.2,4.848825745591515,10,3.0053333333333336
+llm_stationary_33_ori_mmlu_philosophy_iid,96,Fixed Threshold,48.9,3.5103022978402048,10,2.17570790523197
+llm_stationary_33_ori_mmlu_philosophy_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_33_ori_mmlu_philosophy_iid,120,BatchPace,60.8,3.823901439919997,10,2.370078667236362
+llm_stationary_33_ori_mmlu_philosophy_iid,120,Equal Split,42.5,4.576510072581995,10,2.8365503305560757
+llm_stationary_33_ori_mmlu_philosophy_iid,120,Fixed Threshold,61.6,3.7475918193480524,10,2.322781474391807
+llm_stationary_33_ori_mmlu_philosophy_iid,120,Robust Batch-Level Query Routing,0.2,0.6324555320336759,10,0.39199999999999996
+llm_stationary_33_ori_mmlu_philosophy_iid,120,WISERouter-Offline,1.6,1.2649110640673518,10,0.7839999999999999
+llm_stationary_33_ori_mmlu_philosophy_iid,144,BatchPace,74.5,3.407508050043478,10,2.111995370365295
+llm_stationary_33_ori_mmlu_philosophy_iid,144,Equal Split,57.6,4.452215428550401,10,2.759511712040536
+llm_stationary_33_ori_mmlu_philosophy_iid,144,Fixed Threshold,75.2,3.5527766918597967,10,2.2020338073900896
+llm_stationary_33_ori_mmlu_philosophy_iid,144,Robust Batch-Level Query Routing,0.9,1.5951314818673863,10,0.9886727354275415
+llm_stationary_33_ori_mmlu_philosophy_iid,144,WISERouter-Offline,6.9,2.330951164939612,10,1.4447384999830706
+llm_stationary_33_ori_mmlu_philosophy_iid,192,BatchPace,78.8,3.9384147967311844,10,2.441054781123204
+llm_stationary_33_ori_mmlu_philosophy_iid,192,Equal Split,76.1,4.228212125447086,10,2.6206730263638582
+llm_stationary_33_ori_mmlu_philosophy_iid,192,Fixed Threshold,48.8,4.516635916254487,10,2.799439943988798
+llm_stationary_33_ori_mmlu_philosophy_iid,192,Robust Batch-Level Query Routing,5.9,3.725288952252936,10,2.3089580141507793
+llm_stationary_33_ori_mmlu_philosophy_iid,192,WISERouter-Offline,17.3,3.6530048514126614,10,2.2641558642853576
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,24,BatchPace,24.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,24,Equal Split,24.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,24,Robust Batch-Level Query Routing,1.5,1.4337208778404378,10,0.8886294065707155
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,24,WISERouter-Offline,14.3,2.406010991015812,10,1.4912610621737414
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,48,BatchPace,48.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,48,Equal Split,47.8,0.4216370213557843,10,0.2613333333333336
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,48,Robust Batch-Level Query Routing,6.4,2.6331223544175333,10,1.632026143581448
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,48,WISERouter-Offline,29.1,4.04007700696685,10,2.504065671840275
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,72,BatchPace,72.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,72,Equal Split,70.9,1.8529256146249733,10,1.148455194308134
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,72,Fixed Threshold,72.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,72,Robust Batch-Level Query Routing,16.7,4.191260749066642,10,2.5977703260039497
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,72,WISERouter-Offline,42.1,4.886489310105751,10,3.0286774524718063
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,96,BatchPace,95.8,0.4216370213557828,10,0.26133333333333264
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,96,Equal Split,92.0,3.265986323710904,10,2.024279295617743
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,96,Fixed Threshold,96.0,0.0,10,0.0
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,96,Robust Batch-Level Query Routing,31.2,4.779586221049312,10,2.9624182314078777
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,96,WISERouter-Offline,56.1,5.566766466171265,10,3.4503176021281807
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,120,BatchPace,105.5,5.060742150229661,10,3.136680481726574
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,120,Equal Split,109.5,4.5765100725819945,10,2.8365503305560753
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,120,Fixed Threshold,79.5,3.5668224265054502,10,2.210739443916648
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,120,Robust Batch-Level Query Routing,45.3,4.398231968012198,10,2.7260524165499422
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,120,WISERouter-Offline,70.6,5.460972644339306,10,3.384745912013026
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,144,BatchPace,113.3,5.250396810400778,10,3.25422965794774
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,144,Equal Split,122.1,6.026792034094277,10,3.7354444031318272
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,144,Fixed Threshold,96.0,3.8297084310253524,10,2.373677877612433
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,144,Robust Batch-Level Query Routing,57.0,4.8074017006186525,10,2.9796584442590808
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,144,WISERouter-Offline,85.0,7.6739096221475585,10,4.756338460996605
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,192,BatchPace,127.6,6.915361322607968,10,4.286185354005224
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,192,Equal Split,136.3,10.306955580254204,10,6.388317253653994
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,192,Fixed Threshold,128.9,4.840798832148816,10,3.0003582008375824
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,192,Robust Batch-Level Query Routing,79.3,6.325433669805661,10,3.9205444066410524
+llm_stationary_34_ori_mmlu_conceptual_physics_iid,192,WISERouter-Offline,114.5,9.360080721399314,10,5.80143813588014
+llm_stationary_35_stemez_optics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,24,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,24,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,48,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,48,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,72,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,72,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,72,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,72,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,96,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,96,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,96,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,96,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,120,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,120,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,120,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,120,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,144,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,144,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,144,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,144,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,192,BatchPace,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,192,Equal Split,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,192,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,192,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_35_stemez_optics_iid,192,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,24,BatchPace,2.1,1.7919573407620815,10,1.1106666666666665
+llm_stationary_36_stemez_physics_iid,24,Equal Split,5.3,1.4181364924121764,10,0.8789701044088156
+llm_stationary_36_stemez_physics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,24,Robust Batch-Level Query Routing,16.0,2.8674417556808756,10,1.777258813141431
+llm_stationary_36_stemez_physics_iid,24,WISERouter-Offline,8.2,2.2010098692292237,10,1.3642000504976453
+llm_stationary_36_stemez_physics_iid,48,BatchPace,5.5,2.41522945769824,10,1.4969747270189078
+llm_stationary_36_stemez_physics_iid,48,Equal Split,12.6,2.6749870196985173,10,1.6579741319520704
+llm_stationary_36_stemez_physics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,48,Robust Batch-Level Query Routing,22.8,4.211096452627668,10,2.6100646224439217
+llm_stationary_36_stemez_physics_iid,48,WISERouter-Offline,17.3,5.888784066153027,10,3.6499061783984406
+llm_stationary_36_stemez_physics_iid,72,BatchPace,11.2,1.751190071541826,10,1.0853988514212949
+llm_stationary_36_stemez_physics_iid,72,Equal Split,18.3,4.083843505544474,10,2.5311924287005736
+llm_stationary_36_stemez_physics_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,72,Robust Batch-Level Query Routing,24.3,4.691600058733812,10,2.9078838430110032
+llm_stationary_36_stemez_physics_iid,72,WISERouter-Offline,25.5,5.54276304943863,10,3.435440130301922
+llm_stationary_36_stemez_physics_iid,96,BatchPace,16.4,2.9514591494904874,10,1.8293333333333333
+llm_stationary_36_stemez_physics_iid,96,Equal Split,21.6,3.627058802329451,10,2.248074336453806
+llm_stationary_36_stemez_physics_iid,96,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,96,Robust Batch-Level Query Routing,24.9,4.886489310105751,10,3.0286774524718063
+llm_stationary_36_stemez_physics_iid,96,WISERouter-Offline,30.7,5.478239782184704,10,3.395448194928682
+llm_stationary_36_stemez_physics_iid,120,BatchPace,21.7,3.3015148038438356,10,2.0463000757464678
+llm_stationary_36_stemez_physics_iid,120,Equal Split,23.9,3.3149493041204856,10,2.0546268652861417
+llm_stationary_36_stemez_physics_iid,120,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,120,Robust Batch-Level Query Routing,24.9,4.886489310105751,10,3.0286774524718063
+llm_stationary_36_stemez_physics_iid,120,WISERouter-Offline,32.7,5.657836257007719,10,3.506763243283533
+llm_stationary_36_stemez_physics_iid,144,BatchPace,28.4,5.168279318217148,10,3.2033327089836363
+llm_stationary_36_stemez_physics_iid,144,Equal Split,26.7,3.743141876967946,10,2.320023371529788
+llm_stationary_36_stemez_physics_iid,144,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_36_stemez_physics_iid,144,Robust Batch-Level Query Routing,24.9,4.886489310105751,10,3.0286774524718063
+llm_stationary_36_stemez_physics_iid,144,WISERouter-Offline,34.7,5.598610938835136,10,3.470055010771122
+llm_stationary_36_stemez_physics_iid,192,BatchPace,32.4,5.985166849990251,10,3.709644846732486
+llm_stationary_36_stemez_physics_iid,192,Equal Split,34.0,2.9439202887759492,10,1.824660699052475
+llm_stationary_36_stemez_physics_iid,192,Fixed Threshold,22.0,3.6514837167011076,10,2.263213055223333
+llm_stationary_36_stemez_physics_iid,192,Robust Batch-Level Query Routing,25.6,4.718756898449704,10,2.9247158266516537
+llm_stationary_36_stemez_physics_iid,192,WISERouter-Offline,39.1,6.919376979018976,10,4.288674283634875
+llm_stationary_37_theoremqa_physics_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,24,BatchPace,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,24,Equal Split,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,24,Robust Batch-Level Query Routing,23.2,0.7888106377466155,10,0.4889098985384617
+llm_stationary_37_theoremqa_physics_iid,24,WISERouter-Offline,5.9,1.9692073983655907,10,1.220527390561601
+llm_stationary_37_theoremqa_physics_iid,48,BatchPace,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,48,Equal Split,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_37_theoremqa_physics_iid,48,Robust Batch-Level Query Routing,43.7,2.0027758514399725,10,1.2413333333333325
+llm_stationary_37_theoremqa_physics_iid,48,WISERouter-Offline,12.2,3.583914681524163,10,2.221333333333333
+llm_stationary_37_theoremqa_physics_iid,72,BatchPace,6.6,2.4585451886114367,10,1.5238220951862385
+llm_stationary_37_theoremqa_physics_iid,72,Equal Split,0.4,0.5163977794943222,10,0.32006665972366855
+llm_stationary_37_theoremqa_physics_iid,72,Fixed Threshold,23.8,5.094659513211414,10,3.157702681099382
+llm_stationary_37_theoremqa_physics_iid,72,Robust Batch-Level Query Routing,59.5,3.100179206289712,10,1.9215109795274248
+llm_stationary_37_theoremqa_physics_iid,72,WISERouter-Offline,18.0,3.7712361663282534,10,2.33743639247978
+llm_stationary_37_theoremqa_physics_iid,96,BatchPace,16.6,5.378971401051816,10,3.3339210148612293
+llm_stationary_37_theoremqa_physics_iid,96,Equal Split,2.5,2.0138409955990952,10,1.2481915807367963
+llm_stationary_37_theoremqa_physics_iid,96,Fixed Threshold,30.8,4.4171383395939845,10,2.7377707070615758
+llm_stationary_37_theoremqa_physics_iid,96,Robust Batch-Level Query Routing,69.9,4.483302354291975,10,2.7787795882365316
+llm_stationary_37_theoremqa_physics_iid,96,WISERouter-Offline,22.8,4.661902329879224,10,2.889476999966141
+llm_stationary_37_theoremqa_physics_iid,120,BatchPace,26.1,4.840798832148815,10,3.000358200837582
+llm_stationary_37_theoremqa_physics_iid,120,Equal Split,6.1,3.3813212407775355,10,2.0957646178264704
+llm_stationary_37_theoremqa_physics_iid,120,Fixed Threshold,37.8,3.7653389990514508,10,2.333781290333589
+llm_stationary_37_theoremqa_physics_iid,120,Robust Batch-Level Query Routing,75.5,5.60257877132387,10,3.4725142988266517
+llm_stationary_37_theoremqa_physics_iid,120,WISERouter-Offline,27.0,4.690415759823429,10,2.907149806941499
+llm_stationary_37_theoremqa_physics_iid,144,BatchPace,35.1,3.7844711945293263,10,2.3456395479461225
+llm_stationary_37_theoremqa_physics_iid,144,Equal Split,12.4,4.575295983139597,10,2.835797830123532
+llm_stationary_37_theoremqa_physics_iid,144,Fixed Threshold,46.1,4.863697724525606,10,3.014551081375504
+llm_stationary_37_theoremqa_physics_iid,144,Robust Batch-Level Query Routing,78.0,5.868938953886337,10,3.637606050382281
+llm_stationary_37_theoremqa_physics_iid,144,WISERouter-Offline,32.9,5.3218626647276635,10,3.2985246533698804
+llm_stationary_37_theoremqa_physics_iid,192,BatchPace,47.6,4.880801391392833,10,3.025152043929178
+llm_stationary_37_theoremqa_physics_iid,192,Equal Split,34.0,3.0912061651652345,10,1.9159494310190501
+llm_stationary_37_theoremqa_physics_iid,192,Fixed Threshold,47.5,4.249182927993988,10,2.633670864444193
+llm_stationary_37_theoremqa_physics_iid,192,Robust Batch-Level Query Routing,78.9,5.743595467030114,10,3.5599173523490046
+llm_stationary_37_theoremqa_physics_iid,192,WISERouter-Offline,44.0,6.683312551921139,10,4.142360035857175
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,24,BatchPace,4.6,2.065591117977289,10,1.2802666388946742
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,24,Equal Split,1.2,1.1352924243950933,10,0.7036615347989084
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,24,Robust Batch-Level Query Routing,24.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,24,WISERouter-Offline,15.7,1.888562063228706,10,1.170542893988369
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,48,BatchPace,6.4,2.9514591494904874,10,1.8293333333333333
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,48,Equal Split,6.7,3.5916569992135945,10,2.226132071553707
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,48,Robust Batch-Level Query Routing,48.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,48,WISERouter-Offline,32.2,1.9888578520235065,10,1.232706867922063
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,72,BatchPace,8.6,4.74224513167433,10,2.9392739844314537
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,72,Equal Split,17.6,5.103375789067902,10,3.163105084845866
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,72,Fixed Threshold,36.4,4.575295983139599,10,2.835797830123533
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,72,Robust Batch-Level Query Routing,72.0,0.0,10,0.0
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,72,WISERouter-Offline,48.2,4.049691346263316,10,2.5100247010736756
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,96,BatchPace,28.2,7.583608053631933,10,4.7003689689687596
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,96,Equal Split,33.8,5.940445175985459,10,3.681926066008871
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,96,Fixed Threshold,49.2,5.370702416299422,10,3.3287958450132953
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,96,Robust Batch-Level Query Routing,95.9,0.3162277660168395,10,0.19600000000000092
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,96,WISERouter-Offline,62.8,4.263540521418528,10,2.6425697930444727
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,120,BatchPace,52.1,7.578478299324566,10,4.697189514308885
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,120,Equal Split,53.0,6.271629240742261,10,3.8871960760081725
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,120,Fixed Threshold,59.5,5.9113826169894,10,3.6639129053210002
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,120,Robust Batch-Level Query Routing,119.4,0.6992058987801008,10,0.433372305939772
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,120,WISERouter-Offline,77.0,4.714045207910323,10,2.921795490599729
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,144,BatchPace,74.2,7.0047602861673015,10,4.341595405685178
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,144,Equal Split,73.5,6.737127643802576,10,4.175714975373144
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,144,Fixed Threshold,68.1,6.9833134446813006,10,4.328302515613556
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,144,Robust Batch-Level Query Routing,141.4,1.5776212754932277,10,0.9778197970769213
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,144,WISERouter-Offline,92.9,4.121757985239903,10,2.5546920666795754
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,192,BatchPace,113.9,8.345990387938125,10,5.172898435328324
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,192,Equal Split,109.5,7.1840873540841015,10,4.45274347390959
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,192,Fixed Threshold,68.6,6.915361322607966,10,4.286185354005223
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,192,Robust Batch-Level Query Routing,178.2,4.939635614091389,10,3.0616178729554093
+llm_stationary_38_ori_mmlu_high_school_psychology_iid,192,WISERouter-Offline,120.3,6.832113712298545,10,4.234587950569821
+llm_stationary_39_ori_mmlu_professional_psychology_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_39_ori_mmlu_professional_psychology_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_39_ori_mmlu_professional_psychology_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_39_ori_mmlu_professional_psychology_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_39_ori_mmlu_professional_psychology_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_39_ori_mmlu_professional_psychology_iid,24,BatchPace,23.2,1.3984117975602022,10,0.8667446118795444
+llm_stationary_39_ori_mmlu_professional_psychology_iid,24,Equal Split,17.1,2.4698178070456933,10,1.5308089364777038
+llm_stationary_39_ori_mmlu_professional_psychology_iid,24,Fixed Threshold,23.6,1.264911064067352,10,0.7840000000000001
+llm_stationary_39_ori_mmlu_professional_psychology_iid,24,Robust Batch-Level Query Routing,5.9,1.5951314818673865,10,0.9886727354275416
+llm_stationary_39_ori_mmlu_professional_psychology_iid,24,WISERouter-Offline,12.1,1.5951314818673867,10,0.9886727354275417
+llm_stationary_39_ori_mmlu_professional_psychology_iid,48,BatchPace,26.8,3.9101008796307144,10,2.4235056334895435
+llm_stationary_39_ori_mmlu_professional_psychology_iid,48,Equal Split,25.3,4.3982319680121975,10,2.726052416549942
+llm_stationary_39_ori_mmlu_professional_psychology_iid,48,Fixed Threshold,23.8,3.7653389990514503,10,2.333781290333589
+llm_stationary_39_ori_mmlu_professional_psychology_iid,48,Robust Batch-Level Query Routing,21.6,3.438345855527367,10,2.131108840225878
+llm_stationary_39_ori_mmlu_professional_psychology_iid,48,WISERouter-Offline,26.0,3.018461712712471,10,1.8708619522681094
+llm_stationary_39_ori_mmlu_professional_psychology_iid,72,BatchPace,32.2,4.211096452627668,10,2.6100646224439217
+llm_stationary_39_ori_mmlu_professional_psychology_iid,72,Equal Split,30.2,5.072803301265813,10,3.1441560605881715
+llm_stationary_39_ori_mmlu_professional_psychology_iid,72,Fixed Threshold,29.9,5.363456596884761,10,3.324304839611835
+llm_stationary_39_ori_mmlu_professional_psychology_iid,72,Robust Batch-Level Query Routing,41.3,4.321779468896785,10,2.6786666666666665
+llm_stationary_39_ori_mmlu_professional_psychology_iid,72,WISERouter-Offline,34.4,2.796823595120404,10,1.7334892237590886
+llm_stationary_39_ori_mmlu_professional_psychology_iid,96,BatchPace,36.3,4.9899899799498595,10,3.0928278322596614
+llm_stationary_39_ori_mmlu_professional_psychology_iid,96,Equal Split,35.6,5.89161362540952,10,3.6516599573953274
+llm_stationary_39_ori_mmlu_professional_psychology_iid,96,Fixed Threshold,29.9,5.363456596884761,10,3.324304839611835
+llm_stationary_39_ori_mmlu_professional_psychology_iid,96,Robust Batch-Level Query Routing,61.5,4.1163630117428225,10,2.55134822746284
+llm_stationary_39_ori_mmlu_professional_psychology_iid,96,WISERouter-Offline,47.5,3.5039660069381062,10,2.1717806314430352
+llm_stationary_39_ori_mmlu_professional_psychology_iid,120,BatchPace,39.2,5.613475849338902,10,3.4792683777547886
+llm_stationary_39_ori_mmlu_professional_psychology_iid,120,Equal Split,44.6,5.89161362540952,10,3.6516599573953274
+llm_stationary_39_ori_mmlu_professional_psychology_iid,120,Fixed Threshold,29.9,5.363456596884761,10,3.324304839611835
+llm_stationary_39_ori_mmlu_professional_psychology_iid,120,Robust Batch-Level Query Routing,80.0,3.999999999999999,10,2.4792256855720085
+llm_stationary_39_ori_mmlu_professional_psychology_iid,120,WISERouter-Offline,59.0,3.6209268304000717,10,2.244273700876175
+llm_stationary_39_ori_mmlu_professional_psychology_iid,144,BatchPace,46.4,6.0955357070199785,10,3.778052173041317
+llm_stationary_39_ori_mmlu_professional_psychology_iid,144,Equal Split,56.7,6.219146064997813,10,3.8546666666666667
+llm_stationary_39_ori_mmlu_professional_psychology_iid,144,Fixed Threshold,29.9,5.363456596884761,10,3.324304839611835
+llm_stationary_39_ori_mmlu_professional_psychology_iid,144,Robust Batch-Level Query Routing,98.9,3.5418137224372,10,2.1952388885444294
+llm_stationary_39_ori_mmlu_professional_psychology_iid,144,WISERouter-Offline,71.6,3.4058772731852787,10,2.1109846043967244
+llm_stationary_39_ori_mmlu_professional_psychology_iid,192,BatchPace,76.7,4.9899899799498595,10,3.0928278322596614
+llm_stationary_39_ori_mmlu_professional_psychology_iid,192,Equal Split,79.7,4.191260749066641,10,2.597770326003949
+llm_stationary_39_ori_mmlu_professional_psychology_iid,192,Fixed Threshold,61.0,4.163331998932265,10,2.5804599073291823
+llm_stationary_39_ori_mmlu_professional_psychology_iid,192,Robust Batch-Level Query Routing,133.1,5.043147165543885,10,3.1257749972340183
+llm_stationary_39_ori_mmlu_professional_psychology_iid,192,WISERouter-Offline,92.1,2.183269719175043,10,1.3532045915775888
+llm_stationary_40_stemez_psychology_iid,0,BatchPace,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,0,Equal Split,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,0,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,0,Robust Batch-Level Query Routing,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,0,WISERouter-Offline,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,24,BatchPace,16.6,2.3664319132398477,10,1.466729695615386
+llm_stationary_40_stemez_psychology_iid,24,Equal Split,18.9,1.9692073983655907,10,1.220527390561601
+llm_stationary_40_stemez_psychology_iid,24,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,24,Robust Batch-Level Query Routing,19.8,2.936362072739365,10,1.8199760682187245
+llm_stationary_40_stemez_psychology_iid,24,WISERouter-Offline,9.2,2.485513584307633,10,1.5405372800134083
+llm_stationary_40_stemez_psychology_iid,48,BatchPace,30.6,3.6575644598253874,10,2.2669819388586028
+llm_stationary_40_stemez_psychology_iid,48,Equal Split,31.4,3.098386676965934,10,1.920399958342012
+llm_stationary_40_stemez_psychology_iid,48,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,48,Robust Batch-Level Query Routing,33.4,4.351245032554858,10,2.696929612231904
+llm_stationary_40_stemez_psychology_iid,48,WISERouter-Offline,21.1,3.2812599206199238,10,2.033745969059722
+llm_stationary_40_stemez_psychology_iid,72,BatchPace,43.7,5.774464862170732,10,3.5790504016816778
+llm_stationary_40_stemez_psychology_iid,72,Equal Split,39.4,3.8064273129653867,10,2.359248091141658
+llm_stationary_40_stemez_psychology_iid,72,Fixed Threshold,0.0,0.0,10,0.0
+llm_stationary_40_stemez_psychology_iid,72,Robust Batch-Level Query Routing,41.2,5.138093031466052,10,3.1846230546172962
+llm_stationary_40_stemez_psychology_iid,72,WISERouter-Offline,30.5,3.5355339059327373,10,2.191346617949794
+llm_stationary_40_stemez_psychology_iid,96,BatchPace,53.1,6.190494505467412,10,3.8369082460868
+llm_stationary_40_stemez_psychology_iid,96,Equal Split,46.4,5.58171618371586,10,3.4595835330603335
+llm_stationary_40_stemez_psychology_iid,96,Fixed Threshold,39.5,4.428443418528807,10,2.7447776675797337
+llm_stationary_40_stemez_psychology_iid,96,Robust Batch-Level Query Routing,46.8,5.940445175985458,10,3.68192606600887
+llm_stationary_40_stemez_psychology_iid,96,WISERouter-Offline,41.4,4.550946177566937,10,2.820705664269926
+llm_stationary_40_stemez_psychology_iid,120,BatchPace,58.4,7.306009702825324,10,4.528311728570716
+llm_stationary_40_stemez_psychology_iid,120,Equal Split,56.2,6.47731082746193,10,4.0146788442193255
+llm_stationary_40_stemez_psychology_iid,120,Fixed Threshold,39.5,4.428443418528807,10,2.7447776675797337
+llm_stationary_40_stemez_psychology_iid,120,Robust Batch-Level Query Routing,53.4,7.471427053931681,10,4.630838464996257
+llm_stationary_40_stemez_psychology_iid,120,WISERouter-Offline,49.8,4.917090377222873,10,3.047644190372477
+llm_stationary_40_stemez_psychology_iid,144,BatchPace,68.6,7.183313998427187,10,4.4522641431074135
+llm_stationary_40_stemez_psychology_iid,144,Equal Split,69.6,6.4152595859836845,10,3.9762190862957008
+llm_stationary_40_stemez_psychology_iid,144,Fixed Threshold,39.5,4.428443418528807,10,2.7447776675797337
+llm_stationary_40_stemez_psychology_iid,144,Robust Batch-Level Query Routing,61.5,7.905694150420948,10,4.8999999999999995
+llm_stationary_40_stemez_psychology_iid,144,WISERouter-Offline,59.3,6.290204024248074,10,3.898708846101061
+llm_stationary_40_stemez_psychology_iid,192,BatchPace,110.4,9.191783770786218,10,5.697126605189282
+llm_stationary_40_stemez_psychology_iid,192,Equal Split,104.8,8.189424074174365,10,5.075857628683714
+llm_stationary_40_stemez_psychology_iid,192,Fixed Threshold,127.4,6.32806798671162,10,3.92217717317535
+llm_stationary_40_stemez_psychology_iid,192,Robust Batch-Level Query Routing,79.2,7.62743585864724,10,4.727533723952807
+llm_stationary_40_stemez_psychology_iid,192,WISERouter-Offline,81.6,6.979334575094613,10,4.325836386693842

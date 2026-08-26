@@ -1,0 +1,242 @@
+[
+  {
+    "environment_id": "llm_01_history_to_psychology_iid",
+    "pre_category": "history",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_02_history_to_psychology_batch_bursty",
+    "pre_category": "history",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_03_engineering_to_psychology_iid",
+    "pre_category": "engineering",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_04_engineering_to_psychology_batch_bursty",
+    "pre_category": "engineering",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_05_biology_to_history_iid",
+    "pre_category": "biology",
+    "post_category": "history",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_06_biology_to_history_batch_bursty",
+    "pre_category": "biology",
+    "post_category": "history",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_07_chemistry_to_psychology_iid",
+    "pre_category": "chemistry",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_08_chemistry_to_psychology_batch_bursty",
+    "pre_category": "chemistry",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_09_biology_to_engineering_iid",
+    "pre_category": "biology",
+    "post_category": "engineering",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_10_biology_to_engineering_batch_bursty",
+    "pre_category": "biology",
+    "post_category": "engineering",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_11_physics_to_psychology_iid",
+    "pre_category": "physics",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_12_physics_to_psychology_batch_bursty",
+    "pre_category": "physics",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_13_business_to_psychology_iid",
+    "pre_category": "business",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_14_business_to_psychology_batch_bursty",
+    "pre_category": "business",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_15_biology_to_chemistry_iid",
+    "pre_category": "biology",
+    "post_category": "chemistry",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_16_biology_to_chemistry_batch_bursty",
+    "pre_category": "biology",
+    "post_category": "chemistry",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_17_math_to_psychology_iid",
+    "pre_category": "math",
+    "post_category": "psychology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_18_math_to_psychology_batch_bursty",
+    "pre_category": "math",
+    "post_category": "psychology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_19_biology_to_physics_iid",
+    "pre_category": "biology",
+    "post_category": "physics",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_20_biology_to_physics_batch_bursty",
+    "pre_category": "biology",
+    "post_category": "physics",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_21_psychology_to_history_iid",
+    "pre_category": "psychology",
+    "post_category": "history",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_22_psychology_to_history_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "history",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_23_psychology_to_engineering_iid",
+    "pre_category": "psychology",
+    "post_category": "engineering",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_24_psychology_to_engineering_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "engineering",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_25_history_to_biology_iid",
+    "pre_category": "history",
+    "post_category": "biology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_26_history_to_biology_batch_bursty",
+    "pre_category": "history",
+    "post_category": "biology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_27_psychology_to_chemistry_iid",
+    "pre_category": "psychology",
+    "post_category": "chemistry",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_28_psychology_to_chemistry_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "chemistry",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_29_engineering_to_biology_iid",
+    "pre_category": "engineering",
+    "post_category": "biology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_30_engineering_to_biology_batch_bursty",
+    "pre_category": "engineering",
+    "post_category": "biology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_31_psychology_to_physics_iid",
+    "pre_category": "psychology",
+    "post_category": "physics",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_32_psychology_to_physics_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "physics",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_33_psychology_to_business_iid",
+    "pre_category": "psychology",
+    "post_category": "business",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_34_psychology_to_business_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "business",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_35_chemistry_to_biology_iid",
+    "pre_category": "chemistry",
+    "post_category": "biology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_36_chemistry_to_biology_batch_bursty",
+    "pre_category": "chemistry",
+    "post_category": "biology",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_37_psychology_to_math_iid",
+    "pre_category": "psychology",
+    "post_category": "math",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_38_psychology_to_math_batch_bursty",
+    "pre_category": "psychology",
+    "post_category": "math",
+    "regime": "batch_bursty"
+  },
+  {
+    "environment_id": "llm_39_physics_to_biology_iid",
+    "pre_category": "physics",
+    "post_category": "biology",
+    "regime": "iid"
+  },
+  {
+    "environment_id": "llm_40_physics_to_biology_batch_bursty",
+    "pre_category": "physics",
+    "post_category": "biology",
+    "regime": "batch_bursty"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "rank":1,
+    "environment_id":"llm_stationary_02_ori_mmlu_college_biology_iid",
+    "mean_batchpace_gain":78.914285714285711,
+    "best_competitor_gain":71.114285714285714,
+    "mean_competitor_gain":43.957142857142856,
+    "mean_margin":7.799999999999997,
+    "mean_margin_over_average_competitor":34.957142857142856,
+    "category":"biology",
+    "source":"ori_mmlu-college_biology",
+    "subject_label":"College Biology (MMLU)"
+  },
+  {
+    "rank":2,
+    "environment_id":"llm_stationary_24_ori_mmlu_elementary_mathematics_iid",
+    "mean_batchpace_gain":58.357142857142854,
+    "best_competitor_gain":51.600000000000001,
+    "mean_competitor_gain":45.821428571428569,
+    "mean_margin":6.757142857142853,
+    "mean_margin_over_average_competitor":12.535714285714285,
+    "category":"math",
+    "source":"ori_mmlu-elementary_mathematics",
+    "subject_label":"Elementary Mathematics (MMLU)"
+  },
+  {
+    "rank":3,
+    "environment_id":"llm_stationary_33_ori_mmlu_philosophy_iid",
+    "mean_batchpace_gain":47.671428571428571,
+    "best_competitor_gain":44.071428571428569,
+    "mean_competitor_gain":20.092857142857142,
+    "mean_margin":3.600000000000001,
+    "mean_margin_over_average_competitor":27.578571428571429,
+    "category":"philosophy",
+    "source":"ori_mmlu-philosophy",
+    "subject_label":"Philosophy (MMLU)"
+  },
+  {
+    "rank":4,
+    "environment_id":"llm_stationary_04_stemez_business_iid",
+    "mean_batchpace_gain":42.128571428571426,
+    "best_competitor_gain":39.414285714285711,
+    "mean_competitor_gain":29.042857142857141,
+    "mean_margin":2.714285714285715,
+    "mean_margin_over_average_competitor":13.085714285714285,
+    "category":"business",
+    "source":"stemez-Business",
+    "subject_label":"Business (STEM-EZ)"
+  },
+  {
+    "rank":5,
+    "environment_id":"llm_stationary_21_ori_mmlu_high_school_world_history_iid",
+    "mean_batchpace_gain":46.071428571428569,
+    "best_competitor_gain":43.528571428571432,
+    "mean_competitor_gain":28.407142857142858,
+    "mean_margin":2.542857142857137,
+    "mean_margin_over_average_competitor":17.664285714285711,
+    "category":"history",
+    "source":"ori_mmlu-high_school_world_history",
+    "subject_label":"High School World History (MMLU)"
+  },
+  {
+    "rank":6,
+    "environment_id":"llm_stationary_40_stemez_psychology_iid",
+    "mean_batchpace_gain":54.485714285714288,
+    "best_competitor_gain":52.385714285714286,
+    "mean_competitor_gain":44.31428571428571,
+    "mean_margin":2.100000000000001,
+    "mean_margin_over_average_competitor":10.171428571428578,
+    "category":"psychology",
+    "source":"stemez-Psychology",
+    "subject_label":"Psychology (STEM-EZ)"
+  },
+  {
+    "rank":7,
+    "environment_id":"llm_stationary_12_stemez_electriccircuits_iid",
+    "mean_batchpace_gain":86.571428571428569,
+    "best_competitor_gain":86.571428571428569,
+    "mean_competitor_gain":55.035714285714285,
+    "mean_margin":0.0,
+    "mean_margin_over_average_competitor":31.535714285714285,
+    "category":"engineering",
+    "source":"stemez-ElectricCircuits",
+    "subject_label":"Electric Circuits (STEM-EZ)"
+  },
+  {
+    "rank":8,
+    "environment_id":"llm_stationary_14_stemez_fluidmechanics_iid",
+    "mean_batchpace_gain":84.928571428571431,
+    "best_competitor_gain":84.928571428571431,
+    "mean_competitor_gain":72.742857142857147,
+    "mean_margin":0.0,
+    "mean_margin_over_average_competitor":12.185714285714283,
+    "category":"engineering",
+    "source":"stemez-FluidMechanics",
+    "subject_label":"Fluid Mechanics (STEM-EZ)"
+  }
+]
