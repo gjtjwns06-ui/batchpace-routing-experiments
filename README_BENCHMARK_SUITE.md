@@ -1,5 +1,9 @@
 # BatchPace 40 + 40 benchmark suite
 
+> This guide covers the original distribution-shift suite. For all five suites,
+> including the stationary Beta and LLM experiments, see the
+> [project README](README.md) and the Korean [experiment record](docs/EXPERIMENTS.md).
+
 This directory contains a reproducible comparison of seven routing policies on
 40 synthetic and 40 Qwen/MMLU-Pro-derived environments. Every environment has
 24 batches of 20 queries (480 total), and the workload changes after batch 12.

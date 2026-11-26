@@ -3,6 +3,13 @@
 이 문서는 다른 연구자나 개발자가 현재 프로젝트를 바로 이어받을 수 있도록
 실험 목적, 구현 상태, 재실행 순서, 산출물, 검증 결과와 주의점을 정리한다.
 
+> **문서 범위:** 아래 상태·집계는 초기 40 + 40 distribution-shift 실험의
+> 인수인계 기록입니다. 이후 stationary Beta 40개, LLM 세부 과목 40개,
+> LLM 대분류 14개 실험을 추가했습니다. 전체 174개 환경 설정과 94,240개
+> 정책 실행에 대한 최신 안내는 [README](README.md)와
+> [상세 실험 기록](docs/EXPERIMENTS.md)을 참고하세요. 로컬 추론 환경과
+> 초기 실험 재현 명령은 아래에 보존합니다.
+
 ## 1. 현재 상태
 
 - GitHub: <https://github.com/gjtjwns06-ui/batchpace-routing-experiments>
