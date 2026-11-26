@@ -3,6 +3,7 @@
 ![BatchPace 연구 개요: 하나의 전역 예산 아래 배치별로 질의를 라우팅하며, 174개 환경 설정과 94,240개 정책 실행을 비교합니다.](docs/assets/batchpace-overview.svg)
 
 <p align="center">
+  <img alt="Accepted to the NeurIPS ML×OR Workshop" src="https://img.shields.io/badge/NeurIPS%20ML%C3%97OR-Accepted-7C3AED?style=flat-square" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
   <img alt="Synthetic and LLM experiments" src="https://img.shields.io/badge/Experiments-Synthetic%20%2B%20LLM-0F766E?style=flat-square" />
   <img alt="Cached replay" src="https://img.shields.io/badge/Reproduction-Cached%20replay-475569?style=flat-square" />
@@ -17,6 +18,9 @@
   <a href="#빠른-재현">빠른 재현</a> ·
   <a href="docs/EXPERIMENTS.md">상세 실험 기록</a>
 </p>
+
+> [!NOTE]
+> 이 연구는 **NeurIPS ML×OR (Machine Learning × Operations Research) 워크숍에 채택**되었습니다.
 
 ## 연구 질문
 
